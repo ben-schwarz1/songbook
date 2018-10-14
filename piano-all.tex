@@ -1,0 +1,34 @@
+%!TEX program = lualatex
+\documentclass[twoside,a4paper]{article}
+\input{style.tex}
+
+\begin{document}
+\strut
+\vfill
+\begin{center}
+\sffamily
+\bfseries
+\fontsize{110pt}{90pt}
+\selectfont
+Songbook
+\end{center}
+\vfill
+
+\cleardoublepage
+
+%-----------------------------------------------------------------------
+% Table of contents
+%-----------------------------------------------------------------------
+
+\begin{multicols}{2}
+\tableofcontents
+\end{multicols}
+
+%-----------------------------------------------------------------------
+% Songs
+%-----------------------------------------------------------------------
+
+\begin{multicols}{2}
+\include{songs}
+\end{multicols}
+\end{document}

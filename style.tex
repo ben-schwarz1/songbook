@@ -1,0 +1,92 @@
+\usepackage{schule-formatierung}
+\usepackage[
+  bottom=0.8cm,
+  footskip=0cm,
+  headsep=0cm,
+  includeheadfoot,
+  inner=1cm,
+  landscape,
+  outer=0.5cm,
+  %showframe,
+  top=0.5cm,
+  nomarginpar,
+]{geometry}
+
+% Innenraum der einzelnen Kacheln
+% 19.2 auf 14.1 = 1,361702128
+
+% 5 / 7 = 1,4
+% √2 = 1,414213562
+% Din A4 297 / 210 = 1,414285714
+
+%-----------------------------------------------------------------------
+% multicol
+%-----------------------------------------------------------------------
+
+\usepackage{multicol}
+\setlength{\columnseprule}{0pt}
+
+%-----------------------------------------------------------------------
+% fancyhdr
+%-----------------------------------------------------------------------
+
+\def\tmpABC{{\sffamily\bfseries\leftmark}}
+\usepackage{fancyhdr}
+\fancyhead{} % clear all header fields
+% Outer
+% \left: A
+% \right: Auf der Mauer, auf der Lauer
+\fancyhead[LE]{
+  \tmpABC
+  \hspace{1cm}
+  \rightmark
+}
+\fancyhead[RO]{
+  \rightmark
+  \hspace{1cm}
+  \tmpABC
+}
+% Inner
+\fancyhead[LO,RE]{}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\raisebox{10cm}{\thepage}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\pagestyle{fancy}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+\renewcommand{\subsectionmark}[1]{\markright{#1}}
+
+%-----------------------------------------------------------------------
+% Custom macros
+%-----------------------------------------------------------------------
+
+%%
+%
+%%
+\newcommand{\tmpheading}[1]{%
+  \subsection{#1}%
+}
+
+%%
+%
+%%
+\newcommand{\tmpimage}[1]{%
+  \begin{center}
+  \includegraphics[scale=0.95]{#1}%
+  \end{center}
+}
+
+%%
+%
+%%
+\newcommand{\tmpchapter}[1]{%
+\end{multicols}
+
+\cleardoublepage
+
+\section{#1}%
+
+\begin{multicols}{2}
+}
+
+\setcounter{secnumdepth}{-1}
