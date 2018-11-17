@@ -203,6 +203,11 @@
           <root>14</root>
           <rootCase>1</rootCase>
           </Harmony>
+        <Tempo>
+          <tempo>3.33333</tempo>
+          <followText>1</followText>
+          <text><sym>unicodeNoteHalfUp</sym> = 100</text>
+          </Tempo>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -4806,8 +4811,12 @@
           <durationType>quarter</durationType>
           <Note>
             <track>5</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           <Note>
             <track>5</track>
@@ -5155,11 +5164,11 @@
           <Note>
             <track>5</track>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>sharp</subtype>
               <track>5</track>
               </Accidental>
-            <pitch>64</pitch>
-            <tpc>6</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
