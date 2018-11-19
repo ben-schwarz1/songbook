@@ -1325,7 +1325,8 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>say,</text>
+            <ticks>240</ticks>
+            <text>say.</text>
             </Lyrics>
           <Note>
             <Tie id="6">
@@ -1532,6 +1533,9 @@
         <Slur id="7">
           <track>0</track>
           </Slur>
+        <Slur id="8">
+          <track>0</track>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1541,6 +1545,7 @@
             <text>day.</text>
             </Lyrics>
           <Slur type="start" id="7"/>
+          <Slur type="start" id="8"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1566,6 +1571,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Slur type="stop" id="7"/>
+          <Slur type="stop" id="8"/>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1747,7 +1753,7 @@
             <text>play.</text>
             </Lyrics>
           <Note>
-            <Tie id="8">
+            <Tie id="9">
               </Tie>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1762,7 +1768,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="8"/>
+            <endSpanner id="9"/>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -1887,7 +1893,7 @@
             <text>way!</text>
             </Lyrics>
           <Note>
-            <Tie id="9">
+            <Tie id="10">
               </Tie>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1897,7 +1903,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="9"/>
+            <endSpanner id="10"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -1962,7 +1968,7 @@
             <text>lieve</text>
             </Lyrics>
           <Note>
-            <Tie id="10">
+            <Tie id="11">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1972,7 +1978,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="10"/>
+            <endSpanner id="11"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2033,7 +2039,7 @@
             <text>day.</text>
             </Lyrics>
           <Note>
-            <Tie id="11">
+            <Tie id="12">
               </Tie>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -2043,7 +2049,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="11"/>
+            <endSpanner id="12"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2055,7 +2061,14 @@
           <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="12">
+        <Slur id="13">
+          <track>0</track>
+          <SlurSegment no="0">
+            <o2 x="-1.17464" y="0.632499"/>
+            <o3 x="-1.17464" y="0.632499"/>
+            </SlurSegment>
+          </Slur>
+        <Slur id="14">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-1.17464" y="0.632499"/>
@@ -2069,7 +2082,8 @@
             <ticks>2880</ticks>
             <text>Mm.</text>
             </Lyrics>
-          <Slur type="start" id="12"/>
+          <Slur type="start" id="13"/>
+          <Slur type="start" id="14"/>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -2135,7 +2149,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="13">
+            <Tie id="15">
               </Tie>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -2147,9 +2161,10 @@
           <Articulation>
             <subtype>fermata</subtype>
             </Articulation>
-          <Slur type="stop" id="12"/>
+          <Slur type="stop" id="13"/>
+          <Slur type="stop" id="14"/>
           <Note>
-            <endSpanner id="13"/>
+            <endSpanner id="15"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>

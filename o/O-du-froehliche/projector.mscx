@@ -500,23 +500,23 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <Text>
-          <style>Title</style>
-          <text>O du fröhliche</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
+        <KeySig>
+          <accidental>2</accidental>
+          </KeySig>
         <TimeSig>
+          <subtype>2</subtype>
           <sigN>2</sigN>
           <sigD>2</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -526,12 +526,12 @@
             <text>O</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>13</root>
+          <root>15</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -541,14 +541,14 @@
             <text>du</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="2">
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -560,8 +560,8 @@
             <text>fröh</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -572,14 +572,20 @@
             <text>li</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Slur id="2">
           <track>0</track>
           </Slur>
         <Slur id="3">
+          <track>0</track>
+          </Slur>
+        <Slur id="4">
+          <track>0</track>
+          </Slur>
+        <Slur id="5">
           <track>0</track>
           </Slur>
         <Chord>
@@ -592,9 +598,11 @@
             </Lyrics>
           <Slur type="start" id="2"/>
           <Slur type="start" id="3"/>
+          <Slur type="start" id="4"/>
+          <Slur type="start" id="5"/>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -602,30 +610,32 @@
           <durationType>quarter</durationType>
           <Slur type="stop" id="2"/>
           <Slur type="stop" id="3"/>
+          <Slur type="stop" id="4"/>
+          <Slur type="stop" id="5"/>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="3">
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <text>O</text>
+            <text>o</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>13</root>
+          <root>15</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -635,8 +645,8 @@
             <text>du</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -645,7 +655,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -657,8 +667,8 @@
             <text>se</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -669,11 +679,14 @@
             <text>li</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="4">
+        <Slur id="6">
+          <track>0</track>
+          </Slur>
+        <Slur id="7">
           <track>0</track>
           </Slur>
         <Chord>
@@ -682,27 +695,29 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <ticks>480</ticks>
-            <text>ge</text>
+            <text>ge,</text>
             </Lyrics>
-          <Slur type="start" id="4"/>
+          <Slur type="start" id="6"/>
+          <Slur type="start" id="7"/>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="4"/>
+          <Slur type="stop" id="6"/>
+          <Slur type="stop" id="7"/>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="5">
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -713,12 +728,12 @@
             <text>gna</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -729,14 +744,14 @@
             <text>den</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="6">
         <Harmony>
-          <root>16</root>
+          <root>18</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -747,12 +762,12 @@
             <text>brin</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -763,15 +778,15 @@
             <text>gen</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>17</root>
+          <root>19</root>
           <rootCase>1</rootCase>
           <name>m</name>
-          <base>14</base>
+          <base>16</base>
           <baseCase>1</baseCase>
           </Harmony>
         <Chord>
@@ -782,16 +797,16 @@
             <text>de</text>
             </Lyrics>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="7">
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
-          <base>16</base>
+          <base>18</base>
           <baseCase>1</baseCase>
           </Harmony>
         <Chord>
@@ -802,12 +817,12 @@
             <text>Weih</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>16</root>
+          <root>18</root>
           <rootCase>1</rootCase>
           <name>43</name>
           </Harmony>
@@ -819,8 +834,8 @@
             <text>nachts</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -829,7 +844,7 @@
           <subtype>page</subtype>
           </LayoutBreak>
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -840,8 +855,8 @@
             <text>zeit!</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <BarLine>
@@ -851,14 +866,18 @@
         </Measure>
       <Measure number="9">
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="5">
+        <Slur id="8">
           <track>0</track>
           <SlurSegment no="0">
             <pos x="0.112209" y="0.112209"/>
             </SlurSegment>
+          <up>1</up>
+          </Slur>
+        <Slur id="9">
+          <track>0</track>
           <up>1</up>
           </Slur>
         <Chord>
@@ -880,19 +899,21 @@
             <syllabic>begin</syllabic>
             <text>3. Himm</text>
             </Lyrics>
-          <Slur type="start" id="5"/>
+          <Slur type="start" id="8"/>
+          <Slur type="start" id="9"/>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="5"/>
+          <Slur type="stop" id="8"/>
+          <Slur type="stop" id="9"/>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -912,12 +933,12 @@
             <text>li</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -939,18 +960,21 @@
             <text>sche</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="10">
         <Harmony>
-          <root>16</root>
+          <root>18</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
-        <Slur id="6">
+        <Slur id="10">
+          <track>0</track>
+          </Slur>
+        <Slur id="11">
           <track>0</track>
           </Slur>
         <Chord>
@@ -972,19 +996,21 @@
             <syllabic>begin</syllabic>
             <text>Hee</text>
             </Lyrics>
-          <Slur type="start" id="6"/>
+          <Slur type="start" id="10"/>
+          <Slur type="start" id="11"/>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="6"/>
+          <Slur type="stop" id="10"/>
+          <Slur type="stop" id="11"/>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1006,18 +1032,22 @@
             <text>re,</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="11">
         <Harmony>
-          <root>17</root>
+          <root>19</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
-        <Slur id="7">
+        <Slur id="12">
+          <track>0</track>
+          <up>1</up>
+          </Slur>
+        <Slur id="13">
           <track>0</track>
           <up>1</up>
           </Slur>
@@ -1040,19 +1070,21 @@
             <syllabic>begin</syllabic>
             <text>jauch</text>
             </Lyrics>
-          <Slur type="start" id="7"/>
+          <Slur type="start" id="12"/>
+          <Slur type="start" id="13"/>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="7"/>
+          <Slur type="stop" id="12"/>
+          <Slur type="stop" id="13"/>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1072,12 +1104,12 @@
             <text>zen</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>13</root>
+          <root>15</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -1097,17 +1129,20 @@
             <text>Dir</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="12">
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="8">
+        <Slur id="14">
+          <track>0</track>
+          </Slur>
+        <Slur id="15">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1129,23 +1164,25 @@
             <syllabic>begin</syllabic>
             <text>Eh</text>
             </Lyrics>
-          <Slur type="start" id="8"/>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Slur type="stop" id="8"/>
+          <Slur type="start" id="14"/>
+          <Slur type="start" id="15"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Slur type="stop" id="14"/>
+          <Slur type="stop" id="15"/>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -1153,13 +1190,13 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>ren</text>
+            <text>ren:</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>nen.</text>
+            <text>nen!</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1167,17 +1204,20 @@
             <text>re!</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="13">
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="9">
+        <Slur id="16">
+          <track>0</track>
+          </Slur>
+        <Slur id="17">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1198,72 +1238,79 @@
             <syllabic>begin</syllabic>
             <text>Freu</text>
             </Lyrics>
-          <Slur type="start" id="9"/>
+          <Slur type="start" id="16"/>
+          <Slur type="start" id="17"/>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="9"/>
+          <Slur type="stop" id="16"/>
+          <Slur type="stop" id="17"/>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <Slur id="18">
+          <track>0</track>
+          </Slur>
+        <Slur id="19">
+          <track>0</track>
+          </Slur>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <ticks>480</ticks>
+            <text>e,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <ticks>480</ticks>
+            <style>Lyrics Even Lines</style>
+            <text>e,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <ticks>480</ticks>
+            <text>e,</text>
+            </Lyrics>
+          <Slur type="start" id="18"/>
+          <Slur type="start" id="19"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>13</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="10">
-          <track>0</track>
-          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <ticks>480</ticks>
-            <text>e,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <ticks>480</ticks>
-            <style>Lyrics Even Lines</style>
-            <text>e,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>end</syllabic>
-            <ticks>480</ticks>
-            <text>e,</text>
-            </Lyrics>
-          <Slur type="start" id="10"/>
+          <Slur type="stop" id="18"/>
+          <Slur type="stop" id="19"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <root>14</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="stop" id="10"/>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="14">
         <Harmony>
-          <root>17</root>
+          <root>19</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
@@ -1286,12 +1333,12 @@
             <text>freu</text>
             </Lyrics>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>13</root>
+          <root>15</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
@@ -1313,14 +1360,14 @@
             <text>e</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
-          <base>18</base>
+          <base>20</base>
           <baseCase>1</baseCase>
           </Harmony>
         <Chord>
@@ -1339,12 +1386,12 @@
             <text>dich,</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>16</root>
+          <root>18</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
@@ -1352,28 +1399,28 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>O</text>
+            <text>o</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>O</text>
+            <text>o</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>O</text>
+            <text>o</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="15">
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
-          <base>15</base>
+          <base>17</base>
           <baseCase>1</baseCase>
           </Harmony>
         <Chord>
@@ -1395,12 +1442,12 @@
             <text>Chri</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
           <name>7</name>
           </Harmony>
@@ -1423,19 +1470,19 @@
             <text>sten</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="16">
         <Harmony>
-          <root>14</root>
+          <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>whole</durationType>
+          <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>heit!</text>
@@ -1452,10 +1499,13 @@
             <text>heit!</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
