@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -475,8 +478,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -496,14 +497,6 @@
     <Staff id="1">
       <VBox>
         <height>9.0642</height>
-        <Text>
-          <style>Composer</style>
-          <text>The Beatles</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>Yellow submarine</text>
-          </Text>
         </VBox>
       <Measure number="1" len="1/4">
         <stretch>0.8</stretch>
@@ -1538,6 +1531,10 @@
       <Measure number="10">
         <startRepeat/>
         <vspacerUp>24.5953</vspacerUp>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>16</root>
           </Harmony>

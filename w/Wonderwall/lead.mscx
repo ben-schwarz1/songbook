@@ -9,6 +9,7 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -448,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -475,16 +476,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -493,8 +484,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -520,14 +509,6 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <Text>
-          <style>Title</style>
-          <text>Wonderwall</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Oasis</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <startRepeat/>

@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -484,21 +487,15 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName/>
+      <trackName></trackName>
       <Instrument>
-        <trackName/>
+        <trackName></trackName>
         <Channel>
           <program value="0"/>
           <controller ctrl="10" value="63"/>
@@ -509,14 +506,6 @@
     <Staff id="1">
       <VBox>
         <height>9.28682</height>
-        <Text>
-          <style>Composer</style>
-          <text>Adele Adkins, Paul Epworth</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>Rolling in the deep</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <stretch>0.7</stretch>
@@ -2069,10 +2058,6 @@
         <startRepeat/>
         <stretch>0.7</stretch>
         <vspacerUp>13.5064</vspacerUp>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         <Harmony>
           <root>10</root>
           </Harmony>

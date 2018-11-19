@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -508,14 +511,6 @@
     <Staff id="1">
       <VBox>
         <height>9.52772</height>
-        <Text>
-          <style>Composer</style>
-          <text>Fredi Jirovec</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>Shalala</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>

@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -485,18 +488,10 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -514,9 +509,9 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName/>
+      <trackName></trackName>
       <Instrument>
-        <trackName/>
+        <trackName></trackName>
         <Channel>
           <program value="0"/>
           <controller ctrl="10" value="63"/>
@@ -527,22 +522,6 @@
     <Staff id="1">
       <VBox>
         <height>17.3009</height>
-        <Text>
-          <style>Title</style>
-          <text>Summer Dreaming</text>
-          </Text>
-        <Text>
-          <style>Subtitle</style>
-          <text>Bacardi Feeling</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Olivier Bloch-Lainé</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <text>Joe Hammer, Chris Trulio, Kate Yanai</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>

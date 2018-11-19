@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -483,8 +486,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -494,7 +495,7 @@
         </Staff>
       <trackName>[Unnamed (treble staff)]</trackName>
       <Instrument>
-        <trackName/>
+        <trackName></trackName>
         <Channel>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -504,19 +505,6 @@
     <Staff id="1">
       <VBox>
         <height>7.92504</height>
-        <Text>
-          <style>Title</style>
-          <text>Killing me softly</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>
-Charles Fox</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <text>Norman Gimbel</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>

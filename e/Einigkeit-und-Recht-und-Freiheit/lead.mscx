@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -498,18 +501,6 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <Text>
-          <style>Title</style>
-          <text>Einigkeit und Recht und Freiheit</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Joseph Haydn</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <text>Heinrich Hoffmann von Fallersleben</text>
-          </Text>
         </VBox>
       <Measure number="1" len="2/4">
         <stretch>0.9</stretch>
@@ -1186,10 +1177,6 @@
         <startRepeat/>
         <irregular/>
         <stretch>0.9</stretch>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>

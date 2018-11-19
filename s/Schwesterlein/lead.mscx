@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -497,15 +500,6 @@
     <Staff id="1">
       <VBox>
         <height>17.3535</height>
-        <Text>
-          <style>Composer</style>
-          <text>Anton Wilhelm Florentin von Zuccalmaglio</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>Schwesterlein, Schwesterlein, 
-wann gehn wir nach Haus?</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>
@@ -959,7 +953,7 @@ wann gehn wir nach Haus?</text>
         </Measure>
       <Measure number="5">
         <Harmony>
-          <name/>
+          <name></name>
           </Harmony>
         <Slur id="4">
           <track>0</track>

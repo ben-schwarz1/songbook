@@ -9,6 +9,19 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
+      <oddFooterR></oddFooterR>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0.5</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Measure Number</name>
+        <family>FreeSerif</family>
+        <size>10</size>
+        </TextStyle>
       <page-layout>
         <page-height>1088.5</page-height>
         <page-width>799.37</page-width>
@@ -20,7 +33,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance><TextStyle><name>Measure Number</name><xoffset>0.5</xoffset><yoffset>-2</yoffset></TextStyle></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -55,14 +68,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -82,8 +87,6 @@
         </Staff>
       <trackName>Voice</trackName>
       <Instrument>
-        <longName>Voice</longName>
-        <shortName>Vo.</shortName>
         <trackName>Voice</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>94</maxPitchP>
@@ -142,8 +145,6 @@
         </Staff>
       <trackName>Piano</trackName>
       <Instrument>
-        <longName>Piano</longName>
-        <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -200,6 +201,7 @@
         <Tempo>
           <tempo>3.33333</tempo>
           <followText>1</followText>
+          <visible>0</visible>
           <text><sym>unicodeNoteHalfUp</sym> = 100</text>
           </Tempo>
         <Chord>
@@ -417,9 +419,6 @@
           </Chord>
         </Measure>
       <Measure number="4">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -640,9 +639,6 @@
           </Chord>
         </Measure>
       <Measure number="8">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -874,9 +870,6 @@
           </Chord>
         </Measure>
       <Measure number="12">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1097,9 +1090,6 @@
           </Chord>
         </Measure>
       <Measure number="16">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1128,10 +1118,6 @@
         </Measure>
       <Measure number="17">
         <startRepeat/>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1236,9 +1222,6 @@
           </Chord>
         </Measure>
       <Measure number="20">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -1353,9 +1336,6 @@
           </Chord>
         </Measure>
       <Measure number="24">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -1484,9 +1464,6 @@
           </Chord>
         </Measure>
       <Measure number="28">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -1609,9 +1586,6 @@
           </Chord>
         </Measure>
       <Measure number="32">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -1734,9 +1708,6 @@
           </Chord>
         </Measure>
       <Measure number="36">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -1846,9 +1817,6 @@
           </Chord>
         </Measure>
       <Measure number="40">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -2000,9 +1968,6 @@
           </Chord>
         </Measure>
       <Measure number="44">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -3259,10 +3224,6 @@
           </Rest>
         </Measure>
       <Measure number="17">
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>2</span>
-          </BarLine>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>

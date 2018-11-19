@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -498,14 +501,6 @@
     <Staff id="1">
       <VBox>
         <height>8.60903</height>
-        <Text>
-          <style>Title</style>
-          <text>Singing all together</text>
-          </Text>
-        <Text>
-          <style>Subtitle</style>
-          <text>Kanon</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <stretch>0.8</stretch>
@@ -1566,6 +1561,10 @@
       <Measure number="21">
         <startRepeat/>
         <stretch>0.8</stretch>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <StaffText>
           <style>Form Section</style>
           <text>4.</text>

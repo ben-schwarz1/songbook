@@ -479,10 +479,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -494,7 +490,6 @@
         </Staff>
       <trackName>Voice</trackName>
       <Instrument>
-        <shortName>Vo.</shortName>
         <trackName>Voice</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>94</maxPitchP>
@@ -544,7 +539,6 @@
         </Staff>
       <trackName>Voice</trackName>
       <Instrument>
-        <shortName>Voice</shortName>
         <trackName>Voice (2)</trackName>
         <Channel>
           <controller ctrl="10" value="63"/>
@@ -565,7 +559,6 @@
         </Staff>
       <trackName>Piano</trackName>
       <Instrument>
-        <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -611,11 +604,7 @@
       <VBox>
         <height>4.5</height>
         </VBox>
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/2">
         <KeySig>
           <accidental>-1</accidental>
           </KeySig>
@@ -625,13 +614,10 @@
           <sigD>2</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <Tempo>
           <tempo>2.66667</tempo>
           <followText>1</followText>
+          <visible>0</visible>
           <xoffset>0</xoffset>
           <yoffset>-3</yoffset>
           <text><sym>unicodeNoteHalfUp</sym> = 80</text>
@@ -1447,12 +1433,8 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="18">
+      <Measure number="18" len="1/2">
         <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
           <durationType>half</durationType>
           </Rest>
         <BarLine>
@@ -1462,11 +1444,7 @@
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/2">
         <KeySig>
           <accidental>-1</accidental>
           </KeySig>
@@ -1477,11 +1455,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>half</durationType>
+          <durationType>measure</durationType>
+          <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -2275,22 +2250,14 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="18">
+      <Measure number="18" len="1/2">
         <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
           <durationType>half</durationType>
           </Rest>
         </Measure>
       </Staff>
     <Staff id="3">
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/2">
         <KeySig>
           <accidental>-1</accidental>
           </KeySig>
@@ -2301,11 +2268,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>half</durationType>
+          <durationType>measure</durationType>
+          <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -3132,7 +3096,7 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <tick>26880</tick>
+        <tick>25920</tick>
         <Rest>
           <track>9</track>
           <visible>0</visible>
@@ -3290,7 +3254,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="18">
+      <Measure number="18" len="1/2">
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -3313,10 +3277,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -3324,7 +3284,7 @@
         </Measure>
       </Staff>
     <Staff id="4">
-      <Measure number="1">
+      <Measure number="1" len="1/2">
         <Clef>
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
@@ -3339,11 +3299,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>half</durationType>
+          <durationType>measure</durationType>
+          <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -4155,7 +4112,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="18">
+      <Measure number="18" len="1/2">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -4172,10 +4129,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>

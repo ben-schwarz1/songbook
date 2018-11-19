@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -467,8 +470,6 @@
     <metaTag name="workTitle">With a little help from my friends</metaTag>
     <PageList>
       <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -506,20 +507,6 @@
     <Staff id="1">
       <VBox>
         <height>13.6814</height>
-        <Text>
-          <style>Composer</style>
-          <text>Lennon-McCartney</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>With A Little Help From My Friends</text>
-          </Text>
-        <Text>
-          <style>Subtitle</style>
-          <xoffset>0</xoffset>
-          <yoffset>10.9706</yoffset>
-          <text>from Sgt. Pepper's Lonely Hearts Club Band</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <stretch>0.9</stretch>

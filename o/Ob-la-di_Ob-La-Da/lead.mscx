@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -480,8 +483,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -527,14 +528,6 @@
       <VBox>
         <height>10</height>
         <bottomGap>6.17361</bottomGap>
-        <Text>
-          <style>Title</style>
-          <text>Ob-La-Di, Ob-La-Da</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>The Beatles</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <startRepeat/>

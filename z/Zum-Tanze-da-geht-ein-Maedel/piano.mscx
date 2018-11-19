@@ -524,11 +524,7 @@
       <VBox>
         <height>7</height>
         </VBox>
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/4">
         <KeySig>
           <accidental>-1</accidental>
           <mode>major</mode>
@@ -540,7 +536,7 @@
           </TimeSig>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <duration z="1" n="4"/>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -1688,7 +1684,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
+      <Measure number="25" len="2/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1712,10 +1708,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -1723,11 +1715,7 @@
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/4">
         <KeySig>
           <accidental>-1</accidental>
           <mode>major</mode>
@@ -1737,10 +1725,6 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1998,7 +1982,7 @@
           <subtype>double</subtype>
           <span>1</span>
           </BarLine>
-        <tick>11520</tick>
+        <tick>10560</tick>
         <Rest>
           <track>5</track>
           <durationType>quarter</durationType>
@@ -2047,7 +2031,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>12960</tick>
+        <tick>12000</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2133,7 +2117,7 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <tick>14400</tick>
+        <tick>13440</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2196,7 +2180,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>15840</tick>
+        <tick>14880</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2244,7 +2228,7 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <tick>17280</tick>
+        <tick>16320</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2296,7 +2280,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>18720</tick>
+        <tick>17760</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2382,7 +2366,7 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <tick>20160</tick>
+        <tick>19200</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2445,7 +2429,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>21600</tick>
+        <tick>20640</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2497,7 +2481,7 @@
           <subtype>double</subtype>
           <span>1</span>
           </BarLine>
-        <tick>23040</tick>
+        <tick>22080</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2550,7 +2534,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>24480</tick>
+        <tick>23520</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2614,7 +2598,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>25920</tick>
+        <tick>24960</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2677,7 +2661,7 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <tick>27360</tick>
+        <tick>26400</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2740,7 +2724,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>28800</tick>
+        <tick>27840</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2792,7 +2776,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>30240</tick>
+        <tick>29280</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2857,7 +2841,7 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <tick>31680</tick>
+        <tick>30720</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2921,7 +2905,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>33120</tick>
+        <tick>32160</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2946,9 +2930,7 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>64</pitch>
@@ -2956,7 +2938,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
+      <Measure number="25" len="2/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -2966,20 +2948,14 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
-        <tick>34560</tick>
+        <tick>33600</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>65</pitch>
@@ -2989,7 +2965,7 @@
         </Measure>
       </Staff>
     <Staff id="3">
-      <Measure number="1">
+      <Measure number="1" len="1/4">
         <Clef>
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
@@ -3004,11 +2980,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
+          <durationType>measure</durationType>
+          <duration z="1" n="4"/>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -3750,7 +3723,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>27360</tick>
+        <tick>26400</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -3917,7 +3890,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
+      <Measure number="25" len="2/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -3927,10 +3900,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>

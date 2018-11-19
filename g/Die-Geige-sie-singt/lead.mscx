@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -474,19 +477,15 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName/>
+      <trackName></trackName>
       <Instrument>
-        <trackName/>
+        <trackName></trackName>
         <Channel>
           <program value="0"/>
           <controller ctrl="10" value="63"/>
@@ -499,9 +498,9 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName/>
+      <trackName></trackName>
       <Instrument>
-        <trackName/>
+        <trackName></trackName>
         <Channel>
           <program value="0"/>
           <controller ctrl="10" value="63"/>
@@ -514,9 +513,9 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName/>
+      <trackName></trackName>
       <Instrument>
-        <trackName/>
+        <trackName></trackName>
         <Channel>
           <program value="0"/>
           <controller ctrl="10" value="63"/>
@@ -529,9 +528,9 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName/>
+      <trackName></trackName>
       <Instrument>
-        <trackName/>
+        <trackName></trackName>
         <Channel>
           <program value="0"/>
           <controller ctrl="10" value="63"/>
@@ -544,9 +543,9 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName/>
+      <trackName></trackName>
       <Instrument>
-        <trackName/>
+        <trackName></trackName>
         <Channel>
           <program value="0"/>
           <controller ctrl="10" value="63"/>
@@ -557,14 +556,6 @@
     <Staff id="1">
       <VBox>
         <height>12.9602</height>
-        <Text>
-          <style>Title</style>
-          <text>Die Geige sie singet</text>
-          </Text>
-        <Text>
-          <style>Subtitle</style>
-          <text>Das Orchester</text>
-          </Text>
         </VBox>
       <Measure number="1" len="1/4">
         <stretch>0.8</stretch>
