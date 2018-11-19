@@ -204,7 +204,7 @@
       <TextStyle>
         <halign>center</halign>
         <valign>bottom</valign>
-        <xoffset>0</xoffset>
+        <xoffset>0.5</xoffset>
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>Measure Number</name>
@@ -513,9 +513,9 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName></trackName>
+      <trackName/>
       <Instrument>
-        <trackName></trackName>
+        <trackName/>
         <Channel>
           <program value="0"/>
           <controller ctrl="10" value="63"/>

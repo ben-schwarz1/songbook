@@ -163,7 +163,7 @@
       <TextStyle>
         <halign>center</halign>
         <valign>bottom</valign>
-        <xoffset>0</xoffset>
+        <xoffset>0.5</xoffset>
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>Measure Number</name>
@@ -397,17 +397,17 @@
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <page-layout>
-        <page-height>1683.78</page-height>
-        <page-width>1190.55</page-width>
+        <page-height>1088.5</page-height>
+        <page-width>799.37</page-width>
         <page-margins type="both">
-          <left-margin>39.685</left-margin>
-          <right-margin>39.685</right-margin>
-          <top-margin>85.0394</top-margin>
-          <bottom-margin>85.0394</bottom-margin>
+          <left-margin>0</left-margin>
+          <right-margin>0</right-margin>
+          <top-margin>0</top-margin>
+          <bottom-margin>0</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>2</Spatium>
-      </Style>
+      <Spatium>1.2</Spatium>
+      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -440,8 +440,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -462,16 +460,8 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <Text>
-          <style>Title</style>
-          <text>My Bonnie is over the ocean</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>aus Schottland</text>
-          </Text>
         </VBox>
-      <Measure number="1" len="8/8">
+      <Measure number="1" len="1/8">
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -485,11 +475,6 @@
           <sigD>8</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <dots>2</dots>
-          <durationType>half</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -954,9 +939,6 @@
           </Chord>
         </Measure>
       <Measure number="5">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1458,9 +1440,6 @@
           </Chord>
         </Measure>
       <Measure number="9">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1635,9 +1614,6 @@
           </Chord>
         </Measure>
       <Measure number="13">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1833,13 +1809,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>12.6</yoffset>
-          <text>pillow = Kissen
-ye = Du</text>
-          </StaffText>
+      <Measure number="17" len="5/8">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1855,10 +1825,6 @@ ye = Du</text>
           </Chord>
         <Rest>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
-          <durationType>eighth</durationType>
           </Rest>
         <BarLine>
           <subtype>end</subtype>
