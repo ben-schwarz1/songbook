@@ -502,14 +502,6 @@
     <Staff id="1">
       <VBox>
         <height>10.3807</height>
-        <Text>
-          <style>Composer</style>
-          <text>aus dem Tessin</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>L´inverno l´è passato</text>
-          </Text>
         </VBox>
       <Measure number="1" len="1/8">
         <TimeSig>

@@ -530,14 +530,6 @@
     <Staff id="1">
       <VBox>
         <height>6.7</height>
-        <Text>
-          <style>Composer</style>
-          <text>Coolio</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>C  U when u get there</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>

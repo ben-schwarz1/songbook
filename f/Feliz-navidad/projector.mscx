@@ -9,8 +9,10 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -436,13 +438,13 @@
         <frameColor r="0" g="0" b="0" a="255"/>
         </TextStyle>
       <page-layout>
-        <page-height>1683.36</page-height>
-        <page-width>1190.88</page-width>
+        <page-height>850.394</page-height>
+        <page-width>1133.86</page-width>
         <page-margins type="even">
           <left-margin>56.6929</left-margin>
           <right-margin>56.6929</right-margin>
           <top-margin>56.6929</top-margin>
-          <bottom-margin>113.386</bottom-margin>
+          <bottom-margin>56.6929</bottom-margin>
           </page-margins>
         <page-margins type="odd">
           <left-margin>56.6929</left-margin>
@@ -451,7 +453,7 @@
           <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76389</Spatium>
+      <Spatium>2</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -479,6 +481,10 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -504,14 +510,6 @@
     <Staff id="1">
       <VBox>
         <height>9.3657</height>
-        <Text>
-          <style>Composer</style>
-          <text>José Feliciano</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>Feliz Navidad</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <startRepeat/>
@@ -888,6 +886,12 @@
         </Measure>
       <Measure number="8">
         <endRepeat>2</endRepeat>
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
+        <LayoutBreak>
+          <subtype>page</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -911,8 +915,12 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="9">
+      <Measure number="1">
         <startRepeat/>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -989,7 +997,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
+      <Measure number="2">
         <Harmony>
           <root>13</root>
           <rootCase>1</rootCase>
@@ -1044,7 +1052,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="3">
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1121,7 +1129,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="12">
+      <Measure number="4">
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -1176,7 +1184,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
+      <Measure number="5">
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -1250,7 +1258,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="14">
+      <Measure number="6">
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -1326,7 +1334,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
+      <Measure number="7">
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1392,7 +1400,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="16">
+      <Measure number="8">
         <endRepeat>2</endRepeat>
         <Harmony>
           <root>14</root>

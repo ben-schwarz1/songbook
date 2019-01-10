@@ -505,10 +505,6 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <Text>
-          <style>Title</style>
-          <text>I'm Singin' in the Rain</text>
-          </Text>
         </VBox>
       <Measure number="1" len="1/4">
         <KeySig>

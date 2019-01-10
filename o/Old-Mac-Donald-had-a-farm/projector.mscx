@@ -509,10 +509,6 @@
     <Staff id="1">
       <VBox>
         <height>6.7</height>
-        <Text>
-          <style>Title</style>
-          <text>Old Mac Donald had a farm</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <KeySig>

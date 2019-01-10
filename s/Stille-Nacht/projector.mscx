@@ -528,10 +528,6 @@
       <VBox>
         <height>6.64431</height>
         <bottomGap>4.40972</bottomGap>
-        <Text>
-          <style>Title</style>
-          <text>Stille Nacht, heilige Nacht</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <TimeSig>

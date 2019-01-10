@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.1.0</programVersion>
-  <programRevision>871c8ce</programRevision>
+  <programVersion>2.3.2</programVersion>
+  <programRevision>4592407</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -534,7 +534,6 @@
             <syllabic>begin</syllabic>
             <text>3. Heu</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -557,7 +556,6 @@
             <syllabic>end</syllabic>
             <text>te</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -579,7 +577,6 @@
             <no>2</no>
             <text>heißts</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -610,7 +607,6 @@
             <syllabic>begin</syllabic>
             <text>lus</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -634,7 +630,6 @@
             <syllabic>end</syllabic>
             <text>tig</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -657,7 +652,6 @@
             <no>2</no>
             <text>sein,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -686,7 +680,6 @@
             <syllabic>begin</syllabic>
             <text>mor</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -708,7 +701,6 @@
             <syllabic>end</syllabic>
             <text>gen</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -729,7 +721,6 @@
             <no>2</no>
             <text>ists</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -756,7 +747,6 @@
             <no>2</no>
             <text>aus!</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -788,7 +778,6 @@
             <syllabic>begin</syllabic>
             <text>Sin</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -811,7 +800,6 @@
             <syllabic>end</syllabic>
             <text>ket</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -832,7 +820,6 @@
             <no>2</no>
             <text>der</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -863,7 +850,6 @@
             <syllabic>begin</syllabic>
             <text>Lich</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -887,7 +873,6 @@
             <syllabic>end</syllabic>
             <text>ter</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -910,7 +895,6 @@
             <no>2</no>
             <text>Schein,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -939,7 +923,6 @@
             <no>2</no>
             <text>gehn</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -961,7 +944,6 @@
             <no>2</no>
             <text>wir</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -982,7 +964,6 @@
             <no>2</no>
             <text>nach</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1009,7 +990,6 @@
             <no>2</no>
             <text>Haus.</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1044,7 +1024,6 @@
             <no>2</no>
             <text>Didl,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1065,7 +1044,6 @@
             <no>2</no>
             <text>dudl,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1086,7 +1064,6 @@
             <no>2</no>
             <text>dadl,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1113,7 +1090,6 @@
             <no>2</no>
             <text>schrumm,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1134,7 +1110,6 @@
             <no>2</no>
             <text>schrumm,</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1155,7 +1130,6 @@
             <no>2</no>
             <text>schrumm,</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1185,7 +1159,6 @@
             <syllabic>begin</syllabic>
             <text>mor</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1208,7 +1181,6 @@
             <syllabic>end</syllabic>
             <text>gen</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1229,7 +1201,6 @@
             <no>2</no>
             <text>mit</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1257,7 +1228,6 @@
             <no>2</no>
             <text>viel</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1281,7 +1251,6 @@
             <syllabic>begin</syllabic>
             <text>Ge</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1304,7 +1273,6 @@
             <syllabic>end</syllabic>
             <text>brumm,</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1332,7 +1300,6 @@
             <no>2</no>
             <text>fegt</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -1354,7 +1321,6 @@
             <no>2</no>
             <text>die</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1376,7 +1342,6 @@
             <no>2</no>
             <text>Frau</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1407,10 +1372,10 @@
             <syllabic>begin</syllabic>
             <text>Wirt</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <dotPosition>down</dotPosition>
             </Note>
           </Chord>
         <Chord>
@@ -1431,10 +1396,9 @@
             <syllabic>end</syllabic>
             <text>in</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1453,7 +1417,6 @@
             <no>2</no>
             <text>den</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1483,7 +1446,6 @@
             <syllabic>begin</syllabic>
             <text>Tanz</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -1507,7 +1469,6 @@
             <syllabic>middle</syllabic>
             <text>bo</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1531,7 +1492,6 @@
             <syllabic>end</syllabic>
             <text>den</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1558,7 +1518,6 @@
             <no>2</no>
             <text>aus.</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>

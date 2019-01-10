@@ -503,14 +503,6 @@
     <Staff id="1">
       <VBox>
         <height>9.7807</height>
-        <Text>
-          <style>Title</style>
-          <text>Finster, finster</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>mündlich überliefert</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>

@@ -505,15 +505,6 @@
     <Staff id="1">
       <VBox>
         <height>11.1307</height>
-        <Text>
-          <pos x="0" y="-1.19062"/>
-          <style>Composer</style>
-          <text>Volkslied</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <text>Lasst uns heute fröhlich springen</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>
