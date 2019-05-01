@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.1.0</programVersion>
-  <programRevision>871c8ce</programRevision>
+  <programVersion>2.3.2</programVersion>
+  <programRevision>4592407</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -481,10 +481,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -566,6 +562,7 @@
         </VBox>
       <Measure number="1">
         <startRepeat/>
+        <stretch>0.9</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -646,6 +643,7 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -712,6 +710,7 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <name>7</name>
@@ -777,6 +776,7 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
@@ -790,6 +790,7 @@
           </Chord>
         </Measure>
       <Measure number="5">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -853,6 +854,7 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -871,6 +873,7 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -941,6 +944,7 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -959,6 +963,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -1021,6 +1026,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1085,6 +1091,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <name>7</name>
@@ -1147,6 +1154,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1196,6 +1204,7 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -1257,6 +1266,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1303,6 +1313,7 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -1371,6 +1382,7 @@
         </Measure>
       <Measure number="16">
         <endRepeat>2</endRepeat>
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1422,6 +1434,7 @@
           </Chord>
         </Measure>
       <Measure number="17">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>13</root>
           <pos x="1.02008" y="-1.5"/>
@@ -1449,6 +1462,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <stretch>0.9</stretch>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
