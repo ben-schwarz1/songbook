@@ -89,7 +89,7 @@
 \renewcommand{\footrulewidth}{0pt}
 \pagestyle{fancy}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-\renewcommand{\subsectionmark}[1]{\markright{#1}}
+\renewcommand{\subsectionmark}[1]{}
 
 %-----------------------------------------------------------------------
 % Custom macros
@@ -109,6 +109,8 @@
   \begin{center}
   \includegraphics[scale=0.95]{#1}%
   \end{center}
+  \vfill
+  \strut
   \columnbreak
 }
 
