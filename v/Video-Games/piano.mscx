@@ -10,6 +10,8 @@
     <Division>480</Division>
     <Style>
       <maxSystemDistance>10</maxSystemDistance>
+      <hideEmptyStaves>1</hideEmptyStaves>
+      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -479,8 +481,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -489,8 +489,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>

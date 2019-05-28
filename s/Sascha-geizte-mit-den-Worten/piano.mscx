@@ -479,10 +479,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -554,10 +550,8 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>10</height>
-        </VBox>
       <Measure number="1">
+        <stretch>0.9</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -602,6 +596,7 @@
           </Rest>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -633,6 +628,7 @@
           </Rest>
         </Measure>
       <Measure number="3">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -659,6 +655,7 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -676,30 +673,39 @@
           </Rest>
         </Measure>
       <Measure number="5">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="6">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="7">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="8">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="9">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -820,6 +826,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -937,6 +944,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1054,6 +1062,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1174,6 +1183,7 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1294,6 +1304,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1416,6 +1427,7 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1531,6 +1543,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1651,10 +1664,7 @@
         </Measure>
       <Measure number="17">
         <startRepeat/>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1693,6 +1703,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1731,6 +1742,7 @@
           </Chord>
         </Measure>
       <Measure number="19">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1782,6 +1794,7 @@
         </Measure>
       <Measure number="20">
         <endRepeat>2</endRepeat>
+        <stretch>0.9</stretch>
         <Volta id="2">
           <endHook>1</endHook>
           <beginText>
@@ -1830,6 +1843,7 @@
           </Rest>
         </Measure>
       <Measure number="21">
+        <stretch>0.9</stretch>
         <endSpanner id="2"/>
         <Volta id="3">
           <endHook>1</endHook>
@@ -2256,6 +2270,10 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="9">
         <Slur id="4">
@@ -3080,10 +3098,6 @@
           </Chord>
         </Measure>
       <Measure number="17">
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         <Beam id="10">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -3824,6 +3838,10 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="9">
         <Chord>
@@ -4098,10 +4116,6 @@
           </Rest>
         </Measure>
       <Measure number="17">
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>

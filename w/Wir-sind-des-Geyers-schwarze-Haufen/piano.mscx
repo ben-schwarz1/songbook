@@ -478,8 +478,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -590,7 +588,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>7.44845</height>
+        <height>4.4963</height>
         </VBox>
       <Measure number="1" len="1/4">
         <Clef>
@@ -1181,6 +1179,9 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -2836,18 +2837,6 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <Volta id="15">
-          <endHook>1</endHook>
-          <Segment>
-            <subtype>0</subtype>
-            <off2 x="0" y="0"/>
-            <offset x="0" y="-4.08726"/>
-            </Segment>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Rest>
           <BeamMode>auto</BeamMode>
           <durationType>eighth</durationType>
@@ -2937,20 +2926,6 @@
           </Chord>
         </Measure>
       <Measure number="16">
-        <vspacerUp>3</vspacerUp>
-        <endSpanner id="15"/>
-        <Volta id="16">
-          <endHook>1</endHook>
-          <Segment>
-            <subtype>0</subtype>
-            <off2 x="0" y="0"/>
-            <offset x="-0.15524" y="-4.27604"/>
-            </Segment>
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
@@ -3022,7 +2997,6 @@
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
-        <endSpanner id="16"/>
         </Measure>
       </Staff>
     <Staff id="3">

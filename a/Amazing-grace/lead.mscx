@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.0.3</programVersion>
-  <programRevision>3c7a69d</programRevision>
+  <programVersion>2.3.2</programVersion>
+  <programRevision>4592407</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -9,8 +9,15 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <staffUpperBorder>2</staffUpperBorder>
+      <staffLowerBorder>2</staffLowerBorder>
+      <maxSystemDistance>10</maxSystemDistance>
+      <systemFrameDistance>2</systemFrameDistance>
+      <frameSystemDistance>2</frameSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -201,7 +208,7 @@
       <TextStyle>
         <halign>center</halign>
         <valign>bottom</valign>
-        <xoffset>0</xoffset>
+        <xoffset>0.5</xoffset>
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>Measure Number</name>
@@ -436,22 +443,16 @@
         <frameColor r="0" g="0" b="0" a="255"/>
         </TextStyle>
       <page-layout>
-        <page-height>1683.36</page-height>
-        <page-width>1190.88</page-width>
-        <page-margins type="even">
-          <left-margin>56.6929</left-margin>
-          <right-margin>56.6929</right-margin>
-          <top-margin>56.6929</top-margin>
-          <bottom-margin>113.386</bottom-margin>
-          </page-margins>
-        <page-margins type="odd">
-          <left-margin>56.6929</left-margin>
-          <right-margin>56.6929</right-margin>
-          <top-margin>56.6929</top-margin>
-          <bottom-margin>113.386</bottom-margin>
+        <page-height>1088.5</page-height>
+        <page-width>799.37</page-width>
+        <page-margins type="both">
+          <left-margin>0</left-margin>
+          <right-margin>0</right-margin>
+          <top-margin>0</top-margin>
+          <bottom-margin>0</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76389</Spatium>
+      <Spatium>1.2</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -521,16 +522,8 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>14.8828</height>
         <bottomGap>10</bottomGap>
-        <Text>
-          <style>Title</style>
-          <text>Amazing grace</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Traditional</text>
-          </Text>
         </VBox>
       <Measure number="1" len="1/4">
         <KeySig>

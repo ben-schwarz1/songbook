@@ -486,8 +486,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -530,6 +528,7 @@
           <root>15</root>
           </Harmony>
         <StaffText>
+          <pos x="-1.02773" y="-3.82625"/>
           <style>Form Section</style>
           <text>Refrain</text>
           </StaffText>
@@ -1119,6 +1118,9 @@
           <text>Fine</text>
           <label>fine</label>
           </Marker>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           </Harmony>

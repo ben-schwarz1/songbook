@@ -491,10 +491,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -570,6 +566,7 @@
         <height>7.2</height>
         </VBox>
       <Measure number="1">
+        <stretch>0.9</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -601,6 +598,7 @@
           </Rest>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>19</root>
           <rootCase>1</rootCase>
@@ -613,6 +611,7 @@
         </Measure>
       <Measure number="3">
         <startRepeat/>
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -738,6 +737,7 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>19</root>
           <rootCase>1</rootCase>
@@ -815,6 +815,7 @@
           </Rest>
         </Measure>
       <Measure number="5">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -921,6 +922,7 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -997,6 +999,7 @@
           </Rest>
         </Measure>
       <Measure number="7">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1115,6 +1118,7 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>19</root>
           <rootCase>1</rootCase>
@@ -1239,6 +1243,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1355,6 +1360,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -1450,6 +1456,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1581,6 +1588,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1698,6 +1706,7 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1829,6 +1838,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1928,6 +1938,7 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -2050,6 +2061,7 @@
         </Measure>
       <Measure number="16">
         <endRepeat>2</endRepeat>
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -2078,6 +2090,7 @@
           </Rest>
         </Measure>
       <Measure number="17">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -2088,6 +2101,7 @@
           </Rest>
         </Measure>
       <Measure number="18">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>19</root>
           <rootCase>1</rootCase>
@@ -2100,6 +2114,7 @@
         </Measure>
       <Measure number="19">
         <startRepeat/>
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -2225,6 +2240,7 @@
           </Chord>
         </Measure>
       <Measure number="20">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>19</root>
           <rootCase>1</rootCase>
@@ -2302,6 +2318,7 @@
           </Rest>
         </Measure>
       <Measure number="21">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -2408,6 +2425,7 @@
           </Chord>
         </Measure>
       <Measure number="22">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -2484,6 +2502,7 @@
           </Rest>
         </Measure>
       <Measure number="23">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -2602,6 +2621,7 @@
           </Chord>
         </Measure>
       <Measure number="24">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>19</root>
           <rootCase>1</rootCase>
@@ -2726,6 +2746,7 @@
           </Chord>
         </Measure>
       <Measure number="25">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -2842,6 +2863,7 @@
           </Chord>
         </Measure>
       <Measure number="26">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -2937,6 +2959,7 @@
           </Chord>
         </Measure>
       <Measure number="27">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -3068,6 +3091,7 @@
           </Chord>
         </Measure>
       <Measure number="28">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -3185,6 +3209,7 @@
           </Chord>
         </Measure>
       <Measure number="29">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -3316,6 +3341,7 @@
           </Chord>
         </Measure>
       <Measure number="30">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -3415,6 +3441,7 @@
           </Chord>
         </Measure>
       <Measure number="31">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -3536,6 +3563,7 @@
           </Chord>
         </Measure>
       <Measure number="32">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>

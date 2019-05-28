@@ -479,12 +479,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -590,10 +584,8 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>10.6807</height>
-        </VBox>
       <Measure number="1">
+        <stretch>0.9</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -727,6 +719,7 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -828,6 +821,7 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -876,6 +870,7 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-4.2</yoffset>
@@ -930,6 +925,7 @@
           </Chord>
         </Measure>
       <Measure number="5">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1054,6 +1050,7 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1155,6 +1152,7 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1203,6 +1201,7 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1222,6 +1221,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1346,6 +1346,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1447,6 +1448,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1580,6 +1582,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1689,6 +1692,7 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1740,6 +1744,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1799,6 +1804,7 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1853,6 +1859,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1899,6 +1906,7 @@
           </Chord>
         </Measure>
       <Measure number="17">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
@@ -1917,6 +1925,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>whole</durationType>
           </Rest>
