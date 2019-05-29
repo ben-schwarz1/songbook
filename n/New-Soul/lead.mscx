@@ -513,7 +513,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>3.6</height>
+        <height>7.08548</height>
         </VBox>
       <Measure number="1" len="1/4">
         <stretch>0.9</stretch>
@@ -1401,6 +1401,7 @@
         </Measure>
       <Measure number="9">
         <stretch>0.9</stretch>
+        <vspacerUp>14.771</vspacerUp>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -1458,6 +1459,7 @@
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-3.88558" y="-2.2571"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -2141,6 +2143,7 @@
           <name>7</name>
           </Harmony>
         <StaffText>
+          <pos x="3.42846" y="-2.94279"/>
           <style>Form Section</style>
           <text>Bridge</text>
           </StaffText>

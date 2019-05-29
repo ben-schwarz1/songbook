@@ -637,38 +637,30 @@
       <VBox>
         <height>6.2</height>
         </VBox>
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/2">
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
           <sigD>2</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <Tempo>
           <tempo>2</tempo>
           <followText>1</followText>
+          <visible>0</visible>
           <xoffset>0</xoffset>
           <yoffset>-4.5</yoffset>
           <text><sym>unicodeNoteHalfUp</sym> = 60</text>
           </Tempo>
-        <InstrumentChange>
-          <Instrument>
-            <trackName>Voice (2)</trackName>
-            <Channel>
-              <controller ctrl="10" value="63"/>
-              <synti>Fluid</synti>
-              </Channel>
-            </Instrument>
+        <StaffText>
+          <pos x="-2.54642" y="-1.24643"/>
+          <style>Form Section</style>
           <text>1.</text>
-          </InstrumentChange>
+          </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -696,6 +688,10 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -721,6 +717,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -747,6 +747,10 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -771,6 +775,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -797,6 +805,10 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -821,6 +833,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -847,6 +863,10 @@
           </Chord>
         </Measure>
       <Measure number="5">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -865,6 +885,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <pos x="0.494777" y="-1.12857"/>
             </Articulation>
           <Lyrics>
             <syllabic>end</syllabic>
@@ -877,10 +898,14 @@
             </Note>
           </Chord>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2</yoffset>
+          <pos x="0.374122" y="-3.02946"/>
+          <style>Form Section</style>
           <text>2.</text>
           </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -895,6 +920,10 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -919,6 +948,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -947,6 +980,10 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -960,6 +997,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -987,6 +1028,10 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1013,6 +1058,10 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1041,6 +1090,10 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1071,10 +1124,14 @@
             </Note>
           </Chord>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-1.2</yoffset>
+          <pos x="0.485509" y="-3.50425"/>
+          <style>Form Section</style>
           <text>1.</text>
           </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1102,6 +1159,10 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1127,6 +1188,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1153,6 +1218,10 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1177,6 +1246,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1203,6 +1276,10 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1227,6 +1304,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1253,6 +1334,10 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1271,6 +1356,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <pos x="0.494777" y="-1.12857"/>
             </Articulation>
           <Lyrics>
             <syllabic>end</syllabic>
@@ -1283,10 +1369,14 @@
             </Note>
           </Chord>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2</yoffset>
+          <pos x="0.50314" y="-3.48103"/>
+          <style>Form Section</style>
           <text>2.</text>
           </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1301,6 +1391,10 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1325,6 +1419,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1353,6 +1451,10 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1366,6 +1468,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1393,6 +1499,10 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1419,6 +1529,10 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1446,7 +1560,11 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="17" len="1/2">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1476,10 +1594,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>2</span>
@@ -1487,11 +1601,7 @@
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/2">
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
@@ -1499,7 +1609,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -1542,10 +1653,14 @@
           <durationType>half</durationType>
           </Rest>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-0.3</yoffset>
+          <pos x="-1.56115" y="-0.642625"/>
+          <style>Form Section</style>
           <text>2.</text>
           </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1560,6 +1675,10 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1584,6 +1703,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1612,6 +1735,10 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1625,6 +1752,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1652,6 +1783,10 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1678,6 +1813,10 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1706,6 +1845,10 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1736,10 +1879,14 @@
             </Note>
           </Chord>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-1.2</yoffset>
+          <pos x="-1.44976" y="-0.665848"/>
+          <style>Form Section</style>
           <text>1.</text>
           </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1767,6 +1914,10 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1792,6 +1943,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1818,6 +1973,10 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1842,6 +2001,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1868,6 +2031,10 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1892,6 +2059,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1917,7 +2088,11 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="17" len="1/2">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1936,6 +2111,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <pos x="0.494777" y="-1.12857"/>
             </Articulation>
           <Lyrics>
             <syllabic>end</syllabic>
@@ -1947,38 +2123,16 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         </Measure>
       </Staff>
     <Staff id="3">
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/2">
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
           <sigD>2</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
-        <InstrumentChange>
-          <Instrument>
-            <trackName>Piano (2)</trackName>
-            <Channel>
-              <controller ctrl="10" value="63"/>
-              <synti>Fluid</synti>
-              </Channel>
-            </Instrument>
-          <text>Instrument</text>
-          </InstrumentChange>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1997,7 +2151,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>960</tick>
+        <tick>0</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2047,7 +2201,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>1920</tick>
+        <tick>960</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2130,7 +2284,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>3840</tick>
+        <tick>2880</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2202,7 +2356,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>5760</tick>
+        <tick>4800</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2284,7 +2438,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>7680</tick>
+        <tick>6720</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2367,7 +2521,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>9600</tick>
+        <tick>8640</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2441,7 +2595,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>11520</tick>
+        <tick>10560</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2524,7 +2678,7 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <tick>13440</tick>
+        <tick>12480</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2601,7 +2755,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>15360</tick>
+        <tick>14400</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2684,7 +2838,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>17280</tick>
+        <tick>16320</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2758,7 +2912,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>19200</tick>
+        <tick>18240</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2841,7 +2995,7 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <tick>21120</tick>
+        <tick>20160</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -2918,7 +3072,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>23040</tick>
+        <tick>22080</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -3001,7 +3155,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>24960</tick>
+        <tick>24000</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -3075,7 +3229,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>26880</tick>
+        <tick>25920</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -3158,7 +3312,7 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <tick>28800</tick>
+        <tick>27840</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -3204,7 +3358,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="17" len="1/2">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3226,15 +3380,11 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
-        <tick>30720</tick>
+        <tick>29760</tick>
         <Chord>
           <track>9</track>
           <BeamMode>no</BeamMode>
@@ -3257,15 +3407,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>9</track>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         </Measure>
       </Staff>
     <Staff id="4">
-      <Measure number="1">
+      <Measure number="1" len="1/2">
         <Clef>
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
@@ -3276,10 +3421,6 @@
           <sigD>2</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -3710,7 +3851,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="17" len="1/2">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -3720,10 +3861,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>

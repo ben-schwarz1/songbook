@@ -2126,6 +2126,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>town.</text>
             </Lyrics>
           <Note>
