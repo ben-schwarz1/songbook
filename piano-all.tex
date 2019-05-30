@@ -23,13 +23,18 @@ Songbook
 \begin{multicols}{2}
 \pagestyle{plain}
 \tableofcontents
+\cleardoublepage
 \end{multicols}
+
 
 %-----------------------------------------------------------------------
 % Songs
 %-----------------------------------------------------------------------
-\begin{multicols}{2}
+
+\raggedcolumns
+
+\begin{multicols*}{2}
 \pagestyle{fancy}
 \include{songs}
-\end{multicols}
+\end{multicols*}
 \end{document}

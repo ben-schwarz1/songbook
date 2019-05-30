@@ -109,8 +109,7 @@
   \begin{center}
   \includegraphics[scale=0.95]{#1}%
   \end{center}
-  \vfill
-  \strut
+
   \columnbreak
 }
 
@@ -118,21 +117,28 @@
 %
 %%
 \newcommand{\tmpchapter}[1]{%
-\end{multicols}
+\end{multicols*}
 
 \cleardoublepage
 
 \section{#1}%
 
-\begin{multicols}{2}
+\begin{multicols*}{2}
 }
 
 %%
 %
 %%
 \newcommand{\tmpplaceholder}{%
-\strut
-\columnbreak
+  \begin{center}
+  \strut
+  \vfill
+  This column intentionally left blank.
+  \vfill
+  \strut
+  \end{center}
+
+  \columnbreak
 }
 
 \setcounter{secnumdepth}{-1}
