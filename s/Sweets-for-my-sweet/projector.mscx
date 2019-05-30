@@ -1110,7 +1110,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <StaffText>
-          <pos x="-14.6214" y="-4.12142"/>
+          <pos x="0.383533" y="-3.58553"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -1174,6 +1174,9 @@
         </Measure>
       <Measure number="13">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1240,6 +1243,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1324,6 +1330,9 @@
         </Measure>
       <Measure number="14">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>18</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1384,6 +1393,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1424,6 +1436,9 @@
         <LayoutBreak>
           <subtype>page</subtype>
           </LayoutBreak>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1490,6 +1505,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1577,6 +1595,9 @@
         </Measure>
       <Measure number="16">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>18</root>
+          </Harmony>
         <Slur id="6">
           <track>0</track>
           </Slur>
@@ -1629,6 +1650,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1679,6 +1703,9 @@
         </Measure>
       <Measure number="17">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1733,6 +1760,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1819,6 +1849,9 @@
         </Measure>
       <Measure number="18">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>18</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1879,12 +1912,18 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Rest>
           <durationType>half</durationType>
           </Rest>
         </Measure>
       <Measure number="19">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1954,6 +1993,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -2038,7 +2080,11 @@
           </Chord>
         </Measure>
       <Measure number="20">
+        <endRepeat>2</endRepeat>
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>18</root>
+          </Harmony>
         <Slur id="9">
           <track>0</track>
           </Slur>
@@ -2088,6 +2134,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -2128,7 +2177,7 @@
             </Note>
           </Chord>
         <BarLine>
-          <subtype>end</subtype>
+          <subtype>end-repeat</subtype>
           <span>1</span>
           </BarLine>
         </Measure>

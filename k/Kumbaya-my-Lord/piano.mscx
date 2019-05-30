@@ -10,6 +10,8 @@
     <Division>480</Division>
     <Style>
       <maxSystemDistance>10</maxSystemDistance>
+      <hideEmptyStaves>1</hideEmptyStaves>
+      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -587,11 +589,7 @@
       <VBox>
         <height>7.4</height>
         </VBox>
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/4">
         <KeySig>
           <accidental>2</accidental>
           <mode>major</mode>
@@ -603,7 +601,7 @@
           </TimeSig>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <duration z="1" n="4"/>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -1584,7 +1582,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="17" len="2/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1598,10 +1596,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -1609,11 +1603,7 @@
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="1/4">
         <KeySig>
           <accidental>2</accidental>
           <mode>major</mode>
@@ -1623,17 +1613,9 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
-        <Beam id="11">
-          <StemDirection>up</StemDirection>
-          </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>11</Beam>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -1642,13 +1624,12 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>11</Beam>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <tick>960</tick>
+        <tick>0</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -1689,8 +1670,8 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <tick>1440</tick>
-        <Beam id="12">
+        <tick>480</tick>
+        <Beam id="11">
           <track>5</track>
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1698,7 +1679,7 @@
           <track>5</track>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>12</Beam>
+          <Beam>11</Beam>
           <Note>
             <track>5</track>
             <pitch>66</pitch>
@@ -1709,7 +1690,7 @@
           <track>5</track>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>12</Beam>
+          <Beam>11</Beam>
           <Note>
             <track>5</track>
             <Accidental>
@@ -1772,13 +1753,13 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Beam id="13">
+        <Beam id="12">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>13</Beam>
+          <Beam>12</Beam>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -1787,13 +1768,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>13</Beam>
+          <Beam>12</Beam>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <tick>2880</tick>
+        <tick>1920</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -1841,13 +1822,13 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Beam id="14">
+        <Beam id="13">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>14</Beam>
+          <Beam>13</Beam>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1856,14 +1837,14 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>14</Beam>
+          <Beam>13</Beam>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <tick>4320</tick>
-        <Beam id="15">
+        <tick>3360</tick>
+        <Beam id="14">
           <track>5</track>
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1871,7 +1852,7 @@
           <track>5</track>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>15</Beam>
+          <Beam>14</Beam>
           <Note>
             <track>5</track>
             <pitch>66</pitch>
@@ -1882,7 +1863,7 @@
           <track>5</track>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>15</Beam>
+          <Beam>14</Beam>
           <Note>
             <track>5</track>
             <pitch>61</pitch>
@@ -1927,13 +1908,13 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Beam id="16">
+        <Beam id="15">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>16</Beam>
+          <Beam>15</Beam>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -1942,13 +1923,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>16</Beam>
+          <Beam>15</Beam>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <tick>5760</tick>
+        <tick>4800</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2005,8 +1986,8 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <tick>7200</tick>
-        <Beam id="17">
+        <tick>6240</tick>
+        <Beam id="16">
           <track>5</track>
           <StemDirection>down</StemDirection>
           </Beam>
@@ -2014,7 +1995,7 @@
           <track>5</track>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>17</Beam>
+          <Beam>16</Beam>
           <Note>
             <track>5</track>
             <pitch>66</pitch>
@@ -2025,7 +2006,7 @@
           <track>5</track>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>17</Beam>
+          <Beam>16</Beam>
           <Note>
             <track>5</track>
             <Accidental>
@@ -2097,7 +2078,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>8640</tick>
+        <tick>7680</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2164,13 +2145,13 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <Beam id="18">
+        <Beam id="17">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>18</Beam>
+          <Beam>17</Beam>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2179,13 +2160,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>18</Beam>
+          <Beam>17</Beam>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <tick>10080</tick>
+        <tick>9120</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2257,13 +2238,13 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Beam id="19">
+        <Beam id="18">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>19</Beam>
+          <Beam>18</Beam>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -2272,13 +2253,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>19</Beam>
+          <Beam>18</Beam>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <tick>11520</tick>
+        <tick>10560</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2303,14 +2284,14 @@
           </Chord>
         </Measure>
       <Measure number="10">
-        <Beam id="20">
+        <Beam id="19">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Beam>20</Beam>
+          <Beam>19</Beam>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2319,7 +2300,7 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
-          <Beam>20</Beam>
+          <Beam>19</Beam>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2334,13 +2315,13 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Beam id="21">
+        <Beam id="20">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>21</Beam>
+          <Beam>20</Beam>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -2349,13 +2330,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>21</Beam>
+          <Beam>20</Beam>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <tick>12960</tick>
+        <tick>12000</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2399,13 +2380,13 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Beam id="22">
+        <Beam id="21">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>22</Beam>
+          <Beam>21</Beam>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -2414,13 +2395,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>22</Beam>
+          <Beam>21</Beam>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <tick>14400</tick>
+        <tick>13440</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2450,14 +2431,14 @@
           </Chord>
         </Measure>
       <Measure number="12">
-        <Beam id="23">
+        <Beam id="22">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Beam>23</Beam>
+          <Beam>22</Beam>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2466,7 +2447,7 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
-          <Beam>23</Beam>
+          <Beam>22</Beam>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2481,13 +2462,13 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Beam id="24">
+        <Beam id="23">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>24</Beam>
+          <Beam>23</Beam>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2496,13 +2477,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>24</Beam>
+          <Beam>23</Beam>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <tick>15840</tick>
+        <tick>14880</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2546,13 +2527,13 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Beam id="25">
+        <Beam id="24">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>25</Beam>
+          <Beam>24</Beam>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -2561,13 +2542,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>25</Beam>
+          <Beam>24</Beam>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <tick>17280</tick>
+        <tick>16320</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2597,14 +2578,14 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <Beam id="26">
+        <Beam id="25">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Beam>26</Beam>
+          <Beam>25</Beam>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2613,7 +2594,7 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
-          <Beam>26</Beam>
+          <Beam>25</Beam>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2628,13 +2609,13 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Beam id="27">
+        <Beam id="26">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>27</Beam>
+          <Beam>26</Beam>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -2643,13 +2624,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>27</Beam>
+          <Beam>26</Beam>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <tick>18720</tick>
+        <tick>17760</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2702,7 +2683,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>20160</tick>
+        <tick>19200</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2761,13 +2742,13 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Beam id="28">
+        <Beam id="27">
           <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>28</Beam>
+          <Beam>27</Beam>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2776,13 +2757,13 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>28</Beam>
+          <Beam>27</Beam>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <tick>21600</tick>
+        <tick>20640</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2832,7 +2813,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="17" len="2/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -2842,15 +2823,11 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
-        <tick>23040</tick>
+        <tick>22080</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2862,15 +2839,10 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>5</track>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       </Staff>
     <Staff id="3">
-      <Measure number="1">
+      <Measure number="1" len="1/4">
         <Clef>
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
@@ -2884,10 +2856,6 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3216,7 +3184,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="17" len="2/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -3226,10 +3194,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programVersion>2.1.0</programVersion>
+  <programRevision>871c8ce</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -486,6 +486,7 @@
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
+        <small>1</small>
         </Staff>
       <trackName></trackName>
       <Instrument>
@@ -562,7 +563,7 @@
         </VBox>
       <Measure number="1">
         <startRepeat/>
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -643,7 +644,7 @@
           </Chord>
         </Measure>
       <Measure number="2">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -710,7 +711,7 @@
           </Chord>
         </Measure>
       <Measure number="3">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>15</root>
           <name>7</name>
@@ -776,7 +777,7 @@
           </Chord>
         </Measure>
       <Measure number="4">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
@@ -790,7 +791,7 @@
           </Chord>
         </Measure>
       <Measure number="5">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -854,7 +855,7 @@
           </Chord>
         </Measure>
       <Measure number="6">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -873,7 +874,7 @@
           </Chord>
         </Measure>
       <Measure number="7">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -944,7 +945,7 @@
           </Chord>
         </Measure>
       <Measure number="8">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -963,7 +964,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -1026,7 +1027,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1091,7 +1092,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>15</root>
           <name>7</name>
@@ -1154,7 +1155,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1204,7 +1205,10 @@
           </Chord>
         </Measure>
       <Measure number="13">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -1266,7 +1270,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1313,12 +1317,17 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>13</root>
           </Harmony>
         <Volta id="2">
           <endHook>1</endHook>
+          <Segment>
+            <subtype>0</subtype>
+            <off2 x="0" y="0"/>
+            <offset x="0" y="-2.85714"/>
+            </Segment>
           <beginText>
             <text>1.</text>
             </beginText>
@@ -1382,7 +1391,7 @@
         </Measure>
       <Measure number="16">
         <endRepeat>2</endRepeat>
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1434,13 +1443,18 @@
           </Chord>
         </Measure>
       <Measure number="17">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Harmony>
           <root>13</root>
-          <pos x="1.02008" y="-1.5"/>
+          <pos x="0.714056" y="-1.8"/>
           </Harmony>
         <endSpanner id="2"/>
         <Volta id="3">
+          <Segment>
+            <subtype>0</subtype>
+            <off2 x="0" y="0"/>
+            <offset x="0" y="-2.85714"/>
+            </Segment>
           <beginText>
             <text>2.</text>
             </beginText>
@@ -1462,7 +1476,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
-        <stretch>0.9</stretch>
+        <stretch>1.1</stretch>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -2032,7 +2046,7 @@
         </Measure>
       <Measure number="8">
         <Rest>
-          <offset x="1.97482" y="-0.171723"/>
+          <offset x="1.97482" y="4.82828"/>
           <durationType>eighth</durationType>
           </Rest>
         <Chord>
@@ -2554,6 +2568,7 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <vspacerUp>3</vspacerUp>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>

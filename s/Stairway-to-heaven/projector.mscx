@@ -901,11 +901,12 @@
         </Measure>
       <Measure number="5">
         <stretch>0.9</stretch>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>E/H</text>
-          </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          <base>19</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
