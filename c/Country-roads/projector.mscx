@@ -1463,6 +1463,12 @@
       <Measure number="9">
         <stretch>0.9</stretch>
         <vspacerUp>15.3321</vspacerUp>
+        <Marker>
+          <pos x="1.79534" y="-2.82283"/>
+          <style>Repeat Text Left</style>
+          <text><sym>segno</sym></text>
+          <label>segno</label>
+          </Marker>
         <Harmony>
           <root>18</root>
           <pos x="6.10979" y="-1.5"/>
@@ -1566,6 +1572,9 @@
         </Measure>
       <Measure number="11">
         <stretch>0.9</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>21</root>
           <name>m</name>
@@ -1658,6 +1667,9 @@
         </Measure>
       <Measure number="13">
         <stretch>0.9</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -1859,7 +1871,17 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <endRepeat>2</endRepeat>
         <stretch>0.9</stretch>
+        <Marker>
+          <pos x="-1.71423" y="-2.41141"/>
+          <style>Repeat Text Right</style>
+          <text>Fine</text>
+          <label>fine</label>
+          </Marker>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -1875,14 +1897,14 @@
             </Note>
           </Chord>
         <BarLine>
-          <subtype>double</subtype>
+          <subtype>end-repeat</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
       <Measure number="17">
         <stretch>0.9</stretch>
         <StaffText>
-          <pos x="2.51914" y="-0.930024"/>
+          <pos x="1.14776" y="-1.61572"/>
           <style>Form Section</style>
           <text>Bridge</text>
           </StaffText>
@@ -2292,7 +2314,7 @@
           </Chord>
         </Measure>
       <Measure number="21">
-        <stretch>0.9</stretch>
+        <stretch>0.8</stretch>
         <Harmony>
           <root>21</root>
           <name>m</name>
@@ -2422,7 +2444,7 @@
           </Chord>
         </Measure>
       <Measure number="22">
-        <stretch>0.9</stretch>
+        <stretch>0.8</stretch>
         <Harmony>
           <root>17</root>
           </Harmony>
@@ -2656,6 +2678,13 @@
       <Measure number="24">
         <endRepeat>2</endRepeat>
         <stretch>0.9</stretch>
+        <Jump>
+          <style>Repeat Text Right</style>
+          <text>D.S. al Fine</text>
+          <jumpTo>segno</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt></continueAt>
+          </Jump>
         <Harmony>
           <root>19</root>
           <name>7</name>
