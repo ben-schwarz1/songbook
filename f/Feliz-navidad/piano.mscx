@@ -10,6 +10,8 @@
     <Division>480</Division>
     <Style>
       <maxSystemDistance>10</maxSystemDistance>
+      <hideEmptyStaves>1</hideEmptyStaves>
+      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -480,18 +482,16 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
       <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -604,6 +604,7 @@
         <height>6.3</height>
         </VBox>
       <Measure number="1">
+        <stretch>0.9</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -617,6 +618,7 @@
         <Tempo>
           <tempo>2.5</tempo>
           <followText>1</followText>
+          <visible>0</visible>
           <xoffset>0</xoffset>
           <yoffset>-3.1</yoffset>
           <text><sym>unicodeNoteHalfUp</sym> = 75</text>
@@ -627,36 +629,45 @@
           </Rest>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="2" n="2"/>
           </Rest>
         </Measure>
       <Measure number="3">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="2" n="2"/>
           </Rest>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="2" n="2"/>
           </Rest>
         </Measure>
       <Measure number="5">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="2" n="2"/>
           </Rest>
         </Measure>
       <Measure number="6">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="2" n="2"/>
           </Rest>
         </Measure>
       <Measure number="7">
+        <stretch>0.9</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="2" n="2"/>
@@ -664,6 +675,11 @@
         </Measure>
       <Measure number="8">
         <startRepeat/>
+        <stretch>0.9</stretch>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -720,6 +736,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -740,6 +757,7 @@
           </Rest>
         </Measure>
       <Measure number="10">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -796,6 +814,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -816,6 +835,7 @@
           </Rest>
         </Measure>
       <Measure number="12">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -872,6 +892,7 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -939,6 +960,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -999,6 +1021,7 @@
         </Measure>
       <Measure number="15">
         <endRepeat>2</endRepeat>
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1020,6 +1043,7 @@
         </Measure>
       <Measure number="16">
         <startRepeat/>
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1093,6 +1117,7 @@
           </Chord>
         </Measure>
       <Measure number="17">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1144,6 +1169,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1217,6 +1243,7 @@
           </Chord>
         </Measure>
       <Measure number="19">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1268,6 +1295,7 @@
           </Chord>
         </Measure>
       <Measure number="20">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1338,6 +1366,7 @@
           </Chord>
         </Measure>
       <Measure number="21">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1410,6 +1439,7 @@
           </Chord>
         </Measure>
       <Measure number="22">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1472,6 +1502,7 @@
         </Measure>
       <Measure number="23">
         <endRepeat>2</endRepeat>
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1489,10 +1520,7 @@
         </Measure>
       <Measure number="24">
         <startRepeat/>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1549,6 +1577,7 @@
           </Chord>
         </Measure>
       <Measure number="25">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1569,6 +1598,7 @@
           </Rest>
         </Measure>
       <Measure number="26">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1625,6 +1655,7 @@
           </Chord>
         </Measure>
       <Measure number="27">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1645,6 +1676,7 @@
           </Rest>
         </Measure>
       <Measure number="28">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1701,6 +1733,7 @@
           </Chord>
         </Measure>
       <Measure number="29">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1768,6 +1801,7 @@
           </Chord>
         </Measure>
       <Measure number="30">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1828,6 +1862,7 @@
         </Measure>
       <Measure number="31">
         <endRepeat>2</endRepeat>
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1849,6 +1884,7 @@
         </Measure>
       <Measure number="32">
         <startRepeat/>
+        <stretch>0.9</stretch>
         <BarLine>
           <subtype>start-repeat</subtype>
           <span>1</span>
@@ -1926,6 +1962,7 @@
           </Chord>
         </Measure>
       <Measure number="33">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1977,6 +2014,7 @@
           </Chord>
         </Measure>
       <Measure number="34">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -2050,6 +2088,7 @@
           </Chord>
         </Measure>
       <Measure number="35">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2101,6 +2140,7 @@
           </Chord>
         </Measure>
       <Measure number="36">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -2171,6 +2211,7 @@
           </Chord>
         </Measure>
       <Measure number="37">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2243,6 +2284,7 @@
           </Chord>
         </Measure>
       <Measure number="38">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2305,6 +2347,7 @@
         </Measure>
       <Measure number="39">
         <endRepeat>2</endRepeat>
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -2321,6 +2364,7 @@
           </Rest>
         </Measure>
       <Measure number="40">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>whole</durationType>
           </Rest>
@@ -2400,6 +2444,7 @@
         <Clef>
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
+          <pos x="-0.64175" y="0"/>
           </Clef>
         <tick>2400</tick>
         <Beam id="1">
@@ -2455,6 +2500,7 @@
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
+          <pos x="-0.514" y="0"/>
           </Clef>
         <tick>4320</tick>
         <Rest>
@@ -2686,6 +2732,10 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -4445,10 +4495,6 @@
           </Rest>
         </Measure>
       <Measure number="24">
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -6954,6 +7000,10 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -7806,10 +7856,6 @@
           </Chord>
         </Measure>
       <Measure number="24">
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>

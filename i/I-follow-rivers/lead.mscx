@@ -66,7 +66,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>Alegreya</family>
@@ -77,7 +77,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
         <family>Alegreya</family>
@@ -540,6 +540,7 @@
       <Measure number="1">
         <stretch>0.8</stretch>
         <StaffText>
+          <pos x="0" y="-3.31238"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -1403,6 +1404,9 @@
         </Measure>
       <Measure number="20">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -1428,7 +1432,13 @@
       <Measure number="21">
         <startRepeat/>
         <stretch>0.9</stretch>
+        <vspacerUp>19.9575</vspacerUp>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <StaffText>
+          <pos x="0.128466" y="-3.18392"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
