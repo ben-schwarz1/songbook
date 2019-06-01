@@ -553,6 +553,11 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <StaffText>
+          <pos x="0.821391" y="-2.18646"/>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1148,6 +1153,11 @@
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
+        <StaffText>
+          <pos x="2.46417" y="-3.9205"/>
+          <style>Form Section</style>
+          <text>Chorus</text>
+          </StaffText>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>

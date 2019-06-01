@@ -10,6 +10,8 @@
     <Division>480</Division>
     <Style>
       <maxSystemDistance>10</maxSystemDistance>
+      <hideEmptyStaves>1</hideEmptyStaves>
+      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -478,10 +480,10 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
+        </Page>
+      <Page>
         <System>
           </System>
         <System>
@@ -1126,6 +1128,9 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
@@ -1143,6 +1148,11 @@
           </BarLine>
         </Measure>
       <Measure number="14">
+        <StaffText>
+          <pos x="2.12132" y="-2.6634"/>
+          <style>Form Section</style>
+          <text>Chorus</text>
+          </StaffText>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -1504,6 +1514,11 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <StaffText>
+          <pos x="0.821391" y="-2.18646"/>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
