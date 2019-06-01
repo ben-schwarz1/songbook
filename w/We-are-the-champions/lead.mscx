@@ -66,7 +66,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>Alegreya</family>
@@ -1365,6 +1365,7 @@
           <root>15</root>
           </Harmony>
         <StaffText>
+          <pos x="5.82838" y="-1.22856"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -2064,6 +2065,10 @@
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="39">
         <stretch>0.8</stretch>
@@ -3196,6 +3201,7 @@
           <name>m</name>
           </Harmony>
         <StaffText>
+          <pos x="7.5426" y="-1.45713"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>

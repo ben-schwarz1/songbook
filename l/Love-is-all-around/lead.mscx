@@ -1708,10 +1708,12 @@
           </BarLine>
         </Measure>
       <Measure number="19">
+        <vspacerUp>17.5138</vspacerUp>
         <Harmony>
           <root>15</root>
           </Harmony>
         <StaffText>
+          <pos x="0.342846" y="-3.5142"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>

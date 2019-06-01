@@ -2431,6 +2431,7 @@
             </Note>
           </Chord>
         <StaffText>
+          <pos x="-2.62848" y="-1.22856"/>
           <style>Form Section</style>
           <text>Strophe 2</text>
           </StaffText>
@@ -5086,6 +5087,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <StaffText>
+          <pos x="2.28564" y="-1"/>
           <style>Form Section</style>
           <text>Strophe 4</text>
           </StaffText>
@@ -5286,7 +5288,7 @@
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <syllabic>middle</syllabic>
+            <syllabic>end</syllabic>
             <text>na</text>
             </Lyrics>
           <Note>
@@ -5305,7 +5307,6 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
             <text>ran,</text>
             </Lyrics>
           <Note>
@@ -7092,6 +7093,7 @@
           <durationType>16th</durationType>
           </Rest>
         <StaffText>
+          <pos x="2.85705" y="-1.22856"/>
           <style>Form Section</style>
           <text>Refrain </text>
           </StaffText>

@@ -10,6 +10,8 @@
     <Division>480</Division>
     <Style>
       <maxSystemDistance>10</maxSystemDistance>
+      <hideEmptyStaves>1</hideEmptyStaves>
+      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -483,14 +485,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -507,12 +501,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -572,6 +560,7 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
+        <small>1</small>
         <bracket type="-1" span="0"/>
         </Staff>
       <trackName>Voice</trackName>

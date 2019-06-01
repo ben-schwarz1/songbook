@@ -986,6 +986,7 @@
         </Measure>
       <Measure number="5">
         <StaffText>
+          <pos x="6.2855" y="-1.57141"/>
           <style>Form Section</style>
           <text>Refrain</text>
           </StaffText>

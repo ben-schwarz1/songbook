@@ -982,6 +982,9 @@
         </Measure>
       <Measure number="4">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>18</root>
           <rootCase>1</rootCase>

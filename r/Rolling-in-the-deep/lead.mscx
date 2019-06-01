@@ -486,6 +486,8 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -505,7 +507,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>9.28682</height>
+        <height>0.571409</height>
         </VBox>
       <Measure number="1">
         <stretch>0.7</stretch>
@@ -528,6 +530,7 @@
           <name>m</name>
           </Harmony>
         <StaffText>
+          <pos x="-3.19989" y="-2.2571"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -1440,6 +1443,9 @@
         </Measure>
       <Measure number="6">
         <stretch>0.7</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -1869,6 +1875,9 @@
       <Measure number="8">
         <endRepeat>2</endRepeat>
         <stretch>0.7</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -2057,11 +2066,16 @@
       <Measure number="9">
         <startRepeat/>
         <stretch>0.7</stretch>
-        <vspacerUp>13.5064</vspacerUp>
+        <vspacerUp>20.4776</vspacerUp>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>10</root>
           </Harmony>
         <StaffText>
+          <pos x="-5.94266" y="-3.5142"/>
           <style>Form Section</style>
           <text>Bridge</text>
           </StaffText>
@@ -2730,12 +2744,13 @@
         </Measure>
       <Measure number="17">
         <stretch>0.7</stretch>
-        <vspacerUp>14.5571</vspacerUp>
+        <vspacerUp>11.0144</vspacerUp>
         <Harmony>
           <root>14</root>
           <name>m</name>
           </Harmony>
         <StaffText>
+          <pos x="-1.14282" y="-3.28564"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -2969,6 +2984,9 @@
         </Measure>
       <Measure number="21">
         <stretch>0.7</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           <name>m</name>

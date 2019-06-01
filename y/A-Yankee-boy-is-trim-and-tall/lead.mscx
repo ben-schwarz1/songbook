@@ -9,8 +9,11 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -446,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -1309,6 +1312,9 @@
         </Measure>
       <Measure number="9">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1369,11 +1375,18 @@
         </Measure>
       <Measure number="10">
         <stretch>0.8</stretch>
+        <MeasureNumber>
+          <pos x="0.728564" y="-2.22856"/>
+          <style>Measure Number</style>
+          <text>10</text>
+          </MeasureNumber>
+        <vspacerUp>27.6849</vspacerUp>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-0.228564" y="-4.08561"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -1584,6 +1597,9 @@
         </Measure>
       <Measure number="13">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Slur id="2">
           <track>0</track>
           </Slur>

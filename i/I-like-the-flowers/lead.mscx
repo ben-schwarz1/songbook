@@ -522,6 +522,7 @@
           <root>13</root>
           </Harmony>
         <StaffText>
+          <pos x="0.660276" y="-5.71638"/>
           <style>Form Section</style>
           <text>1.</text>
           </StaffText>
@@ -530,6 +531,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <pos x="0.658281" y="-3"/>
             </Articulation>
           <Lyrics>
             <text>I</text>
@@ -685,6 +687,7 @@
           <root>13</root>
           </Harmony>
         <StaffText>
+          <pos x="0.886436" y="-6.68928"/>
           <style>Form Section</style>
           <text>2.</text>
           </StaffText>
@@ -693,6 +696,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <pos x="0.658281" y="-3.75"/>
             </Articulation>
           <Lyrics>
             <text>I</text>
@@ -850,6 +854,7 @@
           <root>13</root>
           </Harmony>
         <StaffText>
+          <pos x="0.542989" y="-6.03081"/>
           <style>Form Section</style>
           <text>3.</text>
           </StaffText>
@@ -858,6 +863,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <pos x="0.658281" y="-3"/>
             </Articulation>
           <Lyrics>
             <text>I</text>
@@ -1012,10 +1018,12 @@
         </Measure>
       <Measure number="7">
         <irregular/>
+        <vspacerUp>13.6282</vspacerUp>
         <Harmony>
           <root>13</root>
           </Harmony>
         <StaffText>
+          <pos x="0.714111" y="-5.68736"/>
           <style>Form Section</style>
           <text>Ostinato</text>
           </StaffText>
@@ -1026,6 +1034,7 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <pos x="0.658281" y="-3"/>
             </Articulation>
           <Beam>10</Beam>
           <Lyrics>
@@ -1130,6 +1139,9 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <name>m</name>
@@ -1250,6 +1262,7 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <pos x="0.658281" y="-3"/>
             </Articulation>
           <Beam>14</Beam>
           <Lyrics>
@@ -1352,6 +1365,9 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <name>m</name>
@@ -1466,7 +1482,9 @@
         </Measure>
       <Measure number="9">
         <irregular/>
+        <vspacerUp>15.3424</vspacerUp>
         <StaffText>
+          <pos x="1.80129" y="-4.22891"/>
           <style>Form Section</style>
           <text>Intro/Outro</text>
           </StaffText>

@@ -518,6 +518,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="0.799973" y="-3.5142"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -1729,6 +1730,9 @@
         </Measure>
       <Measure number="9" len="3/4">
         <endRepeat>2</endRepeat>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1857,6 +1861,11 @@
         </Measure>
       <Measure number="10" len="1/4">
         <startRepeat/>
+        <vspacerUp>32.399</vspacerUp>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <StaffText>
           <style>Form Section</style>
           <text>Chorus</text>

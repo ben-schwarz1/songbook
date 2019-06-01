@@ -482,6 +482,8 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -1498,6 +1500,9 @@
         </Measure>
       <Measure number="7">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -1817,6 +1822,9 @@
       <Measure number="9">
         <endRepeat>2</endRepeat>
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>17</root>
           </Harmony>
@@ -1921,11 +1929,17 @@
         </Measure>
       <Measure number="10">
         <startRepeat/>
+        <vspacerUp>28.4849</vspacerUp>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>16</root>
           <name>m</name>
           </Harmony>
         <StaffText>
+          <pos x="0.228564" y="-4.42846"/>
           <style>Form Section</style>
           <text>Refrain</text>
           </StaffText>

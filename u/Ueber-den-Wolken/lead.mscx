@@ -66,7 +66,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>Alegreya</family>
@@ -77,7 +77,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
         <family>Alegreya</family>
@@ -486,8 +486,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -509,6 +507,7 @@
         <height>7.83229</height>
         </VBox>
       <Measure number="1" len="3/4">
+        <stretch>0.9</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -526,6 +525,7 @@
           <root>15</root>
           </Harmony>
         <StaffText>
+          <pos x="0.799973" y="-3.97133"/>
           <style>Form Section</style>
           <text>Strophe</text>
           </StaffText>
@@ -672,6 +672,7 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <name>m7</name>
@@ -702,6 +703,7 @@
           </Rest>
         </Measure>
       <Measure number="3">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <name>7</name>
@@ -853,6 +855,7 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -925,6 +928,7 @@
           </Rest>
         </Measure>
       <Measure number="5">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -1073,6 +1077,7 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <name>m7</name>
@@ -1104,6 +1109,7 @@
           </Rest>
         </Measure>
       <Measure number="7">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <name>7</name>
@@ -1255,6 +1261,7 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -1327,6 +1334,7 @@
           </Rest>
         </Measure>
       <Measure number="9">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -1480,6 +1488,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <name>m7</name>
@@ -1510,6 +1519,7 @@
           </Rest>
         </Measure>
       <Measure number="11">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <name>7</name>
@@ -1662,6 +1672,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -1737,6 +1748,7 @@
           </Rest>
         </Measure>
       <Measure number="13">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -1886,6 +1898,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <name>m7</name>
@@ -1917,6 +1930,7 @@
           </Rest>
         </Measure>
       <Measure number="15">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <name>7</name>
@@ -2045,6 +2059,10 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <stretch>0.9</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -2122,10 +2140,13 @@
           </BarLine>
         </Measure>
       <Measure number="17">
+        <stretch>0.9</stretch>
+        <vspacerUp>24.0279</vspacerUp>
         <Harmony>
           <root>15</root>
           </Harmony>
         <StaffText>
+          <pos x="1.02854" y="-4.7713"/>
           <style>Form Section</style>
           <text>Refrain</text>
           </StaffText>
@@ -2182,6 +2203,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <name>m7</name>
@@ -2215,6 +2237,7 @@
           </Rest>
         </Measure>
       <Measure number="19">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <name>7</name>
@@ -2299,6 +2322,7 @@
           </Chord>
         </Measure>
       <Measure number="20">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -2370,6 +2394,7 @@
           </Chord>
         </Measure>
       <Measure number="21">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -2450,13 +2475,14 @@
           </Chord>
         </Measure>
       <Measure number="22">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
           <name>m7</name>
+          <pos x="-0.527802" y="-4.02172"/>
           </Harmony>
         <Tuplet id="4">
-          <pos x="0.337218" y="0.210761"/>
           <direction>up</direction>
           <bracketType>1</bracketType>
           <normalNotes>2</normalNotes>
@@ -2466,7 +2492,6 @@
             <style>Tuplet</style>
             <text>3</text>
             </Number>
-          <offset x="0.337218" y="0.210761"/>
           </Tuplet>
         <Chord>
           <Tuplet>4</Tuplet>
@@ -2519,6 +2544,7 @@
           </Chord>
         </Measure>
       <Measure number="23">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <name>7</name>
@@ -2600,6 +2626,7 @@
           </Chord>
         </Measure>
       <Measure number="24">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -2667,6 +2694,7 @@
           </Chord>
         </Measure>
       <Measure number="25">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -2743,6 +2771,7 @@
           </Chord>
         </Measure>
       <Measure number="26">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -2809,6 +2838,7 @@
           </Chord>
         </Measure>
       <Measure number="27">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>16</root>
           <name>7</name>
@@ -2890,6 +2920,7 @@
           </Chord>
         </Measure>
       <Measure number="28">
+        <stretch>0.9</stretch>
         <Harmony>
           <root>15</root>
           </Harmony>

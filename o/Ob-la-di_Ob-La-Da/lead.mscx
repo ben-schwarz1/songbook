@@ -549,6 +549,7 @@
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-1.82851" y="-4.54274"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>

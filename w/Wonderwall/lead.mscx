@@ -1627,7 +1627,7 @@
         </Measure>
       <Measure number="9" len="1/8">
         <stretch>0.9</stretch>
-        <vspacerUp>6.10714</vspacerUp>
+        <vspacerUp>20.0495</vspacerUp>
         <StaffText>
           <pos x="1.41883" y="-2.56818"/>
           <style>Form Section</style>
@@ -2375,6 +2375,7 @@
         </Measure>
       <Measure number="16">
         <stretch>0.9</stretch>
+        <vspacerUp>13.1711</vspacerUp>
         <Harmony>
           <root>15</root>
           <name>7sus4</name>

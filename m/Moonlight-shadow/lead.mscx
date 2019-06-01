@@ -525,6 +525,7 @@
           <name>m</name>
           </Harmony>
         <StaffText>
+          <pos x="-4.68556" y="-3.17136"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -2642,7 +2643,9 @@
         </Measure>
       <Measure number="17">
         <stretch>0.8</stretch>
+        <vspacerUp>21.1658</vspacerUp>
         <StaffText>
+          <pos x="-0.63864" y="-3.55456"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -2980,6 +2983,9 @@
         </Measure>
       <Measure number="21">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>

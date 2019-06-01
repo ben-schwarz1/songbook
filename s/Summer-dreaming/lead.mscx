@@ -541,6 +541,7 @@
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-3.42846" y="-2.59995"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -1820,6 +1821,9 @@
           </Chord>
         </Measure>
       <Measure number="8" len="11/16">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>13</root>
           <rootCase>1</rootCase>
@@ -1951,6 +1955,11 @@
           </BarLine>
         </Measure>
       <Measure number="9" len="5/16">
+        <MeasureNumber>
+          <style>Measure Number</style>
+          <text>9</text>
+          </MeasureNumber>
+        <vspacerUp>15.8827</vspacerUp>
         <StaffText>
           <style>Form Section</style>
           <text>Chorus</text>

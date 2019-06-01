@@ -70,7 +70,7 @@
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>Alegreya</family>
-        <size>13</size>
+        <size>12</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
@@ -81,7 +81,7 @@
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
         <family>Alegreya</family>
-        <size>13</size>
+        <size>12</size>
         <italic>1</italic>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -481,12 +481,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -540,9 +534,10 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>3.65702</height>
         </VBox>
       <Measure number="1" len="1/4">
+        <stretch>0.7</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -596,6 +591,7 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -913,6 +909,7 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1230,6 +1227,7 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1585,6 +1583,7 @@
           </Chord>
         </Measure>
       <Measure number="5">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1787,6 +1786,7 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2143,6 +2143,7 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2513,6 +2514,7 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2883,6 +2885,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3083,6 +3086,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.7</stretch>
         <Slur id="6">
           <track>0</track>
           <lineType>1</lineType>
@@ -3177,6 +3181,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.7</stretch>
         <Slur id="7">
           <track>0</track>
           <lineType>1</lineType>
@@ -3273,6 +3278,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.7</stretch>
         <Slur id="8">
           <track>0</track>
           <lineType>1</lineType>
@@ -3367,6 +3373,7 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <stretch>0.7</stretch>
         <Slur id="9">
           <track>0</track>
           </Slur>
@@ -3462,6 +3469,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.7</stretch>
         <Slur id="10">
           <track>0</track>
           <lineType>1</lineType>
@@ -3556,6 +3564,7 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <stretch>0.7</stretch>
         <Slur id="11">
           <track>0</track>
           <lineType>1</lineType>
@@ -3694,6 +3703,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <stretch>0.7</stretch>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3959,6 +3969,7 @@
         </Measure>
       <Measure number="17" len="3/4">
         <endRepeat>2</endRepeat>
+        <stretch>0.7</stretch>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>

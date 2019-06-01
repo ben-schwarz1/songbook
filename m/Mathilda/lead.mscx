@@ -527,6 +527,7 @@
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-0.685691" y="-2.94279"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -853,6 +854,7 @@
             </Note>
           </Chord>
         <StaffText>
+          <pos x="0.799973" y="-5.08561"/>
           <style>Repeat Text Right</style>
           <text>Fine</text>
           </StaffText>
@@ -1498,6 +1500,9 @@
         </Measure>
       <Measure number="15">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>

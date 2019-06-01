@@ -525,11 +525,10 @@
           <subtype>start-repeat</subtype>
           <span>1</span>
           </BarLine>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>E</text>
-          </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -600,11 +599,10 @@
           </Chord>
         </Measure>
       <Measure number="2">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>F#</text>
-          </StaffText>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -659,11 +657,10 @@
           </Rest>
         </Measure>
       <Measure number="3">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>A</text>
-          </StaffText>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -735,11 +732,10 @@
         </Measure>
       <Measure number="4">
         <endRepeat>2</endRepeat>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>E</text>
-          </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
@@ -758,11 +754,10 @@
           </Chord>
         </Measure>
       <Measure number="5">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>E</text>
-          </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -805,11 +800,10 @@
           </Rest>
         </Measure>
       <Measure number="6">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>f#</text>
-          </StaffText>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -852,11 +846,10 @@
           </Rest>
         </Measure>
       <Measure number="7">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>E</text>
-          </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -899,11 +892,10 @@
           </Rest>
         </Measure>
       <Measure number="8">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>F#</text>
-          </StaffText>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -958,11 +950,10 @@
           </Chord>
         </Measure>
       <Measure number="9">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>E</text>
-          </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1013,11 +1004,10 @@
           </Chord>
         </Measure>
       <Measure number="10">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>F#</text>
-          </StaffText>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1060,11 +1050,10 @@
           </Rest>
         </Measure>
       <Measure number="11">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>A</text>
-          </StaffText>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1123,11 +1112,10 @@
           </Chord>
         </Measure>
       <Measure number="12">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>E</text>
-          </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Beam id="2">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1164,11 +1152,11 @@
           </Rest>
         </Measure>
       <Measure number="13">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>H7</text>
-          </StaffText>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1238,11 +1226,10 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>c#</text>
-          </StaffText>
+        <Harmony>
+          <root>21</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1335,11 +1322,10 @@
           </Chord>
         </Measure>
       <Measure number="17">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>F#</text>
-          </StaffText>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1409,11 +1395,10 @@
           </Chord>
         </Measure>
       <Measure number="19">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>A</text>
-          </StaffText>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1466,11 +1451,11 @@
           </Chord>
         </Measure>
       <Measure number="20">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text>H7</text>
-          </StaffText>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Beam id="4">
           <StemDirection>up</StemDirection>
           </Beam>

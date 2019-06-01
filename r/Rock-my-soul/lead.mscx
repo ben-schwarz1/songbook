@@ -482,6 +482,10 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -522,6 +526,7 @@
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-1.94279" y="-1.91425"/>
           <style>Form Section</style>
           <text>1.</text>
           </StaffText>
@@ -798,6 +803,9 @@
           </Chord>
         </Measure>
       <Measure number="5">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>13</root>
           <rootCase>1</rootCase>
@@ -973,6 +981,9 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>13</root>
           <rootCase>1</rootCase>
@@ -1006,6 +1017,7 @@
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-1.94279" y="-1.57141"/>
           <style>Form Section</style>
           <text>2.</text>
           </StaffText>
@@ -1148,6 +1160,9 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -1363,6 +1378,9 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>13</root>
           <rootCase>1</rootCase>
@@ -1396,6 +1414,7 @@
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-2.28564" y="-2.48566"/>
           <style>Form Section</style>
           <text>3.</text>
           </StaffText>
@@ -1484,6 +1503,9 @@
           </Rest>
         </Measure>
       <Measure number="20">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>

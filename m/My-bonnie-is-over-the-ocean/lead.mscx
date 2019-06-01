@@ -9,14 +9,27 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <minSystemDistance>9.25</minSystemDistance>
+      <maxSystemDistance>10</maxSystemDistance>
+      <evenFooterL></evenFooterL>
+      <evenFooterC></evenFooterC>
+      <oddFooterC></oddFooterC>
+      <oddFooterR></oddFooterR>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <family>Alegreya</family>
+        <size>10</size>
+        </TextStyle>
       <TextStyle>
         <halign>center</halign>
         <valign>top</valign>
         <offsetType>absolute</offsetType>
         <name>Title</name>
-        <family>Arial</family>
+        <family>Alegreya Sans</family>
         <size>24</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
         <halign>center</halign>
@@ -25,31 +38,59 @@
         <yoffset>10</yoffset>
         <offsetType>absolute</offsetType>
         <name>Subtitle</name>
-        <family>Arial</family>
-        <size>14</size>
+        <family>Alegreya Sans</family>
+        <size>18</size>
+        <bold>1</bold>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
         <halign>right</halign>
         <valign>bottom</valign>
         <offsetType>absolute</offsetType>
         <name>Composer</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
         <halign>left</halign>
         <valign>bottom</valign>
         <offsetType>absolute</offsetType>
         <name>Lyricist</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Lyrics Odd Lines</name>
+        <family>Alegreya</family>
+        <size>13</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Lyrics Even Lines</name>
+        <family>Alegreya</family>
+        <size>13</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
         <halign>center</halign>
         <valign>center</valign>
         <offsetType>spatium</offsetType>
         <name>Fingering</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -60,7 +101,7 @@
         <yoffset>0</yoffset>
         <offsetType>spatium</offsetType>
         <name>LH Guitar Fingering</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -69,7 +110,7 @@
         <valign>center</valign>
         <offsetType>spatium</offsetType>
         <name>RH Guitar Fingering</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -80,7 +121,7 @@
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>String Number</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         <frameWidthS>0.1</frameWidthS>
@@ -94,7 +135,7 @@
         <valign>center</valign>
         <offsetType>absolute</offsetType>
         <name>Instrument Name (Long)</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -103,7 +144,7 @@
         <valign>center</valign>
         <offsetType>absolute</offsetType>
         <name>Instrument Name (Short)</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -112,7 +153,7 @@
         <valign>top</valign>
         <offsetType>absolute</offsetType>
         <name>Instrument Name (Part)</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>18</size>
         </TextStyle>
       <TextStyle>
@@ -122,7 +163,7 @@
         <yoffset>8</yoffset>
         <offsetType>spatium</offsetType>
         <name>Dynamics</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -133,7 +174,7 @@
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>Technique</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <italic>1</italic>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
@@ -145,7 +186,7 @@
         <yoffset>-4</yoffset>
         <offsetType>spatium</offsetType>
         <name>Tempo</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
@@ -156,7 +197,7 @@
         <valign>top</valign>
         <offsetType>spatium</offsetType>
         <name>Metronome</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <bold>1</bold>
         </TextStyle>
@@ -167,7 +208,7 @@
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>Measure Number</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -178,7 +219,7 @@
         <yoffset>6</yoffset>
         <offsetType>spatium</offsetType>
         <name>Translator</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>11</size>
         </TextStyle>
       <TextStyle>
@@ -186,7 +227,7 @@
         <valign>center</valign>
         <offsetType>absolute</offsetType>
         <name>Tuplet</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>10</size>
         <italic>1</italic>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
@@ -198,7 +239,7 @@
         <yoffset>-4</yoffset>
         <offsetType>spatium</offsetType>
         <name>System</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>10</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         <systemFlag>1</systemFlag>
@@ -210,17 +251,19 @@
         <yoffset>-4</yoffset>
         <offsetType>spatium</offsetType>
         <name>Staff</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>10</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>1</yoffset>
         <offsetType>spatium</offsetType>
         <name>Chord Symbol</name>
-        <family>Arial</family>
-        <size>12</size>
+        <family>Alegreya</family>
+        <size>8</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
@@ -230,7 +273,7 @@
         <yoffset>-3</yoffset>
         <offsetType>spatium</offsetType>
         <name>Rehearsal Mark</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>14</size>
         <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
@@ -247,8 +290,9 @@
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>Repeat Text Left</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>20</size>
+        <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         <systemFlag>1</systemFlag>
         </TextStyle>
@@ -259,8 +303,9 @@
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>Repeat Text Right</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
+        <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         <systemFlag>1</systemFlag>
         </TextStyle>
@@ -271,8 +316,9 @@
         <yoffset>-2</yoffset>
         <offsetType>spatium</offsetType>
         <name>Repeat Text</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
+        <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         <systemFlag>1</systemFlag>
         </TextStyle>
@@ -283,7 +329,7 @@
         <yoffset>1.9</yoffset>
         <offsetType>spatium</offsetType>
         <name>Volta</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>11</size>
         <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
@@ -293,7 +339,7 @@
         <valign>top</valign>
         <offsetType>spatium</offsetType>
         <name>Frame</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         </TextStyle>
       <TextStyle>
@@ -301,7 +347,7 @@
         <valign>center</valign>
         <offsetType>spatium</offsetType>
         <name>Text Line</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -310,7 +356,7 @@
         <valign>baseline</valign>
         <offsetType>spatium</offsetType>
         <name>Glissando</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         <italic>1</italic>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
@@ -320,7 +366,7 @@
         <valign>center</valign>
         <offsetType>spatium</offsetType>
         <name>Ottava</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <italic>1</italic>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
@@ -332,18 +378,8 @@
         <yoffset>0.15</yoffset>
         <offsetType>spatium</offsetType>
         <name>Pedal</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
-        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
-        </TextStyle>
-      <TextStyle>
-        <halign>left</halign>
-        <valign>baseline</valign>
-        <offsetType>spatium</offsetType>
-        <name>Hairpin</name>
-        <family>Arial</family>
-        <size>12</size>
-        <italic>1</italic>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
@@ -351,7 +387,7 @@
         <valign>bottom</valign>
         <offsetType>spatium</offsetType>
         <name>Bend</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -360,7 +396,7 @@
         <valign>top</valign>
         <offsetType>spatium</offsetType>
         <name>Header</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         </TextStyle>
       <TextStyle>
@@ -370,7 +406,7 @@
         <yoffset>5</yoffset>
         <offsetType>absolute</offsetType>
         <name>Footer</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>8</size>
         </TextStyle>
       <TextStyle>
@@ -380,21 +416,27 @@
         <yoffset>-3</yoffset>
         <offsetType>spatium</offsetType>
         <name>Instrument Change</name>
-        <family>Arial</family>
+        <family>Alegreya</family>
         <size>12</size>
         <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
-        <halign>left</halign>
-        <valign>top</valign>
+        <halign>center</halign>
+        <valign>bottom</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>-1</yoffset>
         <offsetType>spatium</offsetType>
-        <name>Figured Bass</name>
-        <family>Arial</family>
-        <size>8</size>
+        <name>Form Section</name>
+        <family>Alegreya Sans</family>
+        <size>12</size>
+        <bold>1</bold>
+        <italic>1</italic>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.1</frameWidthS>
+        <paddingWidthS>0.2</paddingWidthS>
+        <frameRound>0</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
         </TextStyle>
       <page-layout>
         <page-height>1088.5</page-height>
@@ -407,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <evenFooterL></evenFooterL><oddFooterR></oddFooterR><maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -495,7 +537,6 @@
             <style>Lyrics Even Lines</style>
             <text>4.The</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -525,7 +566,6 @@
             <style>Lyrics Even Lines</style>
             <text>winds</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -552,7 +592,6 @@
             <style>Lyrics Even Lines</style>
             <text>have</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -578,7 +617,6 @@
             <style>Lyrics Even Lines</style>
             <text>blown</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -607,7 +645,6 @@
             <style>Lyrics Even Lines</style>
             <text>o</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -636,7 +673,6 @@
             <style>Lyrics Even Lines</style>
             <text>ver</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -662,7 +698,6 @@
             <style>Lyrics Even Lines</style>
             <text>the</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -694,7 +729,6 @@
             <style>Lyrics Even Lines</style>
             <text>o</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -726,7 +760,6 @@
             <style>Lyrics Even Lines</style>
             <text>cean,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <Tie id="2">
               </Tie>
@@ -737,7 +770,6 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="2"/>
             <pitch>61</pitch>
@@ -764,7 +796,6 @@
             <style>Lyrics Even Lines</style>
             <text>the</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -794,7 +825,6 @@
             <style>Lyrics Even Lines</style>
             <text>winds</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -821,7 +851,6 @@
             <style>Lyrics Even Lines</style>
             <text>have</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -847,7 +876,6 @@
             <style>Lyrics Even Lines</style>
             <text>blown</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -876,7 +904,6 @@
             <style>Lyrics Even Lines</style>
             <text>o</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -905,7 +932,6 @@
             <style>Lyrics Even Lines</style>
             <text>ver</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -931,7 +957,6 @@
             <style>Lyrics Even Lines</style>
             <text>the</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -960,7 +985,6 @@
             <style>Lyrics Even Lines</style>
             <text>sea;</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <Tie id="3">
               </Tie>
@@ -971,7 +995,6 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <endSpanner id="3"/>
             <pitch>71</pitch>
@@ -998,7 +1021,6 @@
             <style>Lyrics Even Lines</style>
             <text>The</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1028,7 +1050,6 @@
             <style>Lyrics Even Lines</style>
             <text>winds</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -1055,7 +1076,6 @@
             <style>Lyrics Even Lines</style>
             <text>have</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1081,7 +1101,6 @@
             <style>Lyrics Even Lines</style>
             <text>blown</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1110,7 +1129,6 @@
             <style>Lyrics Even Lines</style>
             <text>o</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1139,7 +1157,6 @@
             <style>Lyrics Even Lines</style>
             <text>ver</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1165,7 +1182,6 @@
             <style>Lyrics Even Lines</style>
             <text>the</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1197,7 +1213,6 @@
             <style>Lyrics Even Lines</style>
             <text>o</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1228,7 +1243,6 @@
             <style>Lyrics Even Lines</style>
             <text>cean</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <Tie id="4">
               </Tie>
@@ -1239,7 +1253,6 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="4"/>
             <pitch>61</pitch>
@@ -1266,7 +1279,6 @@
             <style>Lyrics Even Lines</style>
             <text>and</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1294,7 +1306,6 @@
             <style>Lyrics Even Lines</style>
             <text>brought</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1320,7 +1331,6 @@
             <style>Lyrics Even Lines</style>
             <text>back</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1346,7 +1356,6 @@
             <style>Lyrics Even Lines</style>
             <text>my</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1376,7 +1385,6 @@
             <style>Lyrics Even Lines</style>
             <text>Bon</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1406,7 +1414,6 @@
             <style>Lyrics Even Lines</style>
             <text>nie</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1432,7 +1439,6 @@
             <style>Lyrics Even Lines</style>
             <text>to</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1461,7 +1467,6 @@
             <style>Lyrics Even Lines</style>
             <text>me.</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <Tie id="5">
               </Tie>
@@ -1473,7 +1478,6 @@
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="5"/>
             <pitch>69</pitch>
@@ -1489,7 +1493,6 @@
           <Lyrics>
             <text>Bring</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1502,7 +1505,6 @@
           <Lyrics>
             <text>back,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1517,7 +1519,6 @@
           <Lyrics>
             <text>bring</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1530,7 +1531,6 @@
           <Lyrics>
             <text>back,</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1544,7 +1544,6 @@
           <Lyrics>
             <text>bring</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1556,7 +1555,6 @@
           <Lyrics>
             <text>back</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1568,7 +1566,6 @@
           <Lyrics>
             <text>my</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1581,7 +1578,6 @@
             <syllabic>begin</syllabic>
             <text>Bon</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1594,7 +1590,6 @@
             <syllabic>end</syllabic>
             <text>nie</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1606,7 +1601,6 @@
           <Lyrics>
             <text>to</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1620,7 +1614,6 @@
           <Lyrics>
             <text>me,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1632,7 +1625,6 @@
           <Lyrics>
             <text>to</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1642,7 +1634,6 @@
           <track>0</track>
           </Slur>
         <Beam id="1">
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1678,6 +1669,9 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1685,7 +1679,6 @@
           <Lyrics>
             <text>bring</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1698,7 +1691,6 @@
           <Lyrics>
             <text>back,</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1713,7 +1705,6 @@
           <Lyrics>
             <text>bring</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1726,7 +1717,6 @@
           <Lyrics>
             <text>back,</text>
             </Lyrics>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1740,7 +1730,6 @@
           <Lyrics>
             <text>bring</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1752,7 +1741,6 @@
           <Lyrics>
             <text>back</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1764,7 +1752,6 @@
           <Lyrics>
             <text>my</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1777,7 +1764,6 @@
             <syllabic>begin</syllabic>
             <text>Bon</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1790,7 +1776,6 @@
             <syllabic>end</syllabic>
             <text>nie</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1802,7 +1787,6 @@
           <Lyrics>
             <text>to</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1817,7 +1801,6 @@
           <Lyrics>
             <text>me.</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>

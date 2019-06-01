@@ -2095,6 +2095,9 @@
           </Chord>
         </Measure>
       <Measure number="17">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -2115,10 +2118,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <StaffText>
-          <style>Form Section</style>
-          <text>Chorus</text>
-          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2136,10 +2135,16 @@
           </BarLine>
         </Measure>
       <Measure number="18">
+        <vspacerUp>20.1423</vspacerUp>
         <Harmony>
           <root>13</root>
           <rootCase>1</rootCase>
           </Harmony>
+        <StaffText>
+          <pos x="-0.11428" y="-4.08561"/>
+          <style>Form Section</style>
+          <text>Chorus</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>

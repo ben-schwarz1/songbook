@@ -66,7 +66,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>Alegreya</family>
@@ -545,8 +545,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-1</yoffset>
+          <pos x="-2.62848" y="-1.34285"/>
+          <style>Form Section</style>
           <text>1.</text>
           </StaffText>
         <Chord>
@@ -868,6 +868,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="-3.65702" y="-1.57141"/>
+          <style>Form Section</style>
           <text>2.</text>
           </StaffText>
         <Chord>
@@ -1188,8 +1190,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-0.5</yoffset>
+          <pos x="-3.31417" y="-1.11428"/>
+          <style>Form Section</style>
           <text>3.</text>
           </StaffText>
         <Chord>

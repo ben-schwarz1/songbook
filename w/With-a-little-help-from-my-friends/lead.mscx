@@ -1575,6 +1575,7 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>No,</text>
             </Lyrics>
@@ -1638,6 +1639,7 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
             <text>by</text>
             </Lyrics>
@@ -1742,6 +1744,7 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>help</text>
             </Lyrics>
@@ -1803,10 +1806,12 @@
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
+            <ticks>120</ticks>
             <text>friends,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
             <text>friends.</text>
             </Lyrics>
@@ -1839,12 +1844,12 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
             <ticks>240</ticks>
             <text>Mm,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>Mm,</text>
             </Lyrics>
@@ -2075,10 +2080,12 @@
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
+            <ticks>120</ticks>
             <text>friends</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
             <text>friends.</text>
             </Lyrics>
@@ -2112,11 +2119,13 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text>mm,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>Mm,</text>
             </Lyrics>
@@ -2142,7 +2151,6 @@
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
             <text>I'm</text>
             </Lyrics>
           <Lyrics>
@@ -2195,10 +2203,12 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>try</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>try</text>
             </Lyrics>
@@ -2267,7 +2277,7 @@
           <durationType>16th</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>ht</text>
+            <text>lit</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -2302,11 +2312,13 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text>help</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>help</text>
             </Lyrics>
@@ -2335,7 +2347,6 @@
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
             <text>from</text>
             </Lyrics>
           <Lyrics>
@@ -2369,15 +2380,19 @@
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>end</syllabic>
+            <ticks>120</ticks>
             <text>friends.</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
             <text>friends.</text>
             </Lyrics>
           <Note>
+            <Tie id="25">
+              </Tie>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -2395,7 +2410,12 @@
           <yoffset>-1.7</yoffset>
           <text>I.</text>
           </StaffText>
-        <Volta id="25">
+        <StaffText>
+          <xoffset>0</xoffset>
+          <yoffset>-1.7</yoffset>
+          <text>I.</text>
+          </StaffText>
+        <Volta id="26">
           <endHook>1</endHook>
           <beginText>
             <text>1</text>
@@ -2406,6 +2426,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
+            <endSpanner id="25"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -2421,8 +2442,8 @@
         </Measure>
       <Measure number="15">
         <stretch>0.9</stretch>
-        <endSpanner id="25"/>
-        <Volta id="26">
+        <endSpanner id="26"/>
+        <Volta id="27">
           <endHook>1</endHook>
           <beginText>
             <text>2</text>
@@ -2471,7 +2492,7 @@
             <text>need</text>
             </Lyrics>
           <Note>
-            <Tie id="27">
+            <Tie id="28">
               <up>1</up>
               </Tie>
             <pitch>72</pitch>
@@ -2485,12 +2506,12 @@
           <root>17</root>
           <name>m</name>
           </Harmony>
-        <endSpanner id="26"/>
+        <endSpanner id="27"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="27"/>
+            <endSpanner id="28"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
@@ -2527,7 +2548,7 @@
             <text>bod</text>
             </Lyrics>
           <Note>
-            <Tie id="28">
+            <Tie id="29">
               <up>1</up>
               </Tie>
             <pitch>71</pitch>
@@ -2545,7 +2566,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Note>
-            <endSpanner id="28"/>
+            <endSpanner id="29"/>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -2559,7 +2580,7 @@
             <text>y?</text>
             </Lyrics>
           <Note>
-            <Tie id="29">
+            <Tie id="30">
               <up>1</up>
               </Tie>
             <pitch>69</pitch>
@@ -2570,7 +2591,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="29"/>
+            <endSpanner id="30"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -2666,7 +2687,7 @@
             <text>love.</text>
             </Lyrics>
           <Note>
-            <Tie id="30">
+            <Tie id="31">
               <up>2</up>
               </Tie>
             <pitch>60</pitch>
@@ -2683,7 +2704,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="30"/>
+            <endSpanner id="31"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -2718,7 +2739,7 @@
             <text>be</text>
             </Lyrics>
           <Note>
-            <Tie id="31">
+            <Tie id="32">
               <up>1</up>
               </Tie>
             <pitch>72</pitch>
@@ -2732,7 +2753,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="31"/>
+            <endSpanner id="32"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
@@ -2775,7 +2796,7 @@
             <text>bod</text>
             </Lyrics>
           <Note>
-            <Tie id="32">
+            <Tie id="33">
               <up>2</up>
               </Tie>
             <pitch>71</pitch>
@@ -2794,7 +2815,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Note>
-            <endSpanner id="32"/>
+            <endSpanner id="33"/>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -2808,7 +2829,7 @@
             <text>y?</text>
             </Lyrics>
           <Note>
-            <Tie id="33">
+            <Tie id="34">
               <up>1</up>
               </Tie>
             <pitch>69</pitch>
@@ -2819,7 +2840,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="33"/>
+            <endSpanner id="34"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -2915,7 +2936,7 @@
             <text>love.</text>
             </Lyrics>
           <Note>
-            <Tie id="34">
+            <Tie id="35">
               <up>2</up>
               </Tie>
             <pitch>60</pitch>
@@ -2939,7 +2960,7 @@
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <endSpanner id="34"/>
+            <endSpanner id="35"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>

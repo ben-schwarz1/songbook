@@ -480,6 +480,10 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -519,6 +523,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="-2.39992" y="-1.11428"/>
           <style>Form Section</style>
           <text>1.</text>
           </StaffText>
@@ -702,6 +707,9 @@
         </Measure>
       <Measure number="4">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -903,6 +911,9 @@
         </Measure>
       <Measure number="8">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -930,6 +941,7 @@
       <Measure number="9">
         <stretch>0.8</stretch>
         <StaffText>
+          <pos x="-1.82851" y="-1.91425"/>
           <style>Form Section</style>
           <text>2.</text>
           </StaffText>
@@ -1148,6 +1160,9 @@
         </Measure>
       <Measure number="12">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1381,6 +1396,9 @@
         </Measure>
       <Measure number="16">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1407,11 +1425,16 @@
       <Measure number="17">
         <startRepeat/>
         <stretch>0.8</stretch>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
+          <pos x="-2.74276" y="-2.02854"/>
           <style>Form Section</style>
           <text>3.</text>
           </StaffText>
@@ -1506,6 +1529,9 @@
       <Measure number="20">
         <endRepeat>2</endRepeat>
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1566,6 +1592,7 @@
           <span>1</span>
           </BarLine>
         <StaffText>
+          <pos x="-2.17136" y="-1.79997"/>
           <style>Form Section</style>
           <text>4.</text>
           </StaffText>

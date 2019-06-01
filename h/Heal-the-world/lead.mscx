@@ -9,6 +9,7 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -448,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -474,14 +475,10 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -490,24 +487,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -2083,7 +2062,7 @@
         </Measure>
       <Measure number="13">
         <StaffText>
-          <pos x="3.35989" y="-2.02854"/>
+          <pos x="7.81688" y="-1.34285"/>
           <style>Form Section</style>
           <text>Bridge</text>
           </StaffText>
@@ -2698,7 +2677,7 @@
         </Measure>
       <Measure number="17">
         <StaffText>
-          <pos x="2.46849" y="-1.27428"/>
+          <pos x="5.43982" y="-1.50284"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>

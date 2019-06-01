@@ -9,6 +9,7 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>10</maxSystemDistance>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -448,7 +449,7 @@
           </page-margins>
         </page-layout>
       <Spatium>1.2</Spatium>
-      <maxSystemDistance>10</maxSystemDistance></Style>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
@@ -476,16 +477,10 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -500,18 +495,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -1272,7 +1255,7 @@
       <Measure number="9">
         <startRepeat/>
         <stretch>0.6</stretch>
-        <vspacerUp>10.569</vspacerUp>
+        <vspacerUp>14.7974</vspacerUp>
         <BarLine>
           <subtype>start-repeat</subtype>
           <span>1</span>
@@ -2585,7 +2568,7 @@
       <Measure number="22">
         <startRepeat/>
         <stretch>0.8</stretch>
-        <vspacerUp>14.3536</vspacerUp>
+        <vspacerUp>18.4677</vspacerUp>
         <BarLine>
           <subtype>start-repeat</subtype>
           <span>1</span>
@@ -2790,6 +2773,9 @@
       <Measure number="25">
         <endRepeat>2</endRepeat>
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -2858,7 +2844,7 @@
           <pos x="0" y="-2.5"/>
           </Harmony>
         <StaffText>
-          <pos x="-1.04086" y="-4.65558"/>
+          <pos x="-4.46932" y="-2.82707"/>
           <style>Form Section</style>
           <text>Verse 3</text>
           </StaffText>
@@ -3634,6 +3620,9 @@
       <Measure number="37">
         <endRepeat>2</endRepeat>
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
@@ -3710,7 +3699,7 @@
           <pos x="0" y="-2.5"/>
           </Harmony>
         <StaffText>
-          <pos x="-0.04709" y="-6.08655"/>
+          <pos x="0.0671919" y="-4.4866"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -3962,10 +3951,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <BarLine>
-          <subtype>end-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     </Score>

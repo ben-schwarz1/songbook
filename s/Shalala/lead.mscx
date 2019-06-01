@@ -10,6 +10,7 @@
     <Division>480</Division>
     <Style>
       <maxSystemDistance>10</maxSystemDistance>
+      <lyricsDistance>3</lyricsDistance>
       <evenFooterL></evenFooterL>
       <evenFooterC></evenFooterC>
       <oddFooterC></oddFooterC>
@@ -508,7 +509,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>9.52772</height>
+        <height>0.799973</height>
         </VBox>
       <Measure number="1">
         <Clef>
@@ -1148,6 +1149,7 @@
           </BarLine>
         </Measure>
       <Measure number="9" len="1/8">
+        <vspacerUp>11.6854</vspacerUp>
         <StaffText>
           <style>Form Section</style>
           <text>Strophe</text>
@@ -2595,6 +2597,9 @@
           </Chord>
         </Measure>
       <Measure number="22">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>17</root>
           <name>7</name>

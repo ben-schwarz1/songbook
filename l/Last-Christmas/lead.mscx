@@ -559,6 +559,7 @@
           <root>16</root>
           </Harmony>
         <StaffText>
+          <pos x="6.39978" y="-1.57141"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -1047,6 +1048,7 @@
           <name>6</name>
           </Harmony>
         <StaffText>
+          <pos x="6.17122" y="-0.885718"/>
           <style>Form Section</style>
           <text>Verse 1</text>
           </StaffText>
@@ -1631,6 +1633,7 @@
           <root>16</root>
           </Harmony>
         <StaffText>
+          <pos x="5.25697" y="-1"/>
           <style>Form Section</style>
           <text>Verse 2</text>
           </StaffText>
@@ -2236,6 +2239,7 @@
           <root>16</root>
           </Harmony>
         <StaffText>
+          <pos x="5.82838" y="-1.22856"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -2726,6 +2730,7 @@
           <root>16</root>
           </Harmony>
         <StaffText>
+          <pos x="5.14268" y="-1.34285"/>
           <style>Form Section</style>
           <text>Verse 3</text>
           </StaffText>
@@ -3823,6 +3828,7 @@
           <root>16</root>
           </Harmony>
         <StaffText>
+          <pos x="5.94266" y="-1.68569"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
