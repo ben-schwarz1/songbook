@@ -95,12 +95,20 @@
 %-----------------------------------------------------------------------
 
 \usepackage{titlesec}
+\titlespacing{\section}{0pt}{0pt}{0pt}
 %\titleformat{command}[shape]{format}{label}{sep}{before-code}[after-code]
 \titleformat{\subsection}[runin]{\bfseries}{}{0pt}{}
 
 %-----------------------------------------------------------------------
 % Custom macros
 %-----------------------------------------------------------------------
+
+%%
+% \tmpcolumnbreak
+% To be more flexible in the future. We can extend this minimal
+% macro.
+%%
+\newcommand{\tmpcolumnbreak}{\columnbreak}
 
 %%
 % \tmptitle
@@ -122,8 +130,6 @@
   \begin{center}
   \includegraphics[scale=0.95]{#1}%
   \end{center}
-
-  \columnbreak
 }
 
 %%
@@ -150,8 +156,6 @@
   \vfill
   \strut
   \end{center}
-
-  \columnbreak
 }
 
 \setcounter{secnumdepth}{-1}
