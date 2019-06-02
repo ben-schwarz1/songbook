@@ -53,7 +53,6 @@
   BoldItalicFeatures = { SmallCapsFont={ *SC-ExtraBoldItalic } },
 ]
 
-
 %-----------------------------------------------------------------------
 % multicol
 %-----------------------------------------------------------------------
@@ -92,18 +91,32 @@
 \renewcommand{\subsectionmark}[1]{}
 
 %-----------------------------------------------------------------------
+%
+%-----------------------------------------------------------------------
+
+\usepackage{titlesec}
+%\titleformat{command}[shape]{format}{label}{sep}{before-code}[after-code]
+\titleformat{\subsection}[runin]{\bfseries}{}{0pt}{}
+
+%-----------------------------------------------------------------------
 % Custom macros
 %-----------------------------------------------------------------------
 
 %%
-%
+% \tmptitle
 %%
-\newcommand{\tmpheading}[1]{%
-  \subsection{#1}%
+\newcommand{\tmpmetadata}[4]{%
+  \subsection{#1} % title
+  { %
+    \footnotesize
+    \textit{#2} % subtitle
+    \textsc{#3} % composer
+    \textit{\textsc{#4}} % lyricist
+  }
 }
 
 %%
-%
+% \tmpimage
 %%
 \newcommand{\tmpimage}[1]{%
   \begin{center}
@@ -114,7 +127,7 @@
 }
 
 %%
-%
+% \tmpchapter
 %%
 \newcommand{\tmpchapter}[1]{%
 \end{multicols*}
@@ -127,7 +140,7 @@
 }
 
 %%
-%
+% \tmpplaceholder
 %%
 \newcommand{\tmpplaceholder}{%
   \begin{center}
