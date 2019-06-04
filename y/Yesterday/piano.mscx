@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.1.0</programVersion>
-  <programRevision>871c8ce</programRevision>
+  <programVersion>2.3.2</programVersion>
+  <programRevision>4592407</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -8292,6 +8292,8 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
+            <Tie id="73">
+              </Tie>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -8299,6 +8301,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
+            <endSpanner id="73"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -8346,7 +8349,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="73">
+            <Tie id="74">
               </Tie>
             <pitch>38</pitch>
             <tpc>16</tpc>
@@ -8355,7 +8358,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="73"/>
+            <endSpanner id="74"/>
             <pitch>38</pitch>
             <tpc>16</tpc>
             </Note>
@@ -8410,7 +8413,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="74">
+            <Tie id="75">
               </Tie>
             <pitch>38</pitch>
             <tpc>16</tpc>
@@ -8419,7 +8422,7 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="74"/>
+            <endSpanner id="75"/>
             <pitch>38</pitch>
             <tpc>16</tpc>
             </Note>
@@ -9698,13 +9701,13 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="75">
+            <Tie id="76">
               </Tie>
             <pitch>38</pitch>
             <tpc>16</tpc>
             </Note>
           <Note>
-            <Tie id="76">
+            <Tie id="77">
               </Tie>
             <pitch>50</pitch>
             <tpc>16</tpc>
@@ -9713,12 +9716,12 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="75"/>
+            <endSpanner id="76"/>
             <pitch>38</pitch>
             <tpc>16</tpc>
             </Note>
           <Note>
-            <endSpanner id="76"/>
+            <endSpanner id="77"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
