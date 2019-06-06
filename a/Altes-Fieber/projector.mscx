@@ -495,8 +495,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
         <System>
@@ -519,6 +517,10 @@
           </System>
         </Page>
       <Page>
+        <System>
+          </System>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -905,6 +907,10 @@
         </Measure>
       <Measure number="8">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1335,6 +1341,10 @@
         </Measure>
       <Measure number="16">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -2236,18 +2246,51 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="32">
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="33">
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="34">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
         <BarLine>
           <subtype>double</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="32">
+      <Measure number="35">
         <stretch>0.8</stretch>
+        <vspacerUp>13.5596</vspacerUp>
         <StaffText>
-          <pos x="4.6627" y="-2.57709"/>
+          <pos x="3.01704" y="-4.83987"/>
           <style>Form Section</style>
           <text>Strophe 2</text>
           </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -2323,7 +2366,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="33">
+      <Measure number="36">
         <stretch>0.8</stretch>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2362,7 +2405,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="34">
+      <Measure number="37">
         <stretch>0.8</stretch>
         <Rest>
           <durationType>quarter</durationType>
@@ -2431,7 +2474,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="35">
+      <Measure number="38">
         <stretch>0.8</stretch>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2491,7 +2534,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="36">
+      <Measure number="39">
         <stretch>0.8</stretch>
         <Harmony>
           <root>15</root>
@@ -2579,7 +2622,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="37">
+      <Measure number="40">
         <stretch>0.8</stretch>
         <Rest>
           <durationType>eighth</durationType>
@@ -2642,7 +2685,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="38">
+      <Measure number="41">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -2665,8 +2708,12 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="39">
+      <Measure number="42">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -2709,7 +2756,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="40">
+      <Measure number="43">
         <stretch>0.8</stretch>
         <Harmony>
           <root>17</root>
@@ -2789,7 +2836,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="41">
+      <Measure number="44">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -2832,8 +2879,12 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="42">
+      <Measure number="45">
         <stretch>0.8</stretch>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -2907,7 +2958,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="43">
+      <Measure number="46">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -2939,7 +2990,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="44">
+      <Measure number="47">
         <stretch>0.8</stretch>
         <Harmony>
           <root>17</root>
@@ -2992,7 +3043,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="45">
+      <Measure number="48">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -3071,7 +3122,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="46">
+      <Measure number="49">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -3093,7 +3144,7 @@
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="47">
+      <Measure number="50">
         <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
@@ -3158,7 +3209,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="48">
+      <Measure number="51">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -3201,7 +3252,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="49">
+      <Measure number="52">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -3283,7 +3334,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="50">
+      <Measure number="53">
         <stretch>0.8</stretch>
         <Harmony>
           <root>14</root>
@@ -3325,7 +3376,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="51">
+      <Measure number="54">
         <stretch>0.8</stretch>
         <Harmony>
           <root>14</root>
@@ -3371,7 +3422,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="52">
+      <Measure number="55">
         <stretch>0.8</stretch>
         <Harmony>
           <root>15</root>
@@ -3424,7 +3475,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="53">
+      <Measure number="56">
         <stretch>0.8</stretch>
         <Harmony>
           <root>15</root>
@@ -3516,7 +3567,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="54">
+      <Measure number="57">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -3553,7 +3604,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="55">
+      <Measure number="58">
         <stretch>0.8</stretch>
         <Rest>
           <durationType>eighth</durationType>
@@ -3630,7 +3681,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="56">
+      <Measure number="59">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -3662,7 +3713,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="57">
+      <Measure number="60">
         <stretch>0.8</stretch>
         <Harmony>
           <root>17</root>
@@ -3734,7 +3785,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="58">
+      <Measure number="61">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -3765,7 +3816,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="59">
+      <Measure number="62">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -3806,7 +3857,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="60">
+      <Measure number="63">
         <stretch>0.8</stretch>
         <Harmony>
           <root>14</root>
@@ -3868,7 +3919,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="61">
+      <Measure number="64">
         <stretch>0.8</stretch>
         <Harmony>
           <root>17</root>
@@ -3936,7 +3987,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="62">
+      <Measure number="65">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -3958,7 +4009,7 @@
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="63">
+      <Measure number="66">
         <stretch>0.8</stretch>
         <Harmony>
           <root>17</root>
@@ -4016,7 +4067,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="64">
+      <Measure number="67">
         <stretch>0.8</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -4031,7 +4082,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="65">
+      <Measure number="68">
         <stretch>0.8</stretch>
         <Harmony>
           <root>14</root>
@@ -4089,7 +4140,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="66">
+      <Measure number="69">
         <stretch>0.8</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -4115,7 +4166,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="67">
+      <Measure number="70">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -4163,7 +4214,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="68">
+      <Measure number="71">
         <stretch>0.8</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -4227,7 +4278,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="69">
+      <Measure number="72">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -4249,7 +4300,7 @@
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="70">
+      <Measure number="73">
         <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
@@ -4314,7 +4365,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="71">
+      <Measure number="74">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -4357,7 +4408,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="72">
+      <Measure number="75">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -4439,7 +4490,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="73">
+      <Measure number="76">
         <stretch>0.8</stretch>
         <Harmony>
           <root>14</root>
@@ -4481,7 +4532,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="74">
+      <Measure number="77">
         <stretch>0.8</stretch>
         <Harmony>
           <root>14</root>
@@ -4527,7 +4578,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="75">
+      <Measure number="78">
         <stretch>0.8</stretch>
         <Harmony>
           <root>15</root>
@@ -4580,7 +4631,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="76">
+      <Measure number="79">
         <stretch>0.8</stretch>
         <Harmony>
           <root>15</root>
@@ -4672,7 +4723,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="77">
+      <Measure number="80">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -4709,7 +4760,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="78">
+      <Measure number="81">
         <startRepeat/>
         <stretch>0.8</stretch>
         <Rest>
@@ -4787,7 +4838,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="79">
+      <Measure number="82">
         <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
@@ -4819,7 +4870,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="80">
+      <Measure number="83">
         <stretch>0.8</stretch>
         <Harmony>
           <root>17</root>
@@ -4891,7 +4942,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="81">
+      <Measure number="84">
         <stretch>0.8</stretch>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -4918,7 +4969,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="82">
+      <Measure number="85">
         <stretch>0.8</stretch>
         <Harmony>
           <root>16</root>
@@ -4959,7 +5010,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="83">
+      <Measure number="86">
         <stretch>0.8</stretch>
         <Harmony>
           <root>14</root>
@@ -5021,7 +5072,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="84">
+      <Measure number="87">
         <stretch>0.8</stretch>
         <Harmony>
           <root>17</root>
@@ -5089,7 +5140,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="85">
+      <Measure number="88">
         <endRepeat>2</endRepeat>
         <stretch>0.8</stretch>
         <Harmony>

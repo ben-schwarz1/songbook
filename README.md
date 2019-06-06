@@ -45,6 +45,7 @@ source: http://wikifonia.org/node/9928/revisions/13488/view
 year: 1965
 genre: Spiritual
 arranger: Max Mustermann
+youtube: CQYypFMTQcE
 ```
 
 ### Mapping
