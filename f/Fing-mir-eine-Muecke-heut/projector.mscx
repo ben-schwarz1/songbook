@@ -930,6 +930,11 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1481,7 +1486,9 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>h7</name>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1509,6 +1516,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <endRepeat>2</endRepeat>
         <Harmony>
           <root>18</root>
           <rootCase>1</rootCase>
@@ -1539,7 +1547,7 @@
             </Note>
           </Chord>
         <BarLine>
-          <subtype>end</subtype>
+          <subtype>end-repeat</subtype>
           <span>1</span>
           </BarLine>
         </Measure>

@@ -722,9 +722,58 @@
       <Measure number="3">
         <stretch>0.8</stretch>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>half</durationType>
           </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Harmony>
+          <root>12</root>
+          <rootCase>1</rootCase>
+          <name>5</name>
+          </Harmony>
+        <Chord>
+          <small>1</small>
+          <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            <small>1</small>
+            </Note>
+          </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          <name>5</name>
+          </Harmony>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <small>1</small>
+          <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <small>1</small>
+            </Note>
+          </Chord>
+        <Chord>
+          <small>1</small>
+          <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <small>1</small>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="4">
         <stretch>0.8</stretch>
@@ -822,24 +871,65 @@
       <Measure number="5">
         <stretch>0.8</stretch>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>half</durationType>
           </Rest>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Harmony>
+          <root>12</root>
+          <rootCase>1</rootCase>
+          <name>5</name>
+          </Harmony>
+        <Chord>
+          <small>1</small>
+          <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            <small>1</small>
+            </Note>
+          </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          <name>5</name>
+          </Harmony>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <small>1</small>
+          <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <small>1</small>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         </Measure>
       <Measure number="6">
         <startRepeat/>
         <stretch>0.8</stretch>
+        <StaffText>
+          <pos x="-3.09102" y="-2.76068"/>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
         <StaffText>
-          <pos x="-3.09102" y="-2.76068"/>
+          <pos x="-3.83987" y="-3.74276"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -1022,6 +1112,7 @@
             </Lyrics>
           <Note>
             <Tie id="2">
+              <up>1</up>
               </Tie>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -1056,6 +1147,10 @@
         <Slur id="3">
           <track>0</track>
           </Slur>
+        <Slur id="4">
+          <track>0</track>
+          <up>1</up>
+          </Slur>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1069,6 +1164,7 @@
             <text>you,</text>
             </Lyrics>
           <Slur type="start" id="3"/>
+          <Slur type="start" id="4"/>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -1084,6 +1180,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="3"/>
+          <Slur type="stop" id="4"/>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -1379,7 +1476,6 @@
             </Note>
           </Chord>
         <Beam id="1">
-          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1412,7 +1508,7 @@
             <text>I</text>
             </Lyrics>
           <Note>
-            <Tie id="4">
+            <Tie id="5">
               </Tie>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -1421,7 +1517,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <endSpanner id="4"/>
+            <endSpanner id="5"/>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -1430,7 +1526,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Lyrics>
             <text>you</text>
             </Lyrics>
@@ -1440,27 +1536,11 @@
             <text>wouldn’t</text>
             </Lyrics>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <ticks>240</ticks>
-            <text>go</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <ticks>240</ticks>
-            <style>Lyrics Even Lines</style>
-            <text>do,</text>
-            </Lyrics>
-          <Note>
-            <Tie id="5">
-              </Tie>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1470,16 +1550,60 @@
           <root>11</root>
           <rootCase>1</rootCase>
           </Harmony>
+        <Slur id="6">
+          <track>0</track>
+          <up>1</up>
+          </Slur>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <ticks>960</ticks>
+            <text>go</text>
+            </Lyrics>
+          <Slur type="start" id="6"/>
           <Note>
-            <endSpanner id="5"/>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Slur type="stop" id="6"/>
+          <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Rest>
-          <durationType>half</durationType>
+          <durationType>eighth</durationType>
           </Rest>
         <Rest>
           <durationType>eighth</durationType>
@@ -1576,7 +1700,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>sight</text>
+            <text>sight,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1610,13 +1734,18 @@
         </Measure>
       <Measure number="14">
         <stretch>0.8</stretch>
+        <StaffText>
+          <pos x="-0.601032" y="-3.6193"/>
+          <style>Form Section</style>
+          <text>Chorus</text>
+          </StaffText>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
         <StaffText>
-          <pos x="-0.601032" y="-3.6193"/>
+          <pos x="-1.64566" y="-4.15418"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -1855,26 +1984,26 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="6">
+        <Slur id="7">
           <track>0</track>
           </Slur>
         <Chord>
-          <durationType>16th</durationType>
+          <BeamMode>begin</BeamMode>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <ticks>120</ticks>
+            <ticks>240</ticks>
             <text>cause:</text>
             </Lyrics>
-          <Slur type="start" id="6"/>
+          <Slur type="start" id="7"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
-          <dots>1</dots>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="6"/>
+          <Slur type="stop" id="7"/>
           <Note>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -1995,51 +2124,69 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Slur id="7">
+        <Slur id="8">
+          <track>0</track>
+          </Slur>
+        <Slur id="9">
           <track>0</track>
           </Slur>
         <Chord>
+          <small>1</small>
           <durationType>eighth</durationType>
           <Lyrics>
             <ticks>240</ticks>
             <text>and</text>
             </Lyrics>
-          <Slur type="start" id="7"/>
+          <Slur type="start" id="8"/>
+          <Slur type="start" id="9"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <small>1</small>
             </Note>
           </Chord>
         <Chord>
+          <small>1</small>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="7"/>
+          <Slur type="stop" id="8"/>
+          <Slur type="stop" id="9"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <small>1</small>
             </Note>
           </Chord>
-        <Slur id="8">
+        <Slur id="10">
+          <track>0</track>
+          </Slur>
+        <Slur id="11">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>begin</BeamMode>
+          <small>1</small>
           <durationType>eighth</durationType>
           <Lyrics>
             <ticks>240</ticks>
             <text>I,</text>
             </Lyrics>
-          <Slur type="start" id="8"/>
+          <Slur type="start" id="10"/>
+          <Slur type="start" id="11"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <small>1</small>
             </Note>
           </Chord>
         <Chord>
+          <small>1</small>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="8"/>
+          <Slur type="stop" id="10"/>
+          <Slur type="stop" id="11"/>
           <Note>
             <pitch>63</pitch>
             <tpc>11</tpc>
+            <small>1</small>
             </Note>
           </Chord>
         </Measure>
@@ -2137,7 +2284,10 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="9">
+        <Slur id="12">
+          <track>0</track>
+          </Slur>
+        <Slur id="13">
           <track>0</track>
           </Slur>
         <Chord>
@@ -2148,7 +2298,8 @@
             <ticks>240</ticks>
             <text>lieve</text>
             </Lyrics>
-          <Slur type="start" id="9"/>
+          <Slur type="start" id="12"/>
+          <Slur type="start" id="13"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -2156,7 +2307,8 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="9"/>
+          <Slur type="stop" id="12"/>
+          <Slur type="stop" id="13"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2170,6 +2322,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <Chord>
+          <small>1</small>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>still</text>
@@ -2177,10 +2330,12 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <small>1</small>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>begin</BeamMode>
+          <small>1</small>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
@@ -2192,9 +2347,11 @@
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <small>1</small>
             </Note>
           </Chord>
         <Chord>
+          <small>1</small>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
@@ -2203,6 +2360,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <small>1</small>
             </Note>
           </Chord>
         </Measure>
@@ -2359,6 +2517,7 @@
           <baseCase>1</baseCase>
           </Harmony>
         <Chord>
+          <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>a</text>
@@ -2368,7 +2527,10 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="10">
+        <Slur id="14">
+          <track>0</track>
+          </Slur>
+        <Slur id="15">
           <track>0</track>
           </Slur>
         <Chord>
@@ -2377,9 +2539,10 @@
             <ticks>1320</ticks>
             <text>sign,</text>
             </Lyrics>
-          <Slur type="start" id="10"/>
+          <Slur type="start" id="14"/>
+          <Slur type="start" id="15"/>
           <Note>
-            <Tie id="11">
+            <Tie id="16">
               </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2396,7 +2559,7 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="11"/>
+            <endSpanner id="16"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -2425,7 +2588,8 @@
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="10"/>
+          <Slur type="stop" id="14"/>
+          <Slur type="stop" id="15"/>
           <Note>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -2446,7 +2610,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>Hit</text>
+            <text>hit</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -2479,7 +2643,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>by</text>
+            <text>by,</text>
             </Lyrics>
           <Note>
             <pitch>68</pitch>
@@ -2526,10 +2690,6 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>end-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -2572,10 +2732,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="6">
         <Rest>
@@ -2704,10 +2860,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>end-repeat</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Staff id="3">
