@@ -608,13 +608,14 @@
         <Tempo>
           <tempo>3</tempo>
           <followText>1</followText>
+          <pos x="-4.72624" y="-2.77003"/>
           <visible>0</visible>
           <xoffset>0</xoffset>
           <yoffset>-5.1</yoffset>
           <text><sym>unicodeNoteQuarterUp</sym> = 180</text>
           </Tempo>
         <StaffText>
-          <pos x="-1.81907" y="-2.03448"/>
+          <pos x="1.4951" y="-5.00581"/>
           <style>Form Section</style>
           <text>Einleitung</text>
           </StaffText>
@@ -962,7 +963,7 @@
         </Measure>
       <Measure number="7">
         <StaffText>
-          <pos x="-3.3098" y="-1.45223"/>
+          <pos x="-4.22405" y="-2.02364"/>
           <style>Form Section</style>
           <text>Strophe</text>
           </StaffText>
@@ -2218,6 +2219,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <endRepeat>2</endRepeat>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -2264,7 +2266,6 @@
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="2"/>
@@ -2273,10 +2274,10 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           </Rest>
         <BarLine>
-          <subtype>end</subtype>
+          <subtype>end-repeat</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
@@ -3501,7 +3502,6 @@
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="3"/>
@@ -3510,10 +3510,11 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>eighth</durationType>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
           </Rest>
         <BarLine>
-          <subtype>end</subtype>
+          <subtype>end-repeat</subtype>
           <span>1</span>
           </BarLine>
         <tick>32640</tick>
@@ -3542,11 +3543,17 @@
           <durationType>eighth</durationType>
           <Note>
             <track>5</track>
+            <Tie id="4">
+              <track>5</track>
+              </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
             <track>5</track>
+            <Tie id="5">
+              <track>5</track>
+              </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -3554,23 +3561,20 @@
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
-          <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
             <track>5</track>
+            <endSpanner id="4"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
             <track>5</track>
+            <endSpanner id="5"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          </Rest>
         </Measure>
       </Staff>
     <Staff id="3">
@@ -3622,7 +3626,7 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
-        <Ottava id="4">
+        <Ottava id="6">
           <subtype>8vb</subtype>
           </Ottava>
         <Chord>
@@ -3643,7 +3647,7 @@
           </Chord>
         </Measure>
       <Measure number="3">
-        <endSpanner id="4"/>
+        <endSpanner id="6"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3682,7 +3686,7 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
-        <Ottava id="5">
+        <Ottava id="7">
           <subtype>8vb</subtype>
           </Ottava>
         <Chord>
@@ -3703,7 +3707,7 @@
           </Chord>
         </Measure>
       <Measure number="5">
-        <endSpanner id="5"/>
+        <endSpanner id="7"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3790,7 +3794,7 @@
           </BarLine>
         </Measure>
       <Measure number="7">
-        <Ottava id="6">
+        <Ottava id="8">
           <subtype>8vb</subtype>
           <Segment>
             <subtype>1</subtype>
@@ -3805,7 +3809,7 @@
           <Segment>
             <subtype>2</subtype>
             <off2 x="0" y="0"/>
-            <pos x="5.00269" y="7.07164"/>
+            <pos x="5.5741" y="9.92869"/>
             </Segment>
           <Segment>
             <subtype>3</subtype>
@@ -4325,10 +4329,10 @@
           <durationType>quarter</durationType>
           </Rest>
         <BarLine>
-          <subtype>end</subtype>
+          <subtype>end-repeat</subtype>
           <span>1</span>
           </BarLine>
-        <endSpanner id="6"/>
+        <endSpanner id="8"/>
         </Measure>
       </Staff>
     </Score>

@@ -2198,6 +2198,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <endRepeat>2</endRepeat>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -2247,7 +2248,6 @@
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <dots>1</dots>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
@@ -2257,10 +2257,10 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           </Rest>
         <BarLine>
-          <subtype>end</subtype>
+          <subtype>end-repeat</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
