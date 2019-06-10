@@ -466,7 +466,7 @@
     <metaTag name="source">http://wikifonia.org/node/9110/revisions/26109/view</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">You'll never walk alone</metaTag>
+    <metaTag name="workTitle">You’ll never walk alone</metaTag>
     <PageList>
       <Page>
         <System>
@@ -687,7 +687,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>63</pitch>
@@ -1217,7 +1217,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>tho'</text>
+            <text>tho’</text>
             </Lyrics>
           <Note>
             <pitch>70</pitch>
@@ -1460,7 +1460,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>you'll</text>
+            <text>you’ll</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -1573,7 +1573,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <text>You'll</text>
+            <text>You’ll</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>

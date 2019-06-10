@@ -658,7 +658,7 @@
           <durationType>eighth</durationType>
           <Beam>4</Beam>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>74</pitch>
@@ -719,7 +719,7 @@
           <Beam>5</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -816,7 +816,7 @@
           <durationType>eighth</durationType>
           <Beam>6</Beam>
           <Lyrics>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1006,12 +1006,12 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>in':</text>
+            <text>in’:</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I've</text>
+            <text>I’ve</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -1022,7 +1022,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1127,12 +1127,12 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -1364,7 +1364,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <text>sun's</text>
+            <text>sun’s</text>
             </Lyrics>
           <Note>
             <Tie id="9">
@@ -1455,7 +1455,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -1663,7 +1663,7 @@
           <Beam>17</Beam>
           <Lyrics>
             <syllabic>middle</syllabic>
-            <text>'ry</text>
+            <text>’ry</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -1702,7 +1702,7 @@
           <Beam>18</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Note>
             <Tie id="13">
@@ -1758,7 +1758,7 @@
           <Beam>19</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>in'_</text>
+            <text>in’_</text>
             </Lyrics>
           <Note>
             <Tie id="14">

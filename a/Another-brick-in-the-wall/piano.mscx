@@ -642,7 +642,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -777,7 +777,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -1362,7 +1362,7 @@
           <durationType>eighth</durationType>
           <Beam>3</Beam>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -1554,7 +1554,7 @@
           <durationType>eighth</durationType>
           <Beam>6</Beam>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>

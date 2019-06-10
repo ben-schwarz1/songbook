@@ -609,7 +609,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>1. There's</text>
+            <text>1. There’s</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -777,7 +777,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>there's</text>
+            <text>there’s</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1790,7 +1790,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>you'll</text>
+            <text>you’ll</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1834,7 +1834,7 @@
           <durationType>16th</durationType>
           <Lyrics>
             <ticks>120</ticks>
-            <text>there's</text>
+            <text>there’s</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -2217,7 +2217,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>love's</text>
+            <text>love’s</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>

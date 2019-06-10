@@ -1769,7 +1769,7 @@
           <lineType>1</lineType>
           </Slur>
         <Chord>
-          <BeamMode>no</BeamMode>
+          <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>

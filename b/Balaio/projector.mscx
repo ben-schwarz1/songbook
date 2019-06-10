@@ -504,7 +504,7 @@
       <VBox>
         <height>10</height>
         </VBox>
-      <Measure number="1">
+      <Measure number="1" len="1/4">
         <KeySig>
           <accidental>1</accidental>
           <mode>major</mode>
@@ -514,12 +514,6 @@
           <sigD>2</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -959,7 +953,7 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <tick>16320</tick>
+        <tick>14880</tick>
         <Rest>
           <track>1</track>
           <durationType>quarter</durationType>

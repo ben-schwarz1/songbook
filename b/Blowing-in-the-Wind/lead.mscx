@@ -863,7 +863,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>its's</text>
+            <text>its’s</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1328,7 +1328,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>they're</text>
+            <text>they’re</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -2057,7 +2057,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Note>
             <pitch>66</pitch>
@@ -2172,7 +2172,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>

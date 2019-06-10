@@ -1383,7 +1383,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Note>
             <pitch>61</pitch>
@@ -1901,7 +1901,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'd</text>
+            <text>I’d</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -2140,7 +2140,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'd</text>
+            <text>I’d</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -2190,7 +2190,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>I'</text>
+            <text>I’</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -2353,7 +2353,7 @@
             <syllabic>end</syllabic>
             <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
-            <text>lin',</text>
+            <text>lin’,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>

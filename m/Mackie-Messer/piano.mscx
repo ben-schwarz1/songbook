@@ -647,7 +647,7 @@
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>'nem</text>
+            <text>’nem</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
@@ -1352,7 +1352,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>'nen</text>
+            <text>’nen</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1935,7 +1935,7 @@
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>'ge</text>
+            <text>’ge</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -2065,7 +2065,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>'nem</text>
+            <text>’nem</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>

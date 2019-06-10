@@ -66,7 +66,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>Alegreya</family>
@@ -77,7 +77,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
         <family>Alegreya</family>
@@ -595,9 +595,10 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>5.7</height>
+        <height>1.37138</height>
         </VBox>
       <Measure number="1" len="1/8">
+        <stretch>0.9</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -616,24 +617,28 @@
           </Rest>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="3">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
           </Rest>
         </Measure>
       <Measure number="5">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -645,7 +650,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>1. L'in</text>
+            <text>1. L’in</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -664,6 +669,7 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -713,7 +719,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>l'è</text>
+            <text>l’è</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -755,6 +761,7 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -806,7 +813,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>l'a</text>
+            <text>l’a</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -824,6 +831,7 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -894,12 +902,12 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>c'è</text>
+            <text>c’è</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>c'è</text>
+            <text>c’è</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -912,6 +920,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -959,6 +968,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1015,7 +1025,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>far'</text>
+            <text>far’</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1051,6 +1061,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1119,6 +1130,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1212,6 +1224,7 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1285,6 +1298,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1347,6 +1361,7 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1367,7 +1382,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>l'a</text>
+            <text>l’a</text>
             </Lyrics>
           <Note>
             <pitch>74</pitch>
@@ -1409,6 +1424,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1448,7 +1464,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>c'è</text>
+            <text>c’è</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -1457,6 +1473,7 @@
           </Chord>
         </Measure>
       <Measure number="17">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1484,6 +1501,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1534,6 +1552,7 @@
           </Chord>
         </Measure>
       <Measure number="19">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1593,6 +1612,7 @@
           </Chord>
         </Measure>
       <Measure number="20">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <small>1</small>
@@ -1689,6 +1709,7 @@
           </Chord>
         </Measure>
       <Measure number="21" len="3/8">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1710,6 +1731,7 @@
           </BarLine>
         </Measure>
       <Measure number="22" len="1/8">
+        <stretch>0.9</stretch>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-5.9</yoffset>
@@ -1722,7 +1744,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>1. L'in</text>
+            <text>1. L’in</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1741,6 +1763,7 @@
           </Chord>
         </Measure>
       <Measure number="23">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1790,7 +1813,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>l'è</text>
+            <text>l’è</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1832,6 +1855,7 @@
           </Chord>
         </Measure>
       <Measure number="24">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1883,7 +1907,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>l'a</text>
+            <text>l’a</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1901,6 +1925,7 @@
           </Chord>
         </Measure>
       <Measure number="25">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1971,12 +1996,12 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>c'è</text>
+            <text>c’è</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>c'è</text>
+            <text>c’è</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1989,6 +2014,7 @@
           </Chord>
         </Measure>
       <Measure number="26">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2036,6 +2062,7 @@
           </Chord>
         </Measure>
       <Measure number="27">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -2092,7 +2119,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>far'</text>
+            <text>far’</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -2128,6 +2155,7 @@
           </Chord>
         </Measure>
       <Measure number="28">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2196,6 +2224,7 @@
           </Chord>
         </Measure>
       <Measure number="29">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2289,6 +2318,7 @@
           </Chord>
         </Measure>
       <Measure number="30">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2371,6 +2401,7 @@
           </Rest>
         </Measure>
       <Measure number="31">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2441,6 +2472,7 @@
           </Rest>
         </Measure>
       <Measure number="32">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2461,7 +2493,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>l'a</text>
+            <text>l’a</text>
             </Lyrics>
           <Note>
             <pitch>74</pitch>
@@ -2511,6 +2543,7 @@
           </Rest>
         </Measure>
       <Measure number="33">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -2550,7 +2583,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>c'è</text>
+            <text>c’è</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2559,6 +2592,10 @@
           </Chord>
         </Measure>
       <Measure number="34">
+        <stretch>0.9</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2586,6 +2623,7 @@
           </Chord>
         </Measure>
       <Measure number="35">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -2636,6 +2674,7 @@
           </Chord>
         </Measure>
       <Measure number="36">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2695,6 +2734,7 @@
           </Chord>
         </Measure>
       <Measure number="37">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <small>1</small>
@@ -2791,6 +2831,7 @@
           </Chord>
         </Measure>
       <Measure number="38">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2827,29 +2868,43 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Ottava id="2">
+          <subtype>8va</subtype>
+          <Segment>
+            <subtype>0</subtype>
+            <off2 x="0" y="0"/>
+            <pos x="9.76031" y="-4.48566"/>
+            </Segment>
+          <beginText>
+            <text><sym>ottava</sym></text>
+            </beginText>
+          <continueText>
+            <text><sym>ottava</sym></text>
+            </continueText>
+          </Ottava>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>91</pitch>
+            <pitch>79</pitch>
             <tpc>15</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
-            <pitch>94</pitch>
+            <pitch>82</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>95</pitch>
+            <pitch>83</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
-            <pitch>98</pitch>
+            <pitch>86</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -2859,25 +2914,25 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>86</pitch>
+            <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           <Note>
-            <pitch>91</pitch>
+            <pitch>79</pitch>
             <tpc>15</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
-            <pitch>94</pitch>
+            <pitch>82</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>95</pitch>
+            <pitch>83</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
@@ -2888,25 +2943,25 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>91</pitch>
+            <pitch>79</pitch>
             <tpc>15</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
-            <pitch>94</pitch>
+            <pitch>82</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>95</pitch>
+            <pitch>83</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
-            <pitch>98</pitch>
+            <pitch>86</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -2916,25 +2971,25 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>86</pitch>
+            <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           <Note>
-            <pitch>91</pitch>
+            <pitch>79</pitch>
             <tpc>15</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
-            <pitch>94</pitch>
+            <pitch>82</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>95</pitch>
+            <pitch>83</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
@@ -2945,11 +3000,11 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>86</pitch>
+            <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           <Note>
-            <pitch>98</pitch>
+            <pitch>86</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -2963,11 +3018,11 @@
           <durationType>eighth</durationType>
           <Beam>1</Beam>
           <Note>
-            <pitch>86</pitch>
+            <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           <Note>
-            <pitch>98</pitch>
+            <pitch>86</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -2976,11 +3031,11 @@
           <durationType>16th</durationType>
           <Beam>1</Beam>
           <Note>
-            <pitch>84</pitch>
+            <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
           <Note>
-            <pitch>96</pitch>
+            <pitch>84</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -2991,11 +3046,11 @@
           <durationType>eighth</durationType>
           <Beam>2</Beam>
           <Note>
-            <pitch>83</pitch>
+            <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
-            <pitch>95</pitch>
+            <pitch>83</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
@@ -3004,11 +3059,11 @@
           <durationType>eighth</durationType>
           <Beam>2</Beam>
           <Note>
-            <pitch>81</pitch>
+            <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           <Note>
-            <pitch>93</pitch>
+            <pitch>81</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
@@ -3018,14 +3073,15 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>79</pitch>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           <Note>
-            <pitch>91</pitch>
+            <pitch>79</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <endSpanner id="2"/>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -6045,6 +6101,7 @@
           </Rest>
         </Measure>
       <Measure number="18">
+        <vspacerUp>3</vspacerUp>
         <Chord>
           <durationType>eighth</durationType>
           <acciaccatura/>
@@ -6288,6 +6345,7 @@
           </Rest>
         </Measure>
       <Measure number="24">
+        <vspacerUp>3</vspacerUp>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>

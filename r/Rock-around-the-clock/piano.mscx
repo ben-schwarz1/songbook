@@ -630,7 +630,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>o'</text>
+            <text>o’</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -665,7 +665,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>o'</text>
+            <text>o’</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -761,7 +761,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>o'</text>
+            <text>o’</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -796,7 +796,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>o'</text>
+            <text>o’</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -904,7 +904,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>o'</text>
+            <text>o’</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -939,7 +939,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>o'</text>
+            <text>o’</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -972,7 +972,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>We're</text>
+            <text>We’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1150,7 +1150,7 @@
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
@@ -1310,7 +1310,7 @@
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text>we'll</text>
+            <text>we’ll</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -1407,12 +1407,12 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>we'll</text>
+            <text>we’ll</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
@@ -1427,7 +1427,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>we'll</text>
+            <text>we’ll</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1505,18 +1505,18 @@
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -1545,7 +1545,7 @@
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text>'round</text>
+            <text>’round</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1562,7 +1562,7 @@
             <no>1</no>
             <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
-            <text>we'll</text>
+            <text>we’ll</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1680,7 +1680,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>heav'n:</text>
+            <text>heav’n:</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -1701,7 +1701,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>We're</text>
+            <text>We’re</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -1841,7 +1841,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>we're</text>
+            <text>we’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1919,7 +1919,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>'till</text>
+            <text>’till</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -1983,7 +1983,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>we're</text>
+            <text>we’re</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -2238,7 +2238,7 @@
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>

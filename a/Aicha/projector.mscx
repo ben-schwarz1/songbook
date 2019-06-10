@@ -474,6 +474,8 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       <Page>
         <System>
@@ -536,6 +538,9 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>13.0337</height>
+        </VBox>
       <Measure number="1">
         <KeySig>
           <accidental>2</accidental>

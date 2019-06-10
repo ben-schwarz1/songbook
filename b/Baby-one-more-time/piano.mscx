@@ -1459,7 +1459,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>n't</text>
+            <text>n’t</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -2388,7 +2388,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>

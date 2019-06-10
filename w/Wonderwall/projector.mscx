@@ -704,7 +704,7 @@
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>they're</text>
+            <text>they’re</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -880,7 +880,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -913,7 +913,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>you've</text>
+            <text>you’ve</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -928,7 +928,7 @@
           <durationType>16th</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>should'</text>
+            <text>should’</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1225,12 +1225,12 @@
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -2351,7 +2351,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -2530,7 +2530,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -2777,7 +2777,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>

@@ -793,7 +793,7 @@
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>man's</text>
+            <text>man’s</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -915,7 +915,7 @@
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>'ry</text>
+            <text>’ry</text>
             </Lyrics>
           <Note>
             <pitch>61</pitch>
@@ -1191,7 +1191,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>She's</text>
+            <text>She’s</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1641,7 +1641,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>day's</text>
+            <text>day’s</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1841,7 +1841,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>day's</text>
+            <text>day’s</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1857,7 +1857,7 @@
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>doesn't</text>
+            <text>doesn’t</text>
             </Lyrics>
           <Note>
             <pitch>63</pitch>
@@ -1999,7 +1999,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2161,7 +2161,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>63</pitch>
@@ -2458,7 +2458,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Note>
             <pitch>61</pitch>

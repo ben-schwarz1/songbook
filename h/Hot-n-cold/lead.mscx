@@ -976,7 +976,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>Now's</text>
+            <text>Now’s</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -1305,7 +1305,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1561,13 +1561,13 @@
           <durationType>eighth</durationType>
           <Beam>11</Beam>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <Tie id="12">
@@ -1781,7 +1781,7 @@
           <durationType>eighth</durationType>
           <Beam>15</Beam>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -1844,7 +1844,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1876,7 +1876,7 @@
           <durationType>eighth</durationType>
           <Beam>17</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -1939,7 +1939,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1971,7 +1971,7 @@
           <durationType>eighth</durationType>
           <Beam>19</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -2035,7 +2035,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2067,7 +2067,7 @@
           <durationType>eighth</durationType>
           <Beam>21</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -2129,7 +2129,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2161,7 +2161,7 @@
           <durationType>eighth</durationType>
           <Beam>23</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -2224,7 +2224,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -2256,7 +2256,7 @@
           <durationType>eighth</durationType>
           <Beam>25</Beam>
           <Lyrics>
-            <text>It's</text>
+            <text>It’s</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -2319,7 +2319,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -2575,7 +2575,7 @@
           <durationType>eighth</durationType>
           <Beam>31</Beam>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2777,7 +2777,7 @@
           <durationType>eighth</durationType>
           <Beam>35</Beam>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -2900,7 +2900,7 @@
           <durationType>eighth</durationType>
           <Beam>37</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -2963,7 +2963,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -2995,7 +2995,7 @@
           <durationType>eighth</durationType>
           <Beam>39</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -3058,7 +3058,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -3090,7 +3090,7 @@
           <durationType>eighth</durationType>
           <Beam>41</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -3154,7 +3154,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -3186,7 +3186,7 @@
           <durationType>eighth</durationType>
           <Beam>43</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -3250,7 +3250,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -3882,7 +3882,7 @@
           <durationType>eighth</durationType>
           <Beam>53</Beam>
           <Lyrics>
-            <text>can't</text>
+            <text>can’t</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -4292,7 +4292,7 @@
           <durationType>eighth</durationType>
           <Beam>59</Beam>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -4355,7 +4355,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -4387,7 +4387,7 @@
           <durationType>eighth</durationType>
           <Beam>61</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -4450,7 +4450,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -4482,7 +4482,7 @@
           <durationType>eighth</durationType>
           <Beam>63</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -4546,7 +4546,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -4578,7 +4578,7 @@
           <durationType>eighth</durationType>
           <Beam>65</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -4641,7 +4641,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -4673,7 +4673,7 @@
           <durationType>eighth</durationType>
           <Beam>67</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -4736,7 +4736,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -4768,7 +4768,7 @@
           <durationType>eighth</durationType>
           <Beam>69</Beam>
           <Lyrics>
-            <text>It's</text>
+            <text>It’s</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -4831,7 +4831,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -5062,7 +5062,7 @@
           <durationType>eighth</durationType>
           <Beam>75</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -5131,7 +5131,7 @@
           <durationType>eighth</durationType>
           <Beam>76</Beam>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -5333,7 +5333,7 @@
           <durationType>eighth</durationType>
           <Beam>80</Beam>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -5457,7 +5457,7 @@
           <durationType>eighth</durationType>
           <Beam>82</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -5519,7 +5519,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -5551,7 +5551,7 @@
           <durationType>eighth</durationType>
           <Beam>84</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -5614,7 +5614,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -5646,7 +5646,7 @@
           <durationType>eighth</durationType>
           <Beam>86</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -5710,7 +5710,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -5742,7 +5742,7 @@
           <durationType>eighth</durationType>
           <Beam>88</Beam>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -5805,7 +5805,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>

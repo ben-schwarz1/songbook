@@ -459,7 +459,7 @@
     <metaTag name="creationDate">2016-04-17</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">from Sgt. Pepper's Lonely Hearts Club Band</metaTag>
+    <metaTag name="movementTitle">from Sgt. Pepper’s Lonely Hearts Club Band</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
@@ -831,7 +831,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -1186,7 +1186,7 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1347,7 +1347,7 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>l'll</text>
+            <text>l’ll</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1356,7 +1356,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>can't</text>
+            <text>can’t</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -1460,7 +1460,7 @@
             <no>1</no>
             <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1523,7 +1523,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -2160,12 +2160,12 @@
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>

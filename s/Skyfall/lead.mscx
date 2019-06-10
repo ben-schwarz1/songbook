@@ -2537,7 +2537,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I've</text>
+            <text>I’ve</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -2831,7 +2831,7 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -3768,7 +3768,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>you'll</text>
+            <text>you’ll</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -4652,7 +4652,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'd</text>
+            <text>I’d</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -5021,7 +5021,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>we'll</text>
+            <text>we’ll</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>

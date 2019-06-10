@@ -539,6 +539,7 @@
           <root>17</root>
           </Harmony>
         <StaffText>
+          <pos x="-2.12564" y="-3.46849"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -840,7 +841,7 @@
           </Chord>
         <Slur id="6">
           <track>0</track>
-          <up>2</up>
+          <up>1</up>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1065,7 +1066,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>ain't</text>
+            <text>ain’t</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1319,7 +1320,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>in'</text>
+            <text>in’</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1553,7 +1554,7 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>61</pitch>
@@ -1853,7 +1854,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>ev'</text>
+            <text>ev’</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -2356,7 +2357,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>ev'</text>
+            <text>ev’</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -2401,7 +2402,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>ain't</text>
+            <text>ain’t</text>
             </Lyrics>
           <Note>
             <pitch>68</pitch>
@@ -2448,9 +2449,13 @@
         </Measure>
       <Measure number="26">
         <stretch>0.9</stretch>
+        <Beam id="1">
+          <StemDirection>down</StemDirection>
+          </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
+          <Beam>1</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>no</text>
@@ -2463,9 +2468,10 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
+          <Beam>1</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>one's</text>
+            <text>one’s</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>

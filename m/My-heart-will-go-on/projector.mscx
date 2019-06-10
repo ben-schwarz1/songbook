@@ -2576,12 +2576,12 @@
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Lyrics>
-            <text>You're</text>
+            <text>You’re</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>We'll</text>
+            <text>We’ll</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -2615,7 +2615,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>there's</text>
+            <text>there’s</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>

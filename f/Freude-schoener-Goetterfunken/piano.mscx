@@ -455,7 +455,7 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">T.: Friedrich Schiller, 
+    <metaTag name="composer">T.: Friedrich Schiller,
 M.: Ludwig von Beethoven
 Klaviersatz:  Josef Friedrich</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -1511,7 +1511,7 @@ Klaviersatz:  Josef Friedrich</metaTag>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>wer's</text>
+            <text>wer’s</text>
             </Lyrics>
           <Note>
             <pitch>66</pitch>

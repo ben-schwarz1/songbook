@@ -485,6 +485,8 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -551,7 +553,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
-          <pos x="1.14282" y="-3.39992"/>
+          <pos x="-1.0183" y="-3.37603"/>
           <style>Form Section</style>
           <text>Intro</text>
           </StaffText>
@@ -731,6 +733,9 @@
       <Measure number="4">
         <endRepeat>2</endRepeat>
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -752,8 +757,9 @@
         </Measure>
       <Measure number="5">
         <stretch>0.8</stretch>
+        <vspacerUp>12.9425</vspacerUp>
         <StaffText>
-          <pos x="0.799973" y="-4.19989"/>
+          <pos x="0.413127" y="-5.28027"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -968,6 +974,9 @@
         </Measure>
       <Measure number="8">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1255,6 +1264,9 @@
         </Measure>
       <Measure number="12" len="3/4">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1283,8 +1295,9 @@
         </Measure>
       <Measure number="13" len="1/4">
         <stretch>0.8</stretch>
+        <vspacerUp>13.0568</vspacerUp>
         <StaffText>
-          <pos x="-1.39679" y="-1.57141"/>
+          <pos x="-0.135773" y="-2.08618"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -1568,6 +1581,7 @@
           <Slur type="start" id="10"/>
           <Note>
             <Tie id="11">
+              <up>2</up>
               </Tie>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1704,7 +1718,7 @@
           <durationType>eighth</durationType>
           <Beam>14</Beam>
           <Lyrics>
-            <text>The</text>
+            <text>Then</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -2031,9 +2045,7 @@
       <Measure number="21">
         <stretch>0.8</stretch>
         <Harmony>
-          <root>16</root>
-          <rootCase>1</rootCase>
-          <name>m7</name>
+          <root>13</root>
           </Harmony>
         <Beam id="19">
           </Beam>
@@ -2083,12 +2095,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <tick>37440</tick>
-        <Harmony>
-          <root>15</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <tick>37920</tick>
         <Beam id="20">
           </Beam>
         <Chord>
@@ -2118,6 +2124,13 @@
         </Measure>
       <Measure number="22" len="3/4">
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -2171,8 +2184,9 @@
         </Measure>
       <Measure number="23" len="1/4">
         <stretch>0.8</stretch>
+        <vspacerUp>16.5995</vspacerUp>
         <StaffText>
-          <pos x="2.97133" y="-1.57141"/>
+          <pos x="1.56139" y="-1.47521"/>
           <style>Form Section</style>
           <text>Bridge</text>
           </StaffText>
@@ -2402,8 +2416,10 @@
           <root>16</root>
           <rootCase>1</rootCase>
           <name>m</name>
+          <pos x="-0.135773" y="-2.85773"/>
           </Harmony>
         <Beam id="24">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Tuplet id="1">
           <normalNotes>2</normalNotes>
@@ -2798,12 +2814,16 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Slur id="26">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
             <ticks>120</ticks>
             <text>band.</text>
             </Lyrics>
+          <Slur type="start" id="26"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2819,6 +2839,7 @@
           </Harmony>
         <Chord>
           <durationType>half</durationType>
+          <Slur type="stop" id="26"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>

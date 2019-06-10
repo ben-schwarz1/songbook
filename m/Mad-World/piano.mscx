@@ -1174,7 +1174,7 @@
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>'ry</text>
+            <text>’ry</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -1947,7 +1947,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>what's</text>
+            <text>what’s</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -2453,7 +2453,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -2527,7 +2527,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I've</text>
+            <text>I’ve</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2664,7 +2664,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>'cause</text>
+            <text>’cause</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -2841,7 +2841,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>It's</text>
+            <text>It’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>

@@ -659,7 +659,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -857,7 +857,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -1066,7 +1066,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -1330,7 +1330,7 @@
             <no>1</no>
             <ticks>960</ticks>
             <style>Lyrics Even Lines</style>
-            <text>lan',</text>
+            <text>lan’,</text>
             </Lyrics>
           <Slur type="start" id="7"/>
           <Note>
@@ -1522,7 +1522,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>lan'.</text>
+            <text>lan’.</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>

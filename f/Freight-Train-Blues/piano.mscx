@@ -633,7 +633,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>3. That's</text>
+            <text>3. That’s</text>
             </Lyrics>
           <Slur type="start" id="2"/>
           <Note>
@@ -946,7 +946,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>That's</text>
+            <text>That’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1254,7 +1254,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>Ev'</text>
+            <text>Ev’</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1413,7 +1413,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>win',</text>
+            <text>win’,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1512,7 +1512,7 @@
             <no>1</no>
             <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
-            <text>ain't</text>
+            <text>ain’t</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1530,7 +1530,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>din'</text>
+            <text>din’</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>

@@ -538,7 +538,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>1. There's</text>
+            <text>1. There’s</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -877,7 +877,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>I've</text>
+            <text>I’ve</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -1890,7 +1890,7 @@
           <durationType>16th</durationType>
           <Lyrics>
             <ticks>120</ticks>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -2629,7 +2629,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>can't</text>
+            <text>can’t</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>

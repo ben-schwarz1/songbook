@@ -607,7 +607,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>find't</text>
+            <text>find’t</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -716,7 +716,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>klopft's</text>
+            <text>klopft’s</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -1316,7 +1316,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>soll'n</text>
+            <text>soll’n</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1360,12 +1360,12 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>Leut'</text>
+            <text>Leut’</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
-            <text>zeih'n</text>
+            <text>zeih’n</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -1516,7 +1516,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>hab'n</text>
+            <text>hab’n</text>
             </Lyrics>
           <Note>
             <Accidental>
@@ -1667,7 +1667,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>klein'</text>
+            <text>klein’</text>
             </Lyrics>
           <Note>
             <Accidental>
@@ -2334,7 +2334,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>auf's</text>
+            <text>auf’s</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -2383,7 +2383,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>obs'</text>
+            <text>obs’</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -2712,7 +2712,7 @@
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
-            <text>wahr'n</text>
+            <text>wahr’n</text>
             </Lyrics>
           <Note>
             <Accidental>

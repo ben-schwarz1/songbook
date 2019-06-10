@@ -1492,7 +1492,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>won't</text>
+            <text>won’t</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -1858,7 +1858,7 @@
           <durationType>eighth</durationType>
           <Beam>11</Beam>
           <Lyrics>
-            <text>you'll</text>
+            <text>you’ll</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1960,7 +1960,7 @@
           <durationType>eighth</durationType>
           <Beam>13</Beam>
           <Lyrics>
-            <text>you'll</text>
+            <text>you’ll</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>

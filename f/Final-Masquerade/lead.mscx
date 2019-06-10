@@ -691,6 +691,7 @@
           </Chord>
         <Slur id="2">
           <track>0</track>
+          <up>1</up>
           <lineType>1</lineType>
           </Slur>
         <Chord>
@@ -1608,10 +1609,8 @@
             <text>ter</text>
             </Lyrics>
           <Note>
-            <Tie id="5">
-              </Tie>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1627,7 +1626,6 @@
             <text>day.</text>
             </Lyrics>
           <Note>
-            <endSpanner id="5"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -1682,7 +1680,7 @@
           <root>12</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="6">
+        <Slur id="5">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1691,7 +1689,7 @@
             <syllabic>begin</syllabic>
             <text>o</text>
             </Lyrics>
-          <Slur type="start" id="6"/>
+          <Slur type="start" id="5"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1699,7 +1697,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="6"/>
+          <Slur type="stop" id="5"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1766,8 +1764,9 @@
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
-        <Slur id="7">
+        <Slur id="6">
           <track>0</track>
+          <up>1</up>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
@@ -1775,7 +1774,7 @@
             <ticks>240</ticks>
             <text>fade.</text>
             </Lyrics>
-          <Slur type="start" id="7"/>
+          <Slur type="start" id="6"/>
           <Note>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -1783,7 +1782,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="7"/>
+          <Slur type="stop" id="6"/>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -1989,7 +1988,7 @@
           <root>12</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="8">
+        <Slur id="7">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1998,7 +1997,7 @@
             <ticks>240</ticks>
             <text>end</text>
             </Lyrics>
-          <Slur type="start" id="8"/>
+          <Slur type="start" id="7"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2006,7 +2005,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="8"/>
+          <Slur type="stop" id="7"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2086,15 +2085,16 @@
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
-        <Volta id="9">
+        <Volta id="8">
           <endHook>1</endHook>
           <beginText>
             <text>1.</text>
             </beginText>
           <endings>1</endings>
           </Volta>
-        <Slur id="10">
+        <Slur id="9">
           <track>0</track>
+          <up>1</up>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
@@ -2103,7 +2103,7 @@
             <ticks>1</ticks>
             <text>rade.</text>
             </Lyrics>
-          <Slur type="start" id="10"/>
+          <Slur type="start" id="9"/>
           <Note>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -2111,7 +2111,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="10"/>
+          <Slur type="stop" id="9"/>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -2130,15 +2130,16 @@
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
-        <endSpanner id="9"/>
-        <Volta id="11">
+        <endSpanner id="8"/>
+        <Volta id="10">
           <beginText>
             <text>2.</text>
             </beginText>
           <endings>2</endings>
           </Volta>
-        <Slur id="12">
+        <Slur id="11">
           <track>0</track>
+          <up>1</up>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
@@ -2146,6 +2147,97 @@
             <syllabic>end</syllabic>
             <ticks>1</ticks>
             <text>rade.</text>
+            </Lyrics>
+          <Slur type="start" id="11"/>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Slur type="stop" id="11"/>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <text>the</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>fi</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>nal</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>mas</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>que</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="22">
+        <Harmony>
+          <root>10</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <endSpanner id="10"/>
+        <Slur id="12">
+          <track>0</track>
+          <up>1</up>
+          </Slur>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <ticks>240</ticks>
+            <text>rade,</text>
             </Lyrics>
           <Slur type="start" id="12"/>
           <Note>
@@ -2221,21 +2313,21 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="22">
+      <Measure number="23">
         <Harmony>
-          <root>10</root>
+          <root>11</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <endSpanner id="11"/>
         <Slur id="13">
           <track>0</track>
+          <up>1</up>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <ticks>240</ticks>
-            <text>rade,</text>
+            <ticks>1</ticks>
+            <text>rade.</text>
             </Lyrics>
           <Slur type="start" id="13"/>
           <Note>
@@ -2246,95 +2338,6 @@
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="13"/>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <text>the</text>
-            </Lyrics>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>fi</text>
-            </Lyrics>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>nal</text>
-            </Lyrics>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>mas</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>que</text>
-            </Lyrics>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="23">
-        <Harmony>
-          <root>11</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <Slur id="14">
-          <track>0</track>
-          </Slur>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <ticks>1</ticks>
-            <text>rade.</text>
-            </Lyrics>
-          <Slur type="start" id="14"/>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Slur type="stop" id="14"/>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -2391,12 +2394,16 @@
           <root>12</root>
           <rootCase>1</rootCase>
           </Harmony>
+        <Slur id="14">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
             <ticks>240</ticks>
             <text>end</text>
             </Lyrics>
+          <Slur type="start" id="14"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2404,6 +2411,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Slur type="stop" id="14"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2484,6 +2492,7 @@
           </Harmony>
         <Slur id="15">
           <track>0</track>
+          <up>1</up>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>

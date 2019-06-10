@@ -523,8 +523,6 @@
           <subtype>2</subtype>
           <sigN>2</sigN>
           <sigD>2</sigD>
-          <textN>¢</textN>
-          <textD></textD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
@@ -1932,6 +1930,7 @@
           </Harmony>
         </Measure>
       <Measure number="17">
+        <vspacerUp>22.1582</vspacerUp>
         <Harmony>
           <root>13</root>
           <rootCase>1</rootCase>
@@ -1948,6 +1947,7 @@
             </Note>
           </Chord>
         <StaffText>
+          <pos x="-4.45014" y="-4.09247"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -2117,6 +2117,9 @@
           </Chord>
         </Measure>
       <Measure number="20">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>19</root>
           <rootCase>1</rootCase>

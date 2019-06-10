@@ -1539,7 +1539,7 @@
           <durationType>eighth</durationType>
           <Beam>17</Beam>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1983,7 +1983,7 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>70</pitch>
@@ -2041,7 +2041,7 @@
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -2173,7 +2173,7 @@
           <durationType>eighth</durationType>
           <Beam>25</Beam>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>70</pitch>
@@ -2317,7 +2317,7 @@
           <durationType>eighth</durationType>
           <Beam>28</Beam>
           <Lyrics>
-            <text>you're</text>
+            <text>you’re</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>

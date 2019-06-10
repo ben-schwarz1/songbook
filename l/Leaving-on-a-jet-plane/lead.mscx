@@ -535,6 +535,7 @@
           <text>Verse</text>
           </StaffText>
         <Beam id="1">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -582,6 +583,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="2"/>
             <pitch>67</pitch>
@@ -610,12 +612,14 @@
             <no>2</no>
             <text>Now</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="2">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -668,6 +672,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="3"/>
             <pitch>65</pitch>
@@ -689,6 +694,7 @@
             <no>2</no>
             <text>has</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -723,6 +729,7 @@
             <text>come</text>
             </Lyrics>
           <Slur type="start" id="4"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -741,6 +748,7 @@
             </Note>
           </Chord>
         <Beam id="3">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -792,6 +800,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="5"/>
             <pitch>67</pitch>
@@ -841,12 +850,14 @@
             <no>2</no>
             <text>one</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="4">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -905,6 +916,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Slur type="start" id="7"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="6"/>
             <pitch>65</pitch>
@@ -924,6 +936,7 @@
             <text>I’ve</text>
             </Lyrics>
           <Slur type="stop" id="7"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -951,12 +964,14 @@
             <no>2</no>
             <text>let</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
         <Beam id="5">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1010,6 +1025,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="8"/>
             <pitch>67</pitch>
@@ -1017,6 +1033,7 @@
             </Note>
           </Chord>
         <Beam id="6">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1079,12 +1096,14 @@
             <no>2</no>
             <text>close</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="7">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1140,6 +1159,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Slur type="start" id="10"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="9"/>
             <pitch>67</pitch>
@@ -1153,6 +1173,7 @@
             <text>you</text>
             </Lyrics>
           <Slur type="stop" id="10"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1180,12 +1201,14 @@
             <no>2</no>
             <text>I’ll</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="8">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1237,6 +1260,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="11"/>
             <pitch>67</pitch>
@@ -1259,6 +1283,7 @@
             <no>2</no>
             <text>my</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1303,6 +1328,7 @@
           <durationType>half</durationType>
           </Rest>
         <Beam id="9">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1357,6 +1383,7 @@
             <syllabic>end</syllabic>
             <text>)</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="12"/>
             <pitch>67</pitch>
@@ -1384,12 +1411,14 @@
             <no>2</no>
             <text>Dream</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="10">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1443,6 +1472,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="13"/>
             <pitch>65</pitch>
@@ -1464,6 +1494,7 @@
             <no>2</no>
             <text>the</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -1491,12 +1522,14 @@
             <no>2</no>
             <text>days</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
         <Beam id="11">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1549,6 +1582,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="14"/>
             <pitch>67</pitch>
@@ -1560,6 +1594,7 @@
           <lineType>1</lineType>
           </Slur>
         <Beam id="12">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1624,12 +1659,14 @@
             <no>2</no>
             <text>I</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="13">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1682,6 +1719,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="16"/>
             <pitch>65</pitch>
@@ -1703,6 +1741,7 @@
             <no>2</no>
             <text>to</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -1719,7 +1758,7 @@
           <lineType>1</lineType>
           </Slur>
         <Chord>
-          <BeamMode>no</BeamMode>
+          <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
@@ -1737,6 +1776,7 @@
             <text>leave</text>
             </Lyrics>
           <Slur type="start" id="17"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -1805,6 +1845,7 @@
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="18"/>
             <pitch>67</pitch>
@@ -1828,6 +1869,7 @@
             <syllabic>begin</syllabic>
             <text>a</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1856,12 +1898,14 @@
             <syllabic>end</syllabic>
             <text>bout</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="14">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1919,6 +1963,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Slur type="start" id="20"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="19"/>
             <pitch>67</pitch>
@@ -1937,6 +1982,7 @@
             <text>I’ll</text>
             </Lyrics>
           <Slur type="stop" id="20"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1965,12 +2011,14 @@
             <no>2</no>
             <text>I</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="15">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2023,6 +2071,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="21"/>
             <pitch>67</pitch>
@@ -2045,6 +2094,7 @@
             <no>2</no>
             <text>to</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2080,6 +2130,7 @@
             <text>say:</text>
             </Lyrics>
           <Slur type="start" id="22"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2088,6 +2139,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2107,6 +2159,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Slur type="stop" id="22"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2124,6 +2177,7 @@
           <Lyrics>
             <text>So</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2141,7 +2195,7 @@
           <rootCase>1</rootCase>
           </Harmony>
         <StaffText>
-          <pos x="-0.11428" y="-4.08561"/>
+          <pos x="-0.228564" y="-3.39992"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
@@ -2151,6 +2205,7 @@
           <Lyrics>
             <text>kiss</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2162,6 +2217,7 @@
           <Lyrics>
             <text>me</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2173,6 +2229,7 @@
           <Lyrics>
             <text>and</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2190,12 +2247,14 @@
           <Lyrics>
             <text>smile</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="16">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2227,6 +2286,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="23"/>
             <pitch>65</pitch>
@@ -2245,12 +2305,14 @@
           <Lyrics>
             <text>tell</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         <Beam id="17">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2282,6 +2344,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="24"/>
             <pitch>69</pitch>
@@ -2294,6 +2357,7 @@
           <Lyrics>
             <text>you’ll</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2311,12 +2375,14 @@
           <Lyrics>
             <text>wait</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="18">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2348,6 +2414,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="25"/>
             <pitch>65</pitch>
@@ -2366,12 +2433,14 @@
           <Lyrics>
             <text>hold</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         <Beam id="19">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2403,6 +2472,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="26"/>
             <pitch>69</pitch>
@@ -2415,6 +2485,7 @@
           <Lyrics>
             <text>you’ll</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2428,6 +2499,7 @@
           <name>m</name>
           </Harmony>
         <Beam id="20">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2461,6 +2533,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="27"/>
             <pitch>69</pitch>
@@ -2473,12 +2546,14 @@
           <Lyrics>
             <text>let</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Beam id="21">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2518,6 +2593,7 @@
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="28"/>
             <pitch>67</pitch>
@@ -2536,6 +2612,7 @@
           <durationType>quarter</durationType>
           </Rest>
         <Beam id="22">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2573,6 +2650,7 @@
             <syllabic>begin</syllabic>
             <text>leav</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2585,6 +2663,7 @@
             <syllabic>end</syllabic>
             <text>in’</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2602,12 +2681,14 @@
           <Lyrics>
             <text>on</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
         <Beam id="23">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2637,6 +2718,7 @@
             </Note>
           </Chord>
         <Beam id="24">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2666,6 +2748,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
           <Note>
             <endSpanner id="30"/>
             <pitch>72</pitch>
@@ -2687,6 +2770,7 @@
           <Lyrics>
             <text>don’t</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2698,6 +2782,7 @@
           <Lyrics>
             <text>know</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2709,6 +2794,7 @@
           <Lyrics>
             <text>when</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2726,12 +2812,14 @@
           <Lyrics>
             <text>I’ll</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="25">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2763,6 +2851,7 @@
             </Note>
           </Chord>
         <Beam id="26">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2794,6 +2883,7 @@
             <syllabic>end</syllabic>
             <text>gain.</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2817,6 +2907,7 @@
           <Lyrics>
             <text>Oh</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2835,6 +2926,7 @@
           <Lyrics>
             <text>babe;</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -2846,6 +2938,7 @@
           <Lyrics>
             <text>I</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2857,6 +2950,7 @@
           <Lyrics>
             <text>hate</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2868,6 +2962,7 @@
           <Lyrics>
             <text>to</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>

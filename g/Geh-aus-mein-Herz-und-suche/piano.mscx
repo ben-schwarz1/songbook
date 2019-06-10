@@ -66,7 +66,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>9</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>Alegreya</family>
@@ -77,7 +77,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>9</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
         <family>Alegreya</family>
@@ -547,7 +547,7 @@
       <VBox>
         <height>10</height>
         </VBox>
-      <Measure number="1">
+      <Measure number="1" len="1/4">
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
@@ -556,13 +556,9 @@
         <Tempo>
           <tempo>2</tempo>
           <followText>1</followText>
+          <visible>0</visible>
           <text><sym>unicodeNoteQuarterUp</sym> = 120</text>
           </Tempo>
-        <Rest>
-          <visible>0</visible>
-          <dots>1</dots>
-          <durationType>half</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -573,14 +569,14 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>1440</tick>
+        <tick>0</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>Halt</text>
+            <text>Geh</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -633,7 +629,7 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>1920</tick>
+        <tick>480</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -641,7 +637,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>aus</text>
+            <text>aus,</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -673,7 +669,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>Herz</text>
+            <text>Herz,</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -771,14 +767,13 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>3840</tick>
+        <tick>2400</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <ticks>240</ticks>
             <track>1</track>
             <text>su</text>
             </Lyrics>
@@ -854,7 +849,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>trotz</text>
+            <text>in</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -921,7 +916,7 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>5760</tick>
+        <tick>4320</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -929,7 +924,7 @@
           <Lyrics>
             <syllabic>begin</syllabic>
             <track>1</track>
-            <text>al</text>
+            <text>die</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -947,7 +942,7 @@
             <syllabic>end</syllabic>
             <ticks>240</ticks>
             <track>1</track>
-            <text>ler</text>
+            <text>ser</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -976,7 +971,7 @@
           <Lyrics>
             <syllabic>begin</syllabic>
             <track>1</track>
-            <text>Wi</text>
+            <text>lie</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -991,9 +986,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>middle</syllabic>
+            <syllabic>end</syllabic>
             <track>1</track>
-            <text>drig</text>
+            <text>ben</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1075,16 +1070,15 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>7680</tick>
+        <tick>6240</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
-            <ticks>240</ticks>
+            <syllabic>begin</syllabic>
             <track>1</track>
-            <text>keit</text>
+            <text>Som</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1111,9 +1105,10 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <syllabic>end</syllabic>
             <ticks>240</ticks>
             <track>1</track>
-            <text>und</text>
+            <text>mer</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1141,7 +1136,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>Leid</text>
+            <text>Zeit</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1157,7 +1152,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>es</text>
+            <text>an</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1243,15 +1238,16 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>9600</tick>
+        <tick>8160</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
+            <syllabic>begin</syllabic>
             <track>1</track>
-            <text>lohnt</text>
+            <text>dei</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1266,8 +1262,9 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <syllabic>end</syllabic>
             <track>1</track>
-            <text>sich</text>
+            <text>nes</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1282,9 +1279,9 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <ticks>240</ticks>
+            <syllabic>begin</syllabic>
             <track>1</track>
-            <text>stets</text>
+            <text>Got</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1311,9 +1308,10 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <syllabic>end</syllabic>
             <ticks>240</ticks>
             <track>1</track>
-            <text>die</text>
+            <text>tes</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1367,7 +1365,7 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>11520</tick>
+        <tick>10080</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -1375,7 +1373,7 @@
           <Lyrics>
             <syllabic>begin</syllabic>
             <track>1</track>
-            <text>Mü</text>
+            <text>Ga</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1392,7 +1390,7 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <track>1</track>
-            <text>he!</text>
+            <text>ben;</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1408,13 +1406,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>Zwei</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>Steh</text>
+            <text>Schau</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1467,7 +1459,7 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>13440</tick>
+        <tick>12000</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -1475,13 +1467,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>Jahr</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>uns</text>
+            <text>an</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1497,13 +1483,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <track>1</track>
-            <text>steh`n</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>beim</text>
+            <text>der</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1518,15 +1498,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <track>1</track>
-            <text>wir</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
             <syllabic>begin</syllabic>
             <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>Drei</text>
+            <text>schö</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1541,15 +1515,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
+            <syllabic>end</syllabic>
             <track>1</track>
-            <text>noch</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>middle</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>fach</text>
+            <text>nen</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1631,21 +1599,15 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>15360</tick>
+        <tick>13920</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
+            <syllabic>begin</syllabic>
             <track>1</track>
-            <text>Seit</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>middle</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>abi</text>
+            <text>Gär</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1660,15 +1622,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <track>1</track>
-            <text>an</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
             <syllabic>end</syllabic>
             <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>tur</text>
+            <text>ten</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1684,13 +1640,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>Seit</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>bei</text>
+            <text>Zier,</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1706,13 +1656,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>in</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>auch</text>
+            <text>und</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1765,7 +1709,7 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>17280</tick>
+        <tick>15840</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -1774,13 +1718,7 @@
           <Lyrics>
             <syllabic>begin</syllabic>
             <track>1</track>
-            <text>die</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>wenn's</text>
+            <text>sie</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1797,13 +1735,7 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <track>1</track>
-            <text>ser</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>Stress</text>
+            <text>he,</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1818,15 +1750,8 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
             <track>1</track>
-            <text>schwe</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>pur</text>
+            <text>wie</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1841,15 +1766,8 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
             <track>1</track>
-            <text>ren</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>und</text>
+            <text>sie</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1946,22 +1864,14 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>19200</tick>
+        <tick>17760</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
             <track>1</track>
-            <text>G</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>begin</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>Cha</text>
+            <text>mir</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -1976,16 +1886,8 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
             <track>1</track>
-            <text>8</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>os</text>
+            <text>und</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2001,13 +1903,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>Zeit</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>sei</text>
+            <text>dir</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2022,17 +1918,10 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>end</syllabic>
             <ticks>240</ticks>
             <track>1</track>
-            <text>be</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <ticks>240</ticks>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>als</text>
+            <text>sich</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2126,22 +2015,15 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>21120</tick>
+        <tick>19680</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
-            <track>1</track>
-            <text>vor</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
             <syllabic>begin</syllabic>
             <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>klei</text>
+            <text>aus</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2156,17 +2038,9 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <ticks>240</ticks>
+            <syllabic>middle</syllabic>
             <track>1</track>
-            <text>das</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <ticks>240</ticks>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>ne</text>
+            <text>ge</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2193,16 +2067,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>middle</syllabic>
             <track>1</track>
-            <text>sü</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>begin</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>Ab</text>
+            <text>schü</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2220,15 +2087,7 @@
             <syllabic>end</syllabic>
             <ticks>240</ticks>
             <track>1</track>
-            <text>ße</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>middle</syllabic>
-            <ticks>240</ticks>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>schieds</text>
+            <text>cket</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2282,7 +2141,7 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>23040</tick>
+        <tick>21600</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -2290,14 +2149,7 @@
           <Lyrics>
             <syllabic>begin</syllabic>
             <track>1</track>
-            <text>Le</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>middle</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>ga</text>
+            <text>ha</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2314,14 +2166,7 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <track>1</track>
-            <text>ben</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>be</text>
+            <text>ben,</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2337,13 +2182,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <track>1</track>
-            <text>dir</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>als</text>
+            <text>sich</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2426,7 +2265,7 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <tick>24960</tick>
+        <tick>23520</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -2435,14 +2274,7 @@
           <Lyrics>
             <syllabic>begin</syllabic>
             <track>1</track>
-            <text>end</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>begin</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>klei</text>
+            <text>aus</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2457,16 +2289,9 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
+            <syllabic>middle</syllabic>
             <track>1</track>
-            <text>los</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>ne</text>
+            <text>ge</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2481,17 +2306,9 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <ticks>240</ticks>
+            <syllabic>middle</syllabic>
             <track>1</track>
-            <text>ist</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>begin</syllabic>
-            <ticks>240</ticks>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>Ab</text>
+            <text>schü</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2518,18 +2335,10 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>end</syllabic>
             <ticks>240</ticks>
             <track>1</track>
-            <text>ge</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>middle</syllabic>
-            <ticks>240</ticks>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>schieds</text>
+            <text>cket</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2552,7 +2361,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
+      <Measure number="15" len="3/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -2573,30 +2382,19 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>2</span>
           </BarLine>
-        <tick>26880</tick>
+        <tick>25440</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <syllabic>middle</syllabic>
+            <syllabic>begin</syllabic>
             <track>1</track>
-            <text>ge</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>middle</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>ga</text>
+            <text>ha</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2613,14 +2411,7 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <track>1</track>
-            <text>ben</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <track>1</track>
-            <style>Lyrics Even Lines</style>
-            <text>be.</text>
+            <text>ben.</text>
             </Lyrics>
           <Note>
             <track>1</track>
@@ -2630,25 +2421,15 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure number="1">
+      <Measure number="1" len="1/4">
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <dots>1</dots>
-          <durationType>half</durationType>
-          </Rest>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3058,7 +2839,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
+      <Measure number="15" len="3/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3083,10 +2864,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       </Staff>
     </Score>

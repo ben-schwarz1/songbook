@@ -749,7 +749,7 @@
           <durationType>eighth</durationType>
           <Beam>2</Beam>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -970,7 +970,7 @@
           <durationType>eighth</durationType>
           <Beam>4</Beam>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -1171,12 +1171,12 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1267,7 +1267,7 @@
           <durationType>eighth</durationType>
           <Beam>8</Beam>
           <Lyrics>
-            <text>your're</text>
+            <text>your’re</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -1308,7 +1308,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Note>
             <Accidental>
@@ -1412,7 +1412,7 @@
           <durationType>eighth</durationType>
           <Beam>11</Beam>
           <Lyrics>
-            <text>I've</text>
+            <text>I’ve</text>
             </Lyrics>
           <Note>
             <pitch>57</pitch>
@@ -1589,7 +1589,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'd</text>
+            <text>I’d</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1716,7 +1716,7 @@
           <small>1</small>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>(That's</text>
+            <text>(That’s</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1871,7 +1871,7 @@
           <durationType>eighth</durationType>
           <Beam>19</Beam>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -2123,7 +2123,7 @@
           <durationType>eighth</durationType>
           <Beam>21</Beam>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
