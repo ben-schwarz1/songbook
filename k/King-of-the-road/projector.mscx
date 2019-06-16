@@ -2265,8 +2265,7 @@
         </Measure>
       <Measure number="24">
         <Harmony>
-          <root>17</root>
-          <rootCase>1</rootCase>
+          <root>16</root>
           </Harmony>
         <Chord>
           <BeamMode>begin</BeamMode>

@@ -540,7 +540,7 @@
       <Measure number="1">
         <stretch>0.8</stretch>
         <StaffText>
-          <pos x="0" y="-3.31238"/>
+          <pos x="-0.448051" y="-4.21103"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -589,7 +589,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>you</text>
+            <text>you,</text>
             </Lyrics>
           <Note>
             <pitch>57</pitch>
@@ -625,7 +625,7 @@
           <durationType>eighth</durationType>
           <Beam>2</Beam>
           <Lyrics>
-            <text>Can</text>
+            <text>can</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -794,7 +794,7 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>ways</text>
+            <text>ways?</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -1341,8 +1341,12 @@
             <text>ing</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <Accidental>
+              <bracket>1</bracket>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1438,7 +1442,7 @@
           <span>1</span>
           </BarLine>
         <StaffText>
-          <pos x="0.128466" y="-3.18392"/>
+          <pos x="-0.448051" y="-4.21103"/>
           <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>

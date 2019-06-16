@@ -482,6 +482,10 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -1088,7 +1092,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ing</text>
@@ -1096,6 +1100,19 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <ticks>240</ticks>
+            <text>down.</text>
+            </Lyrics>
+          <Note>
+            <Tie id="9">
+              </Tie>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1110,10 +1127,8 @@
           </Harmony>
         <Chord>
           <durationType>half</durationType>
-          <Lyrics>
-            <text>down!</text>
-            </Lyrics>
           <Note>
+            <endSpanner id="9"/>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
@@ -1127,13 +1142,13 @@
           </BarLine>
         </Measure>
       <Measure number="9" len="1/4">
-        <stretch>0.8</stretch>
+        <stretch>0</stretch>
         <StaffText>
-          <pos x="2.9711" y="-3.15149"/>
+          <pos x="-1.09519" y="-2.64278"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
-        <Slur id="9">
+        <Slur id="10">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1148,7 +1163,7 @@
             <style>Lyrics Even Lines</style>
             <text>Right</text>
             </Lyrics>
-          <Slur type="start" id="9"/>
+          <Slur type="start" id="10"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1159,7 +1174,7 @@
           <Lyrics>
             <text>can</text>
             </Lyrics>
-          <Slur type="stop" id="9"/>
+          <Slur type="stop" id="10"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1167,13 +1182,13 @@
           </Chord>
         </Measure>
       <Measure number="10">
-        <stretch>0.8</stretch>
+        <stretch>0</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
-        <Slur id="10">
+        <Slur id="11">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1188,7 +1203,7 @@
             <style>Lyrics Even Lines</style>
             <text>up</text>
             </Lyrics>
-          <Slur type="start" id="10"/>
+          <Slur type="start" id="11"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1200,7 +1215,7 @@
             <syllabic>begin</syllabic>
             <text>ab</text>
             </Lyrics>
-          <Slur type="stop" id="10"/>
+          <Slur type="stop" id="11"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1238,7 +1253,7 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="11">
+        <Slur id="12">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1253,7 +1268,7 @@
             <style>Lyrics Even Lines</style>
             <text>walls</text>
             </Lyrics>
-          <Slur type="start" id="11"/>
+          <Slur type="start" id="12"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1261,13 +1276,13 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="11"/>
+          <Slur type="stop" id="12"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="12">
+        <Slur id="13">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1283,7 +1298,7 @@
             <style>Lyrics Even Lines</style>
             <text>of</text>
             </Lyrics>
-          <Slur type="start" id="12"/>
+          <Slur type="start" id="13"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1291,7 +1306,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="12"/>
+          <Slur type="stop" id="13"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1299,7 +1314,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
-        <stretch>0.8</stretch>
+        <stretch>0</stretch>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1353,7 +1368,7 @@
             <text>cho,</text>
             </Lyrics>
           <Note>
-            <Tie id="13">
+            <Tie id="14">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1362,12 +1377,12 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="13"/>
+            <endSpanner id="14"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="14">
+        <Slur id="15">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1382,7 +1397,7 @@
             <style>Lyrics Even Lines</style>
             <text>He</text>
             </Lyrics>
-          <Slur type="start" id="14"/>
+          <Slur type="start" id="15"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1393,7 +1408,7 @@
           <Lyrics>
             <text>can</text>
             </Lyrics>
-          <Slur type="stop" id="14"/>
+          <Slur type="stop" id="15"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1401,13 +1416,13 @@
           </Chord>
         </Measure>
       <Measure number="12">
-        <stretch>0.8</stretch>
+        <stretch>0</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
-        <Slur id="15">
+        <Slur id="16">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1422,7 +1437,7 @@
             <style>Lyrics Even Lines</style>
             <text>marched</text>
             </Lyrics>
-          <Slur type="start" id="15"/>
+          <Slur type="start" id="16"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1434,7 +1449,7 @@
             <syllabic>begin</syllabic>
             <text>ab</text>
             </Lyrics>
-          <Slur type="stop" id="15"/>
+          <Slur type="stop" id="16"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1472,7 +1487,7 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="16">
+        <Slur id="17">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1487,7 +1502,7 @@
             <style>Lyrics Even Lines</style>
             <text>spear</text>
             </Lyrics>
-          <Slur type="start" id="16"/>
+          <Slur type="start" id="17"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1495,13 +1510,13 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="16"/>
+          <Slur type="stop" id="17"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="17">
+        <Slur id="18">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1516,7 +1531,7 @@
             <style>Lyrics Even Lines</style>
             <text>in</text>
             </Lyrics>
-          <Slur type="start" id="17"/>
+          <Slur type="start" id="18"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1529,7 +1544,7 @@
             <style>Lyrics Even Lines</style>
             <text>his</text>
             </Lyrics>
-          <Slur type="stop" id="17"/>
+          <Slur type="stop" id="18"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1537,7 +1552,10 @@
           </Chord>
         </Measure>
       <Measure number="13">
-        <stretch>0.8</stretch>
+        <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>page</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -1560,7 +1578,7 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="18">
+        <Slur id="19">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1575,7 +1593,7 @@
             <style>Lyrics Even Lines</style>
             <text>“Go</text>
             </Lyrics>
-          <Slur type="start" id="18"/>
+          <Slur type="start" id="19"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1586,7 +1604,7 @@
           <Lyrics>
             <text>there’s</text>
             </Lyrics>
-          <Slur type="stop" id="18"/>
+          <Slur type="stop" id="19"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1594,13 +1612,13 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <stretch>0.8</stretch>
+        <stretch>0</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
-        <Slur id="19">
+        <Slur id="20">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1615,7 +1633,7 @@
             <style>Lyrics Even Lines</style>
             <text>blow</text>
             </Lyrics>
-          <Slur type="start" id="19"/>
+          <Slur type="start" id="20"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1623,7 +1641,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="19"/>
+          <Slur type="stop" id="20"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1652,7 +1670,7 @@
           <base>14</base>
           <baseCase>1</baseCase>
           </Harmony>
-        <Slur id="20">
+        <Slur id="21">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1667,7 +1685,7 @@
             <style>Lyrics Even Lines</style>
             <text>ram’s</text>
             </Lyrics>
-          <Slur type="start" id="20"/>
+          <Slur type="start" id="21"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1675,13 +1693,13 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="20"/>
+          <Slur type="stop" id="21"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="21">
+        <Slur id="22">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1697,7 +1715,7 @@
             <style>Lyrics Even Lines</style>
             <text>horn“,</text>
             </Lyrics>
-          <Slur type="start" id="21"/>
+          <Slur type="start" id="22"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1705,7 +1723,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="21"/>
+          <Slur type="stop" id="22"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1713,7 +1731,10 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <stretch>0.8</stretch>
+        <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1755,7 +1776,7 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="22">
+        <Slur id="23">
           <track>0</track>
           </Slur>
         <Chord>
@@ -1771,7 +1792,7 @@
             <style>Lyrics Even Lines</style>
             <text>a</text>
             </Lyrics>
-          <Slur type="start" id="22"/>
+          <Slur type="start" id="23"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1791,7 +1812,7 @@
             <style>Lyrics Even Lines</style>
             <text>cried</text>
             </Lyrics>
-          <Slur type="stop" id="22"/>
+          <Slur type="stop" id="23"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1829,7 +1850,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
-        <stretch>0.8</stretch>
+        <stretch>0.5</stretch>
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
@@ -1889,7 +1910,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
             <text>i</text>
@@ -1904,6 +1925,26 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <ticks>240</ticks>
+            <text>cho!</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <ticks>240</ticks>
+            <style>Lyrics Even Lines</style>
+            <text>hand.”</text>
+            </Lyrics>
+          <Note>
+            <Tie id="24">
+              </Tie>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="17" len="3/4">
         <stretch>0.8</stretch>
@@ -1915,16 +1956,8 @@
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>cho!</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>hand.“</text>
-            </Lyrics>
           <Note>
+            <endSpanner id="24"/>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
