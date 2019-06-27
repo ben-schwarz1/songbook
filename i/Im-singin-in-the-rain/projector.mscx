@@ -597,13 +597,10 @@
           </Chord>
         </Measure>
       <Measure number="3">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
-          <name>m6</name>
+          <name>m7</name>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -640,6 +637,7 @@
         </Measure>
       <Measure number="4">
         <Marker>
+          <pos x="1.72677" y="-3.37138"/>
           <style>Repeat Text Left</style>
           <text><sym>segno</sym></text>
           <label>segno</label>
@@ -864,9 +862,6 @@
           </Chord>
         </Measure>
       <Measure number="7">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Harmony>
           <root>16</root>
           <name>m7</name>
@@ -1112,11 +1107,9 @@
           </Chord>
         </Measure>
       <Measure number="11">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Harmony>
           <root>14</root>
+          <name>7</name>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1135,6 +1128,10 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Slur id="7">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Beam id="7">
           </Beam>
         <Chord>
@@ -1151,6 +1148,7 @@
             <style>Lyrics Even Lines</style>
             <text>with</text>
             </Lyrics>
+          <Slur type="start" id="7"/>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -1165,6 +1163,7 @@
             <style>Lyrics Even Lines</style>
             <text>a</text>
             </Lyrics>
+          <Slur type="stop" id="7"/>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -1295,7 +1294,7 @@
             <text>sun’s</text>
             </Lyrics>
           <Note>
-            <Tie id="7">
+            <Tie id="8">
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1308,7 +1307,7 @@
           <durationType>eighth</durationType>
           <Beam>8</Beam>
           <Note>
-            <endSpanner id="7"/>
+            <endSpanner id="8"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
@@ -1338,9 +1337,6 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Harmony>
           <root>14</root>
           <name>7</name>
@@ -1353,7 +1349,7 @@
             <text>heart</text>
             </Lyrics>
           <Note>
-            <Tie id="8">
+            <Tie id="9">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1366,7 +1362,7 @@
           <durationType>eighth</durationType>
           <Beam>9</Beam>
           <Note>
-            <endSpanner id="8"/>
+            <endSpanner id="9"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -1408,7 +1404,7 @@
             <text>read</text>
             </Lyrics>
           <Note>
-            <Tie id="9">
+            <Tie id="10">
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1421,7 +1417,7 @@
           <durationType>eighth</durationType>
           <Beam>10</Beam>
           <Note>
-            <endSpanner id="9"/>
+            <endSpanner id="10"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
@@ -1516,7 +1512,7 @@
             <text>stor</text>
             </Lyrics>
           <Note>
-            <Tie id="10">
+            <Tie id="11">
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1529,7 +1525,7 @@
           <durationType>eighth</durationType>
           <Beam>12</Beam>
           <Note>
-            <endSpanner id="10"/>
+            <endSpanner id="11"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
@@ -1560,9 +1556,14 @@
           </Chord>
         </Measure>
       <Measure number="19">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+        <Jump>
+          <pos x="-0.274276" y="-3.9885"/>
+          <style>Repeat Text Right</style>
+          <text>D.S. al Coda</text>
+          <jumpTo>segno</jumpTo>
+          <playUntil>coda</playUntil>
+          <continueAt>codab</continueAt>
+          </Jump>
         <Harmony>
           <root>15</root>
           <name>m7</name>
@@ -1619,6 +1620,7 @@
         </Measure>
       <Measure number="20">
         <Marker>
+          <pos x="4.12541" y="-3.91994"/>
           <style>Repeat Text Left</style>
           <text><sym>coda</sym></text>
           <label>codab</label>
@@ -1653,7 +1655,7 @@
             <text>in’</text>
             </Lyrics>
           <Note>
-            <Tie id="11">
+            <Tie id="12">
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1663,7 +1665,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="11"/>
+            <endSpanner id="12"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
@@ -1710,7 +1712,7 @@
             <text>in’</text>
             </Lyrics>
           <Note>
-            <Tie id="12">
+            <Tie id="13">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1720,7 +1722,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="12"/>
+            <endSpanner id="13"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -1761,7 +1763,7 @@
             <text>rain.</text>
             </Lyrics>
           <Note>
-            <Tie id="13">
+            <Tie id="14">
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1773,7 +1775,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="13"/>
+            <endSpanner id="14"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programVersion>2.1.0</programVersion>
+  <programRevision>871c8ce</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -715,6 +715,10 @@
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
+        <Slur id="4">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -733,6 +737,7 @@
             </Lyrics>
           <Slur type="start" id="2"/>
           <Slur type="start" id="3"/>
+          <Slur type="start" id="4"/>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -748,6 +753,7 @@
             </Lyrics>
           <Slur type="stop" id="2"/>
           <Slur type="stop" id="3"/>
+          <Slur type="stop" id="4"/>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -808,11 +814,15 @@
           <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="4">
+        <Slur id="5">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
-        <Slur id="5">
+        <Slur id="6">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Slur id="7">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -835,8 +845,9 @@
             <syllabic>end</syllabic>
             <text>fore</text>
             </Lyrics>
-          <Slur type="start" id="4"/>
           <Slur type="start" id="5"/>
+          <Slur type="start" id="6"/>
+          <Slur type="start" id="7"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -848,8 +859,9 @@
             <no>2</no>
             <text>he</text>
             </Lyrics>
-          <Slur type="stop" id="4"/>
           <Slur type="stop" id="5"/>
+          <Slur type="stop" id="6"/>
+          <Slur type="stop" id="7"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -899,7 +911,11 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <Slur id="6">
+        <Slur id="8">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Slur id="9">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -918,7 +934,8 @@
             <ticks>480</ticks>
             <text>the</text>
             </Lyrics>
-          <Slur type="start" id="6"/>
+          <Slur type="start" id="8"/>
+          <Slur type="start" id="9"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -934,7 +951,8 @@
             <style>Lyrics Even Lines</style>
             <text>the</text>
             </Lyrics>
-          <Slur type="stop" id="6"/>
+          <Slur type="stop" id="8"/>
+          <Slur type="stop" id="9"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1108,11 +1126,15 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <Slur id="7">
+        <Slur id="10">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
-        <Slur id="8">
+        <Slur id="11">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Slur id="12">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1132,8 +1154,9 @@
             <ticks>240</ticks>
             <text>must</text>
             </Lyrics>
-          <Slur type="start" id="7"/>
-          <Slur type="start" id="8"/>
+          <Slur type="start" id="10"/>
+          <Slur type="start" id="11"/>
+          <Slur type="start" id="12"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1150,8 +1173,9 @@
             <style>Lyrics Even Lines</style>
             <text>some</text>
             </Lyrics>
-          <Slur type="stop" id="7"/>
-          <Slur type="stop" id="8"/>
+          <Slur type="stop" id="10"/>
+          <Slur type="stop" id="11"/>
+          <Slur type="stop" id="12"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -1183,11 +1207,15 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="9">
+        <Slur id="13">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
-        <Slur id="10">
+        <Slur id="14">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Slur id="15">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1209,8 +1237,9 @@
             <ticks>480</ticks>
             <text>man</text>
             </Lyrics>
-          <Slur type="start" id="9"/>
-          <Slur type="start" id="10"/>
+          <Slur type="start" id="13"/>
+          <Slur type="start" id="14"/>
+          <Slur type="start" id="15"/>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1228,8 +1257,9 @@
             <style>Lyrics Even Lines</style>
             <text>ex</text>
             </Lyrics>
-          <Slur type="stop" id="9"/>
-          <Slur type="stop" id="10"/>
+          <Slur type="stop" id="13"/>
+          <Slur type="stop" id="14"/>
+          <Slur type="stop" id="15"/>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1290,11 +1320,15 @@
           <root>15</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="11">
+        <Slur id="16">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
-        <Slur id="12">
+        <Slur id="17">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Slur id="18">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1302,7 +1336,7 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <ticks>1</ticks>
+            <ticks>960</ticks>
             <text>fore</text>
             </Lyrics>
           <Lyrics>
@@ -1316,8 +1350,9 @@
             <syllabic>end</syllabic>
             <text>fore</text>
             </Lyrics>
-          <Slur type="start" id="11"/>
-          <Slur type="start" id="12"/>
+          <Slur type="start" id="16"/>
+          <Slur type="start" id="17"/>
+          <Slur type="start" id="18"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1334,8 +1369,9 @@
             <no>2</no>
             <text>he</text>
             </Lyrics>
-          <Slur type="stop" id="11"/>
-          <Slur type="stop" id="12"/>
+          <Slur type="stop" id="16"/>
+          <Slur type="stop" id="17"/>
+          <Slur type="stop" id="18"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1641,11 +1677,15 @@
           <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Slur id="13">
+        <Slur id="19">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
-        <Slur id="14">
+        <Slur id="20">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Slur id="21">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1666,8 +1706,9 @@
             <ticks>240</ticks>
             <text>take</text>
             </Lyrics>
-          <Slur type="start" id="13"/>
-          <Slur type="start" id="14"/>
+          <Slur type="start" id="19"/>
+          <Slur type="start" id="20"/>
+          <Slur type="start" id="21"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1680,18 +1721,23 @@
             <syllabic>end</syllabic>
             <text>non</text>
             </Lyrics>
-          <Slur type="stop" id="13"/>
-          <Slur type="stop" id="14"/>
+          <Slur type="stop" id="19"/>
+          <Slur type="stop" id="20"/>
+          <Slur type="stop" id="21"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="15">
+        <Slur id="22">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
-        <Slur id="16">
+        <Slur id="23">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Slur id="24">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1711,8 +1757,9 @@
             <no>2</no>
             <text>’till</text>
             </Lyrics>
-          <Slur type="start" id="15"/>
-          <Slur type="start" id="16"/>
+          <Slur type="start" id="22"/>
+          <Slur type="start" id="23"/>
+          <Slur type="start" id="24"/>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1729,8 +1776,9 @@
             <no>2</no>
             <text>he</text>
             </Lyrics>
-          <Slur type="stop" id="15"/>
-          <Slur type="stop" id="16"/>
+          <Slur type="stop" id="22"/>
+          <Slur type="stop" id="23"/>
+          <Slur type="stop" id="24"/>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2216,10 +2264,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>end-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     </Score>
