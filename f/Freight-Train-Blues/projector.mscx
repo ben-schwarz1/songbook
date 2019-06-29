@@ -841,6 +841,10 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Slur id="7">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -857,6 +861,7 @@
             <no>2</no>
             <text>That’s</text>
             </Lyrics>
+          <Slur type="start" id="7"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -874,6 +879,7 @@
             <no>2</no>
             <text>a</text>
             </Lyrics>
+          <Slur type="stop" id="7"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -974,7 +980,7 @@
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="7">
+            <Tie id="8">
               </Tie>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -985,7 +991,7 @@
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="7"/>
+            <endSpanner id="8"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -1016,7 +1022,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="8">
+        <Slur id="9">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1037,7 +1043,7 @@
             <ticks>240</ticks>
             <text>old</text>
             </Lyrics>
-          <Slur type="start" id="8"/>
+          <Slur type="start" id="9"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -1051,7 +1057,7 @@
             <style>Lyrics Even Lines</style>
             <text>me</text>
             </Lyrics>
-          <Slur type="stop" id="8"/>
+          <Slur type="stop" id="9"/>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1127,7 +1133,7 @@
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="9">
+            <Tie id="10">
               <SlurSegment no="0">
                 <o2 x="-0.0636146" y="-0.445302"/>
                 <o3 x="-0.0636146" y="-0.445302"/>
@@ -1147,9 +1153,9 @@
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <Tie id="10">
+            <Tie id="11">
               </Tie>
-            <endSpanner id="9"/>
+            <endSpanner id="10"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -1166,7 +1172,7 @@
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="10"/>
+            <endSpanner id="11"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -1334,7 +1340,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="11">
+        <Slur id="12">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1355,7 +1361,7 @@
             <ticks>480</ticks>
             <text>my</text>
             </Lyrics>
-          <Slur type="start" id="11"/>
+          <Slur type="start" id="12"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -1373,7 +1379,7 @@
             <style>Lyrics Even Lines</style>
             <text>this</text>
             </Lyrics>
-          <Slur type="stop" id="11"/>
+          <Slur type="stop" id="12"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -1386,7 +1392,7 @@
         <StaffText>
           <text>F7</text>
           </StaffText>
-        <Slur id="12">
+        <Slur id="13">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1406,7 +1412,7 @@
             <no>2</no>
             <text>man</text>
             </Lyrics>
-          <Slur type="start" id="12"/>
+          <Slur type="start" id="13"/>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1424,14 +1430,14 @@
             <syllabic>begin</syllabic>
             <text>a</text>
             </Lyrics>
-          <Slur type="stop" id="12"/>
+          <Slur type="stop" id="13"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="13">
+        <Slur id="14">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1453,7 +1459,7 @@
             <syllabic>end</syllabic>
             <text>way</text>
             </Lyrics>
-          <Slur type="start" id="13"/>
+          <Slur type="start" id="14"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -1471,7 +1477,7 @@
             <no>2</no>
             <text>from</text>
             </Lyrics>
-          <Slur type="stop" id="13"/>
+          <Slur type="stop" id="14"/>
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
@@ -1501,7 +1507,7 @@
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="14">
+            <Tie id="15">
               </Tie>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -1517,9 +1523,9 @@
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <Tie id="15">
+            <Tie id="16">
               </Tie>
-            <endSpanner id="14"/>
+            <endSpanner id="15"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -1538,7 +1544,7 @@
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="15"/>
+            <endSpanner id="16"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
