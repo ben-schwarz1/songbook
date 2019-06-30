@@ -2243,6 +2243,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>hide</text>
             </Lyrics>
           <Note>
