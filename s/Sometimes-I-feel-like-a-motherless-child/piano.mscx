@@ -549,6 +549,10 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="3">
         <Harmony>
@@ -1862,10 +1866,13 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="3">
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -1873,7 +1880,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>71</pitch>
@@ -1881,7 +1887,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -1889,7 +1894,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>71</pitch>
@@ -1897,7 +1901,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -1905,7 +1908,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>69</pitch>
@@ -1915,7 +1917,6 @@
         <tick>3840</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -1930,7 +1931,6 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -1961,7 +1961,6 @@
           </Tuplet>
         <Chord>
           <Tuplet>8</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>71</pitch>
@@ -1970,7 +1969,6 @@
           </Chord>
         <Chord>
           <Tuplet>8</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>69</pitch>
@@ -1979,7 +1977,6 @@
           </Chord>
         <Chord>
           <Tuplet>8</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>67</pitch>
@@ -1987,7 +1984,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <pitch>64</pitch>
@@ -1997,7 +1993,6 @@
         <tick>5760</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2012,7 +2007,6 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2028,7 +2022,6 @@
         </Measure>
       <Measure number="5">
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2036,7 +2029,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>69</pitch>
@@ -2044,7 +2036,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>69</pitch>
@@ -2052,7 +2043,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>69</pitch>
@@ -2060,7 +2050,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2068,7 +2057,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>69</pitch>
@@ -2078,7 +2066,6 @@
         <tick>7680</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2093,7 +2080,6 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2120,7 +2106,6 @@
           </Tuplet>
         <Chord>
           <Tuplet>9</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>71</pitch>
@@ -2129,7 +2114,6 @@
           </Chord>
         <Chord>
           <Tuplet>9</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>69</pitch>
@@ -2138,7 +2122,6 @@
           </Chord>
         <Chord>
           <Tuplet>9</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2146,7 +2129,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <pitch>64</pitch>
@@ -2160,7 +2142,6 @@
         <tick>9600</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2175,7 +2156,6 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2191,7 +2171,6 @@
         </Measure>
       <Measure number="7">
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2199,7 +2178,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>71</pitch>
@@ -2207,7 +2185,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2215,7 +2192,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>71</pitch>
@@ -2223,7 +2199,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2231,7 +2206,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>69</pitch>
@@ -2241,7 +2215,6 @@
         <tick>11520</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2256,7 +2229,6 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2287,7 +2259,6 @@
           </Tuplet>
         <Chord>
           <Tuplet>10</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>71</pitch>
@@ -2296,7 +2267,6 @@
           </Chord>
         <Chord>
           <Tuplet>10</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>69</pitch>
@@ -2305,7 +2275,6 @@
           </Chord>
         <Chord>
           <Tuplet>10</Tuplet>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2313,17 +2282,19 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <BeamMode>auto</BeamMode>
+          <durationType>eighth</durationType>
+          </Rest>
         <tick>13440</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2338,8 +2309,7 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <track>5</track>
             <pitch>55</pitch>
@@ -2351,23 +2321,20 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <track>5</track>
+          <BeamMode>auto</BeamMode>
+          <durationType>eighth</durationType>
+          </Rest>
         </Measure>
       <Measure number="9" len="1/8">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="1" n="8"/>
-          </Rest>
-        <tick>15120</tick>
-        <Rest>
-          <track>5</track>
-          <visible>0</visible>
-          <durationType>measure</durationType>
-          <duration z="1" n="8"/>
+          <BeamMode>auto</BeamMode>
+          <durationType>eighth</durationType>
           </Rest>
         </Measure>
       <Measure number="9">
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2375,7 +2342,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2383,7 +2349,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2391,7 +2356,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>64</pitch>
@@ -2399,7 +2363,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>59</pitch>
@@ -2407,7 +2370,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>64</pitch>
@@ -2417,7 +2379,6 @@
         <tick>15360</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2436,7 +2397,6 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2455,7 +2415,6 @@
           <track>4</track>
           </Slur>
         <Chord>
-          <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Slur type="start" id="12"/>
@@ -2465,7 +2424,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>64</pitch>
@@ -2473,7 +2431,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Slur type="stop" id="12"/>
@@ -2483,7 +2440,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>64</pitch>
@@ -2493,7 +2449,6 @@
         <tick>17280</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2512,7 +2467,6 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2528,7 +2482,6 @@
         </Measure>
       <Measure number="11">
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2536,7 +2489,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2544,7 +2496,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
@@ -2552,7 +2503,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>64</pitch>
@@ -2560,7 +2510,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <pitch>59</pitch>
@@ -2568,7 +2517,6 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>63</pitch>
@@ -2578,7 +2526,6 @@
         <tick>19200</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2597,7 +2544,6 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -2617,7 +2563,6 @@
         </Measure>
       <Measure number="12">
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
             <pitch>55</pitch>
@@ -2631,7 +2576,6 @@
         <tick>21120</tick>
         <Chord>
           <track>5</track>
-          <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
             <track>5</track>
@@ -2918,6 +2862,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="3">
         <Beam id="9">
@@ -3507,7 +3455,7 @@
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Note>
             <pitch>28</pitch>
             <tpc>18</tpc>
@@ -3516,15 +3464,7 @@
         </Measure>
       <Measure number="9" len="1/8">
         <Rest>
-          <visible>0</visible>
-          <durationType>measure</durationType>
-          <duration z="1" n="8"/>
-          </Rest>
-        <tick>15120</tick>
-        <Rest>
-          <track>9</track>
-          <durationType>measure</durationType>
-          <duration z="1" n="8"/>
+          <durationType>eighth</durationType>
           </Rest>
         </Measure>
       <Measure number="9">

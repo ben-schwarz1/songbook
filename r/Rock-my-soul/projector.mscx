@@ -1273,6 +1273,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Slur id="2">
+          <track>0</track>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1280,6 +1283,7 @@
             <ticks>240</ticks>
             <text>get</text>
             </Lyrics>
+          <Slur type="start" id="2"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1288,6 +1292,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <Slur type="stop" id="2"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>

@@ -877,7 +877,7 @@
             <no>3</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>Mein</text>
+            <text>Mei</text>
             </Lyrics>
           <Note>
             <Accidental>
@@ -907,7 +907,7 @@
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>e</text>
+            <text>ne</text>
             </Lyrics>
           <Note>
             <Accidental>
@@ -2118,7 +2118,7 @@
           <Lyrics>
             <no>2</no>
             <syllabic>begin</syllabic>
-            <text>le</text>
+            <text>letz</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -2144,7 +2144,7 @@
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
-            <text>tztes</text>
+            <text>tes</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>

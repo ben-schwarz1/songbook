@@ -693,7 +693,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
+            <syllabic>middle</syllabic>
             <text>gie</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -713,7 +713,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>middle</syllabic>
             <text>Woo</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -925,7 +925,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
+            <syllabic>middle</syllabic>
             <text>gie</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -944,7 +944,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>middle</syllabic>
             <text>Woo</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -958,7 +958,7 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>gie.</text>
+            <text>gie?</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1228,7 +1228,7 @@
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
+            <syllabic>middle</syllabic>
             <text>gie</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -1247,7 +1247,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
+            <syllabic>middle</syllabic>
             <text>Woo</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
