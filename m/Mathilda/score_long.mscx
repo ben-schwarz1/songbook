@@ -1511,7 +1511,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>2.Well</text>
+            <text>2. Well</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1781,7 +1781,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>3.Well</text>
+            <text>3. Well</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1836,6 +1836,9 @@
           </Chord>
         </Measure>
       <Measure number="23">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -2064,7 +2067,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>4.Well,</text>
+            <text>4. Well,</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>

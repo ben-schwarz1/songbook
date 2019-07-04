@@ -1290,6 +1290,12 @@
             <text>stuck</text>
             </Lyrics>
           <Note>
+            <Symbol>
+              <name>noteheadParenthesisLeft</name>
+              </Symbol>
+            <Symbol>
+              <name>noteheadParenthesisRight</name>
+              </Symbol>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
