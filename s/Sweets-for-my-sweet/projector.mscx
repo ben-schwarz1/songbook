@@ -1687,6 +1687,7 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>1</ticks>
             <style>Lyrics Even Lines</style>
             <text>I’d</text>
             </Lyrics>
@@ -1711,6 +1712,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <no>1</no>
+            <ticks>1</ticks>
             <style>Lyrics Even Lines</style>
             <text>ask</text>
             </Lyrics>
@@ -2176,10 +2178,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>end-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     </Score>
