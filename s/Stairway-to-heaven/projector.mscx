@@ -528,6 +528,11 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <StaffText>
+          <pos x="2.87991" y="-2.30282"/>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Beam id="1">
           </Beam>
         <Chord>
@@ -1074,6 +1079,7 @@
         <Harmony>
           <root>17</root>
           <base>18</base>
+          <pos x="0" y="-2.1"/>
           </Harmony>
         <Beam id="15">
           </Beam>
@@ -1354,6 +1360,11 @@
         <Harmony>
           <root>17</root>
           </Harmony>
+        <StaffText>
+          <pos x="3.22275" y="-4.15418"/>
+          <style>Form Section</style>
+          <text>Chorus</text>
+          </StaffText>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1395,7 +1406,7 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>u,</text>
+            <text>uh,</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2083,6 +2094,11 @@
           <root>20</root>
           <name>m</name>
           </Harmony>
+        <StaffText>
+          <pos x="1.98851" y="-3.6742"/>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>

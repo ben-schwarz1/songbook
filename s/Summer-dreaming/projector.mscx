@@ -1491,7 +1491,7 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
-            <syllabic>middle</syllabic>
+            <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
             <text>ing</text>
             </Lyrics>
@@ -1510,7 +1510,6 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
-            <syllabic>end</syllabic>
             <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
             <text>in</text>
@@ -1992,13 +1991,6 @@
           </Chord>
         </Measure>
       <Measure number="10">
-        <Marker>
-          <style>Repeat Text Left</style>
-          <family>FreeSerif</family>
-          <bold>0</bold>
-          <text><sym>segno</sym></text>
-          <label>segno</label>
-          </Marker>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -2352,13 +2344,6 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <Marker>
-          <style>Repeat Text Left</style>
-          <family>FreeSerif</family>
-          <bold>0</bold>
-          <text><sym>coda</sym></text>
-          <label>codab</label>
-          </Marker>
         <Harmony>
           <root>11</root>
           <rootCase>1</rootCase>

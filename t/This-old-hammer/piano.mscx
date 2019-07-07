@@ -4116,9 +4116,6 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>26</pitch>

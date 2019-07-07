@@ -696,6 +696,11 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <StaffText>
+          <pos x="2.87991" y="-2.30282"/>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Beam id="1">
           </Beam>
         <Chord>
@@ -1242,6 +1247,7 @@
         <Harmony>
           <root>17</root>
           <base>18</base>
+          <pos x="0" y="-2.1"/>
           </Harmony>
         <Beam id="15">
           </Beam>
@@ -1522,6 +1528,11 @@
         <Harmony>
           <root>17</root>
           </Harmony>
+        <StaffText>
+          <pos x="-4.14418" y="-2.07633"/>
+          <style>Form Section</style>
+          <text>Chorus</text>
+          </StaffText>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1563,7 +1574,7 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>u,</text>
+            <text>uh,</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2251,6 +2262,11 @@
           <root>20</root>
           <name>m</name>
           </Harmony>
+        <StaffText>
+          <pos x="1.98851" y="-3.6742"/>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2602,14 +2618,22 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <name>m</name>
+          </Harmony>
         <Rest>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="37">
         <stretch>0.9</stretch>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
       <Measure number="38">
@@ -2723,7 +2747,7 @@
         <Harmony>
           <root>17</root>
           <base>18</base>
-          <pos x="0" y="-2.32143"/>
+          <pos x="-0.283343" y="-2.63337"/>
           </Harmony>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2801,10 +2825,15 @@
         <Harmony>
           <root>16</root>
           <name>ma7</name>
+          <pos x="0" y="-1.7"/>
           </Harmony>
+        <Beam id="49">
+          <StemDirection>down</StemDirection>
+          </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
+          <Beam>49</Beam>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -2813,6 +2842,7 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
+          <Beam>49</Beam>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -3074,9 +3104,13 @@
           <root>16</root>
           <name>ma7</name>
           </Harmony>
+        <Beam id="50">
+          <StemDirection>down</StemDirection>
+          </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
+          <Beam>50</Beam>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -3085,6 +3119,7 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
+          <Beam>50</Beam>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -3414,6 +3449,7 @@
         <Harmony>
           <root>19</root>
           <name>sus4</name>
+          <pos x="0" y="-4.33343"/>
           </Harmony>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3455,6 +3491,7 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>quarter</durationType>
           </Rest>
         <tick>21120</tick>
@@ -3503,11 +3540,6 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>5</track>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       <Measure number="13">
         <Harmony>
@@ -3583,6 +3615,7 @@
         <Harmony>
           <root>16</root>
           <name>ma7</name>
+          <pos x="-0.283343" y="-2.35003"/>
           </Harmony>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3744,6 +3777,7 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>quarter</durationType>
           </Rest>
         <tick>28800</tick>
@@ -3792,11 +3826,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>5</track>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       <Measure number="17">
         <Rest>
@@ -4514,6 +4543,7 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>quarter</durationType>
           </Rest>
         <tick>51840</tick>
