@@ -503,6 +503,8 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -2095,6 +2097,9 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -2179,7 +2184,7 @@
           <pos x="6.65356" y="-2.48571"/>
           </Harmony>
         <StaffText>
-          <pos x="2.46428" y="-1"/>
+          <pos x="2.32714" y="-5.04558"/>
           <style>Form Section</style>
           <text>Refrain</text>
           </StaffText>

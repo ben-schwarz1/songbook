@@ -3605,7 +3605,8 @@
       <Measure number="35">
         <endRepeat>2</endRepeat>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
       </Staff>

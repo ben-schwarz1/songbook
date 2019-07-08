@@ -1126,6 +1126,9 @@
         </Measure>
       <Measure number="9">
         <stretch>0.9</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1148,6 +1151,7 @@
           </BarLine>
         </Measure>
       <Measure number="10">
+        <vspacerUp>25.477</vspacerUp>
         <Harmony>
           <root>15</root>
           <rootCase>1</rootCase>
@@ -1382,6 +1386,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>Tell</text>
             </Lyrics>
           <Slur type="start" id="7"/>

@@ -1301,6 +1301,7 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
             <text>your</text>
             </Lyrics>
@@ -1321,11 +1322,6 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text></text>
-            </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>

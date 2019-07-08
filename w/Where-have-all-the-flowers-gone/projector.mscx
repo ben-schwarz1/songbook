@@ -1867,12 +1867,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="18">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>

@@ -1243,6 +1243,9 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
@@ -1300,6 +1303,7 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
             <text>your</text>
             </Lyrics>
@@ -1320,11 +1324,6 @@
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text></text>
-            </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
@@ -1548,6 +1547,7 @@
           </BarLine>
         </Measure>
       <Measure number="5">
+        <vspacerUp>23.3422</vspacerUp>
         <StaffText>
           <pos x="1.49344" y="-2.41047"/>
           <style>Form Section</style>

@@ -491,10 +491,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -604,6 +600,7 @@
         <height>8.2</height>
         </VBox>
       <Measure number="1">
+        <stretch>0.8</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -617,47 +614,37 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Harmony>
-          <root>18</root>
-          </Harmony>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
-        <tick>960</tick>
-        <Harmony>
-          <root>17</root>
-          </Harmony>
         </Measure>
       <Measure number="2">
-        <Harmony>
-          <root>19</root>
-          </Harmony>
+        <stretch>0.8</stretch>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
       <Measure number="3">
-        <Harmony>
-          <root>18</root>
-          </Harmony>
+        <stretch>0.8</stretch>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
-        <tick>4800</tick>
-        <Harmony>
-          <root>17</root>
-          </Harmony>
         </Measure>
       <Measure number="4">
-        <Harmony>
-          <root>19</root>
-          </Harmony>
+        <stretch>0.8</stretch>
         <Rest>
           <durationType>half</durationType>
           </Rest>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <StaffText>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -667,14 +654,16 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>2.So</text>
+            <text>2. So</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="1">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -720,16 +709,10 @@
           </BarLine>
         </Measure>
       <Measure number="5">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-5.1</yoffset>
-          <frame>1</frame>
-          <frameRound>0</frameRound>
-          <text>Verse</text>
-          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -742,6 +725,7 @@
             <style>Lyrics Even Lines</style>
             <text>on</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -767,12 +751,14 @@
             <style>Lyrics Even Lines</style>
             <text>you</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="2">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -810,6 +796,7 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
@@ -824,6 +811,7 @@
             <style>Lyrics Even Lines</style>
             <text>wrong.</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -846,12 +834,14 @@
             <style>Lyrics Even Lines</style>
             <text>to</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="3">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -891,6 +881,7 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -905,12 +896,14 @@
             <style>Lyrics Even Lines</style>
             <text>right</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="4">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -960,12 +953,14 @@
             <style>Lyrics Even Lines</style>
             <text>it</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="5">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1003,10 +998,12 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
         <Beam id="6">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1059,6 +1056,7 @@
             <style>Lyrics Even Lines</style>
             <text>ong.</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1078,12 +1076,14 @@
             <style>Lyrics Even Lines</style>
             <text>I</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="7">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1122,6 +1122,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -1137,6 +1138,7 @@
             <style>Lyrics Even Lines</style>
             <text>why</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1162,12 +1164,14 @@
             <style>Lyrics Even Lines</style>
             <text>you’re</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="8">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1209,6 +1213,7 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
@@ -1223,6 +1228,7 @@
             <style>Lyrics Even Lines</style>
             <text>shy</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1246,12 +1252,14 @@
             <style>Lyrics Even Lines</style>
             <text>and</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="9">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1291,6 +1299,7 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -1306,12 +1315,14 @@
             <style>Lyrics Even Lines</style>
             <text>way</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="10">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1361,12 +1372,14 @@
             <style>Lyrics Even Lines</style>
             <text>look</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="11">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1405,10 +1418,12 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
         <Beam id="12">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1461,6 +1476,7 @@
             <style>Lyrics Even Lines</style>
             <text>es.</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1475,14 +1491,13 @@
           </BarLine>
         </Measure>
       <Measure number="13">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-5.1</yoffset>
-          <frame>1</frame>
-          <frameRound>0</frameRound>
+          <pos x="5.49264" y="-2.11087"/>
+          <style>Form Section</style>
           <text>Bridge</text>
           </StaffText>
         <Chord>
@@ -1492,12 +1507,14 @@
             <syllabic>begin</syllabic>
             <text>E</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="13">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1534,12 +1551,14 @@
           <Lyrics>
             <text>else</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
         <Beam id="14">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1567,6 +1586,7 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -1576,12 +1596,14 @@
           <Lyrics>
             <text>room</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="15">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1604,6 +1626,7 @@
           <durationType>eighth</durationType>
           <Beam>15</Beam>
           <Lyrics>
+            <ticks>240</ticks>
             <text>see</text>
             </Lyrics>
           <Note>
@@ -1616,6 +1639,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="2"/>
             <pitch>68</pitch>
@@ -1632,6 +1656,7 @@
           <Lyrics>
             <text>it</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1639,6 +1664,7 @@
           </Chord>
         </Measure>
       <Measure number="15">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -1649,12 +1675,14 @@
             <syllabic>begin</syllabic>
             <text>E</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="16">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1691,6 +1719,7 @@
           <Lyrics>
             <text>else</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -1700,12 +1729,14 @@
           <track>0</track>
           </Slur>
         <Beam id="17">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>17</Beam>
           <Lyrics>
+            <ticks>240</ticks>
             <text>but</text>
             </Lyrics>
           <Slur type="start" id="3"/>
@@ -1726,6 +1757,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>21</root>
           <name>m</name>
@@ -1738,9 +1770,11 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
+            <ticks>720</ticks>
             <text>you</text>
             </Lyrics>
           <Slur type="start" id="4"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1750,6 +1784,7 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Slur type="stop" id="4"/>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1768,12 +1803,14 @@
             <syllabic>begin</syllabic>
             <text>Ba</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="18">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1806,14 +1843,13 @@
           </BarLine>
         </Measure>
       <Measure number="17">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-6.2</yoffset>
-          <frame>1</frame>
-          <frameRound>0</frameRound>
+          <pos x="-2.28346" y="-3.77718"/>
+          <style>Form Section</style>
           <text>Chorus</text>
           </StaffText>
         <Tuplet id="1">
@@ -1833,6 +1869,7 @@
           <Lyrics>
             <text>light</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1845,6 +1882,7 @@
           <Lyrics>
             <text>up</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1857,6 +1895,7 @@
           <Lyrics>
             <text>my</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1882,6 +1921,7 @@
           <Lyrics>
             <text>world</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1894,6 +1934,7 @@
           <Lyrics>
             <text>like</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1906,6 +1947,7 @@
           <Lyrics>
             <text>no</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1913,6 +1955,7 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
@@ -1923,12 +1966,14 @@
             <syllabic>begin</syllabic>
             <text>bo</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
         <Beam id="19">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1964,12 +2009,14 @@
           <Lyrics>
             <text>The</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="20">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -1997,6 +2044,7 @@
           </Chord>
         </Measure>
       <Measure number="19">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -2017,6 +2065,7 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2029,6 +2078,7 @@
           <Lyrics>
             <text>flip</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2041,6 +2091,7 @@
           <Lyrics>
             <text>your</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2066,6 +2117,7 @@
           <Lyrics>
             <text>hair</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2078,6 +2130,7 @@
           <Lyrics>
             <text>gets</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2090,6 +2143,7 @@
           <Lyrics>
             <text>me</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2097,6 +2151,7 @@
           </Chord>
         </Measure>
       <Measure number="20">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
@@ -2107,12 +2162,14 @@
             <syllabic>begin</syllabic>
             <text>o</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
         <Beam id="21">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2149,12 +2206,14 @@
           <Lyrics>
             <text>but</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="22">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2182,6 +2241,7 @@
           </Chord>
         </Measure>
       <Measure number="21">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -2202,6 +2262,7 @@
           <Lyrics>
             <text>smile</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2214,6 +2275,7 @@
           <Lyrics>
             <text>at</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2226,6 +2288,7 @@
           <Lyrics>
             <text>the</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2251,6 +2314,7 @@
           <Lyrics>
             <text>ground</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2263,6 +2327,7 @@
           <Lyrics>
             <text>it</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2275,6 +2340,7 @@
           <Lyrics>
             <text>ain’t</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2282,6 +2348,7 @@
           </Chord>
         </Measure>
       <Measure number="22">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
@@ -2291,12 +2358,14 @@
           <Lyrics>
             <text>hard</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="23">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2331,12 +2400,14 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="24">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2361,6 +2432,7 @@
           </Chord>
         </Measure>
       <Measure number="23">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -2372,6 +2444,7 @@
             <syllabic>begin</syllabic>
             <text>know</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2384,6 +2457,7 @@
             <syllabic>middle</syllabic>
             <text>ow</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -2396,6 +2470,7 @@
             <syllabic>end</syllabic>
             <text>ow:</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -2406,7 +2481,9 @@
           </Rest>
         </Measure>
       <Measure number="24">
+        <stretch>0.8</stretch>
         <Beam id="25">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2474,6 +2551,7 @@
             <syllabic>begin</syllabic>
             <text>beau</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -2487,6 +2565,7 @@
             <syllabic>middle</syllabic>
             <text>ti</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2500,6 +2579,7 @@
             <syllabic>end</syllabic>
             <text>ful.</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -2511,6 +2591,7 @@
           </BarLine>
         </Measure>
       <Measure number="25">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -2531,6 +2612,7 @@
           <Lyrics>
             <text>If</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2544,6 +2626,7 @@
             <syllabic>begin</syllabic>
             <text>on</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2557,6 +2640,7 @@
             <syllabic>end</syllabic>
             <text>ly</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2582,6 +2666,7 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2594,6 +2679,7 @@
           <Lyrics>
             <text>saw</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2606,6 +2692,7 @@
           <Lyrics>
             <text>what</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2613,6 +2700,7 @@
           </Chord>
         </Measure>
       <Measure number="26">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
@@ -2622,12 +2710,14 @@
           <Lyrics>
             <text>I</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
         <Beam id="26">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2662,12 +2752,14 @@
           <Lyrics>
             <text>You’ll</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="27">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2697,6 +2789,7 @@
           </Chord>
         </Measure>
       <Measure number="27">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -2718,6 +2811,7 @@
             <syllabic>end</syllabic>
             <text>stand</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2730,6 +2824,7 @@
           <Lyrics>
             <text>why</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2742,6 +2837,7 @@
           <Lyrics>
             <text>I</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2767,6 +2863,7 @@
           <Lyrics>
             <text>want</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2779,6 +2876,7 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2791,6 +2889,7 @@
           <Lyrics>
             <text>so</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2798,6 +2897,7 @@
           </Chord>
         </Measure>
       <Measure number="28">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>19</root>
           </Harmony>
@@ -2808,12 +2908,14 @@
             <syllabic>begin</syllabic>
             <text>des</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
         <Beam id="28">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2850,12 +2952,14 @@
           <Lyrics>
             <text>Right</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="29">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -2883,6 +2987,7 @@
           </Chord>
         </Measure>
       <Measure number="29">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -2904,6 +3009,7 @@
             <syllabic>begin</syllabic>
             <text>loo</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2917,6 +3023,7 @@
             <syllabic>end</syllabic>
             <text>king</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2929,6 +3036,7 @@
           <Lyrics>
             <text>at</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2954,6 +3062,7 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2966,6 +3075,7 @@
           <Lyrics>
             <text>and</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2978,6 +3088,7 @@
           <Lyrics>
             <text>I</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2985,6 +3096,10 @@
           </Chord>
         </Measure>
       <Measure number="30">
+        <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>19</root>
           </Harmony>
@@ -2994,12 +3109,14 @@
           <Lyrics>
             <text>can’t</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="30">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3036,12 +3153,14 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <Beam id="31">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3066,6 +3185,7 @@
           </Chord>
         </Measure>
       <Measure number="31">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -3077,6 +3197,7 @@
             <syllabic>begin</syllabic>
             <text>know</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -3089,6 +3210,7 @@
             <syllabic>middle</syllabic>
             <text>ow</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -3101,6 +3223,7 @@
             <syllabic>end</syllabic>
             <text>ow:</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -3111,10 +3234,12 @@
           </Rest>
         </Measure>
       <Measure number="32">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
         <Beam id="32">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3182,6 +3307,7 @@
             <syllabic>begin</syllabic>
             <text>beau</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -3195,6 +3321,7 @@
             <syllabic>middle</syllabic>
             <text>ti</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -3208,6 +3335,7 @@
             <syllabic>end</syllabic>
             <text>ful</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -3215,6 +3343,7 @@
           </Chord>
         </Measure>
       <Measure number="33">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -3225,6 +3354,7 @@
           <Lyrics>
             <text>Oh</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -3236,6 +3366,7 @@
           <Lyrics>
             <text>oh</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -3247,6 +3378,7 @@
           <Lyrics>
             <text>oh.</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -3257,10 +3389,15 @@
           </Rest>
         </Measure>
       <Measure number="34">
+        <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <root>18</root>
           </Harmony>
         <Beam id="33">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3328,6 +3465,7 @@
             <syllabic>begin</syllabic>
             <text>beau</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -3341,6 +3479,7 @@
             <syllabic>middle</syllabic>
             <text>ti</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -3354,6 +3493,7 @@
             <syllabic>end</syllabic>
             <text>ful.</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -3362,6 +3502,11 @@
         </Measure>
       <Measure number="35">
         <startRepeat/>
+        <stretch>0.8</stretch>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -3371,12 +3516,14 @@
           <Lyrics>
             <text>Na</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="34">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3411,12 +3558,14 @@
           <Lyrics>
             <text>na</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
         <Beam id="35">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3444,6 +3593,7 @@
           </Chord>
         </Measure>
       <Measure number="36">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -3454,6 +3604,7 @@
           <Lyrics>
             <text>na</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -3467,8 +3618,10 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>na</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <Tie id="5">
               </Tie>
@@ -3479,6 +3632,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <endSpanner id="5"/>
             <pitch>68</pitch>
@@ -3495,6 +3649,7 @@
           <Lyrics>
             <text>na.</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -3502,6 +3657,7 @@
           </Chord>
         </Measure>
       <Measure number="37">
+        <stretch>0.8</stretch>
         <Harmony>
           <root>18</root>
           </Harmony>
@@ -3511,12 +3667,14 @@
           <Lyrics>
             <text>Na</text>
             </Lyrics>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Beam id="36">
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3551,12 +3709,14 @@
           <Lyrics>
             <text>na</text>
             </Lyrics>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
         <Beam id="37">
+          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3588,8 +3748,10 @@
         </Measure>
       <Measure number="38">
         <endRepeat>2</endRepeat>
+        <stretch>0.8</stretch>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
       </Staff>
@@ -3608,6 +3770,9 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Harmony>
+          <root>18</root>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3623,6 +3788,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3656,6 +3824,9 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <Harmony>
+          <root>19</root>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3704,6 +3875,9 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <Harmony>
+          <root>18</root>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3719,6 +3893,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3752,6 +3929,9 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <Harmony>
+          <root>19</root>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -5014,6 +5194,10 @@
           </Rest>
         </Measure>
       <Measure number="35">
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -7142,6 +7326,10 @@
           </Rest>
         </Measure>
       <Measure number="35">
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
