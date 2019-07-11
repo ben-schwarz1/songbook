@@ -1722,6 +1722,10 @@
           </Rest>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <root>17</root>
+          <name>7</name>
+          </Harmony>
         <Beam id="18">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1800,6 +1804,7 @@
           </Rest>
         </Measure>
       <Measure number="13">
+        <endRepeat>2</endRepeat>
         <Harmony>
           <root>16</root>
           </Harmony>
@@ -1880,7 +1885,7 @@
           <durationType>quarter</durationType>
           </Rest>
         <BarLine>
-          <subtype>end</subtype>
+          <subtype>end-repeat</subtype>
           <span>1</span>
           </BarLine>
         </Measure>

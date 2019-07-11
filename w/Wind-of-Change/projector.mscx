@@ -1036,6 +1036,12 @@
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
+            <Symbol>
+              <name>noteheadParenthesisLeft</name>
+              </Symbol>
+            <Symbol>
+              <name>noteheadParenthesisRight</name>
+              </Symbol>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>

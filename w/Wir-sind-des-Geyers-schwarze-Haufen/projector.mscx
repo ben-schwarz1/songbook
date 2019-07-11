@@ -554,6 +554,11 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <StaffText>
+          <pos x="1.85137" y="-2.16568"/>
+          <style>Form Section</style>
+          <text>Strophen</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1132,6 +1137,7 @@
           </Harmony>
         <Slur id="9">
           <track>0</track>
+          <lineType>1</lineType>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1296,6 +1302,11 @@
           <rootCase>1</rootCase>
           <name>m</name>
           </Harmony>
+        <StaffText>
+          <pos x="1.7828" y="-4.15418"/>
+          <style>Form Section</style>
+          <text>Refrain</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1462,33 +1473,29 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13" len="3/4">
+      <Measure number="13">
+        <endRepeat>2</endRepeat>
         <Harmony>
           <root>17</root>
           <rootCase>1</rootCase>
           <name>7</name>
           <pos x="0" y="-2.31754"/>
           </Harmony>
-        <Volta id="10">
+        <Slur id="10">
+          <track>0</track>
+          </Slur>
+        <Volta id="11">
           <endHook>1</endHook>
           <Segment>
-            <subtype>1</subtype>
+            <subtype>0</subtype>
             <off2 x="0" y="0"/>
-            <offset x="0.093144" y="-2.15761"/>
-            </Segment>
-          <Segment>
-            <subtype>3</subtype>
-            <off2 x="0" y="0"/>
-            <offset x="0" y="-2.15761"/>
+            <offset x="0" y="-2"/>
             </Segment>
           <beginText>
-            <text>1</text>
+            <text>1.</text>
             </beginText>
           <endings>1</endings>
           </Volta>
-        <Slur id="11">
-          <track>0</track>
-          </Slur>
         <Beam id="1">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1500,7 +1507,7 @@
             <syllabic>begin</syllabic>
             <text>ro</text>
             </Lyrics>
-          <Slur type="start" id="11"/>
+          <Slur type="start" id="10"/>
           <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
@@ -1510,7 +1517,7 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>1</Beam>
-          <Slur type="stop" id="11"/>
+          <Slur type="stop" id="10"/>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -1531,6 +1538,7 @@
           <Beam>2</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text>ten</text>
             </Lyrics>
           <Slur type="start" id="12"/>
@@ -1567,6 +1575,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         </Measure>
       <Measure number="14" len="3/4">
         <Harmony>
@@ -1574,12 +1585,13 @@
           <rootCase>1</rootCase>
           <name>7</name>
           </Harmony>
+        <endSpanner id="11"/>
         <Volta id="14">
           <endHook>1</endHook>
           <Segment>
             <subtype>0</subtype>
             <off2 x="0" y="0"/>
-            <offset x="-0.0589479" y="-2.18236"/>
+            <offset x="0" y="-2"/>
             </Segment>
           <beginText>
             <text>2</text>
@@ -1599,7 +1611,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <endSpanner id="10"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
