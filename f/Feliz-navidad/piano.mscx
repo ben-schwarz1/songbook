@@ -2366,7 +2366,8 @@
       <Measure number="40">
         <stretch>0.9</stretch>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="2" n="2"/>
           </Rest>
         <BarLine>
           <subtype>end</subtype>
@@ -2748,11 +2749,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>0.4</yoffset>
-          <text>2x</text>
-          </StaffText>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -3632,6 +3628,7 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>quarter</durationType>
           </Rest>
         <tick>30720</tick>
@@ -3911,6 +3908,7 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>quarter</durationType>
           </Rest>
         <tick>34560</tick>
@@ -3959,13 +3957,10 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>5</track>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       <Measure number="20">
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
         <Chord>
@@ -4035,11 +4030,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>36480</tick>
-        <Rest>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          </Rest>
+        <tick>36720</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -4483,16 +4474,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>5</track>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <track>5</track>
-          <visible>0</visible>
-          <durationType>half</durationType>
-          </Rest>
         </Measure>
       <Measure number="24">
         <Chord>
@@ -6177,9 +6158,11 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>quarter</durationType>
           </Rest>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>half</durationType>
           </Rest>
         <BarLine>
@@ -7868,11 +7851,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-0.6</yoffset>
-          <text>2x</text>
-          </StaffText>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>

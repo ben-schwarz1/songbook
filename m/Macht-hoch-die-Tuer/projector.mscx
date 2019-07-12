@@ -563,7 +563,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>Er</text>
+            <text>2. Er</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -1116,7 +1116,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
-            <ticks>1</ticks>
+            <ticks>480</ticks>
             <text>Welt</text>
             </Lyrics>
           <Lyrics>
@@ -1133,9 +1133,6 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
           <Slur type="stop" id="7"/>
           <Note>
             <pitch>72</pitch>
@@ -1232,7 +1229,7 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>Se</text>
+            <text>Le</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1248,7 +1245,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>gen</text>
+            <text>ben</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1309,7 +1306,7 @@
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
-            <text>bringt,</text>
+            <text>bringt;</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1484,7 +1481,6 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <startRepeat/>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>

@@ -525,6 +525,11 @@
           <root>15</root>
           <rootCase>1</rootCase>
           </Harmony>
+        <StaffText>
+          <pos x="-4.89515" y="-2.82531"/>
+          <style>Form Section</style>
+          <text>Chorus</text>
+          </StaffText>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -979,6 +984,11 @@
           <root>15</root>
           <rootCase>1</rootCase>
           </Harmony>
+        <StaffText>
+          <pos x="-9.45842" y="-1.99562"/>
+          <style>Form Section</style>
+          <text>Verse</text>
+          </StaffText>
         <Slur id="2">
           <track>0</track>
           <lineType>1</lineType>
@@ -1966,6 +1976,13 @@
           <endings>2</endings>
           </Volta>
         <endSpanner id="8"/>
+        <Volta id="9">
+          <endHook>1</endHook>
+          <beginText>
+            <text>2.</text>
+            </beginText>
+          <endings>2</endings>
+          </Volta>
         <Beam id="5">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2122,7 +2139,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="9">
+        <Slur id="10">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -2164,7 +2181,7 @@
             <style>Lyrics Even Lines</style>
             <text>rat</text>
             </Lyrics>
-          <Slur type="start" id="9"/>
+          <Slur type="start" id="10"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2184,13 +2201,13 @@
             <style>Lyrics Even Lines</style>
             <text>tle,</text>
             </Lyrics>
-          <Slur type="stop" id="9"/>
+          <Slur type="stop" id="10"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="10">
+        <Slur id="11">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -2229,7 +2246,7 @@
             <style>Lyrics Even Lines</style>
             <text>rat</text>
             </Lyrics>
-          <Slur type="start" id="10"/>
+          <Slur type="start" id="11"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2249,7 +2266,7 @@
             <style>Lyrics Even Lines</style>
             <text>tle.</text>
             </Lyrics>
-          <Slur type="stop" id="10"/>
+          <Slur type="stop" id="11"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2259,6 +2276,7 @@
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
+        <endSpanner id="9"/>
         </Measure>
       </Staff>
     </Score>

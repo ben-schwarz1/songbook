@@ -527,6 +527,11 @@
           <subtype>start-repeat</subtype>
           <span>1</span>
           </BarLine>
+        <StaffText>
+          <pos x="4.01568" y="-2.82531"/>
+          <style>Form Section</style>
+          <text>1. Strophe</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -892,6 +897,8 @@
         </Measure>
       <Measure number="9">
         <StaffText>
+          <pos x="4.01568" y="-2.82531"/>
+          <style>Form Section</style>
           <text>2. Strophe</text>
           </StaffText>
         <Chord>
@@ -1257,6 +1264,8 @@
         </Measure>
       <Measure number="17">
         <StaffText>
+          <pos x="0.638858" y="-1.63886"/>
+          <style>Form Section</style>
           <text>Refrain</text>
           </StaffText>
         <Chord>
@@ -1576,6 +1585,8 @@
         </Measure>
       <Measure number="25">
         <StaffText>
+          <pos x="3.65062" y="-2.09519"/>
+          <style>Form Section</style>
           <text>3. Strophe</text>
           </StaffText>
         <Chord>

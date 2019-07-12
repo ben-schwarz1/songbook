@@ -1916,6 +1916,7 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>half</durationType>
           </Rest>
         <BarLine>
@@ -2472,7 +2473,7 @@
             </Note>
           </Chord>
         <Rest>
-          <offset x="0" y="3"/>
+          <offset x="0" y="2"/>
           <durationType>half</durationType>
           </Rest>
         <BarLine>
@@ -2924,6 +2925,7 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>half</durationType>
           </Rest>
         <tick>13440</tick>
@@ -3396,6 +3398,7 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>half</durationType>
           </Rest>
         <tick>28800</tick>

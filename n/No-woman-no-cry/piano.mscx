@@ -1105,7 +1105,8 @@
           <rootCase>1</rootCase>
           </Harmony>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         <tick>29280</tick>
         <Harmony>
@@ -1130,7 +1131,7 @@
       <Measure number="17">
         <stretch>0.9</stretch>
         <StaffText>
-          <pos x="0.950412" y="-1.27155"/>
+          <pos x="2.27791" y="-4.25842"/>
           <style>Form Section</style>
           <text>Verse</text>
           </StaffText>
@@ -1900,7 +1901,8 @@
           <rootCase>1</rootCase>
           </Harmony>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
       <Measure number="33">
@@ -3148,6 +3150,7 @@
           <Beam>24</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text>right.</text>
             </Lyrics>
           <Slur type="start" id="22"/>
