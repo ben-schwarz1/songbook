@@ -519,8 +519,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -562,12 +560,8 @@
       <VBox>
         <height>14.2679</height>
         </VBox>
-      <Measure number="1">
+      <Measure number="1" len="2/4">
         <stretch>0.7</stretch>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
         <KeySig>
           <accidental>1</accidental>
           </KeySig>
@@ -576,40 +570,16 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Tempo>
-          <tempo>1.9</tempo>
-          <followText>1</followText>
-          <text>Moderato</text>
-          </Tempo>
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="1" n="1"/>
-          </Rest>
-        </Measure>
-      <Measure number="2">
-        <stretch>0.7</stretch>
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="1" n="1"/>
-          </Rest>
-        </Measure>
-      <Measure number="3">
-        <stretch>0.7</stretch>
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="1" n="1"/>
-          </Rest>
-        </Measure>
-      <Measure number="4">
-        <stretch>0.7</stretch>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
         <StaffText>
-          <pos x="2.12564" y="-2.71423"/>
+          <pos x="0.959965" y="-4.35989"/>
           <style>Form Section</style>
           <text>Verse 1</text>
           </StaffText>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          <name>sus4</name>
+          </Harmony>
         <Beam id="1">
           </Beam>
         <Chord>
@@ -663,7 +633,7 @@
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="5">
+      <Measure number="2">
         <stretch>0.7</stretch>
         <Harmony>
           <root>18</root>
@@ -690,7 +660,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="6">
+      <Measure number="3">
         <stretch>0.7</stretch>
         <Harmony>
           <root>14</root>
@@ -783,7 +753,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="7">
+      <Measure number="4">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -805,7 +775,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="8">
+      <Measure number="5">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -897,7 +867,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="9">
+      <Measure number="6">
         <stretch>0.7</stretch>
         <Harmony>
           <root>15</root>
@@ -921,7 +891,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="10">
+      <Measure number="7">
         <stretch>0.7</stretch>
         <Harmony>
           <root>18</root>
@@ -999,7 +969,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="8">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1018,7 +988,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="12">
+      <Measure number="9">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1080,7 +1050,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
+      <Measure number="10">
         <stretch>0.7</stretch>
         <Harmony>
           <root>18</root>
@@ -1134,10 +1104,10 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="14">
+      <Measure number="11">
         <stretch>0.7</stretch>
         <Harmony>
-          <root>21</root>
+          <root>14</root>
           </Harmony>
         <Rest>
           <durationType>quarter</durationType>
@@ -1224,7 +1194,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
+      <Measure number="12">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1243,7 +1213,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="16">
+      <Measure number="13">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1309,8 +1279,12 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
-      <Measure number="17">
+      <Measure number="14">
         <stretch>0.7</stretch>
         <Harmony>
           <root>18</root>
@@ -1363,7 +1337,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="18">
+      <Measure number="15">
         <stretch>0.7</stretch>
         <Harmony>
           <root>14</root>
@@ -1435,7 +1409,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="19">
+      <Measure number="16">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1457,7 +1431,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="20">
+      <Measure number="17">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1478,7 +1452,7 @@
         <StaffText>
           <pos x="2.12564" y="-2.71423"/>
           <style>Form Section</style>
-          <text>Verse 3</text>
+          <text>Verse 2</text>
           </StaffText>
         <Beam id="13">
           </Beam>
@@ -1535,7 +1509,7 @@
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="21">
+      <Measure number="18">
         <stretch>0.7</stretch>
         <Harmony>
           <root>18</root>
@@ -1559,7 +1533,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="22">
+      <Measure number="19">
         <stretch>0.7</stretch>
         <Harmony>
           <root>14</root>
@@ -1645,7 +1619,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="23">
+      <Measure number="20">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1669,7 +1643,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="24">
+      <Measure number="21">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1752,7 +1726,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
+      <Measure number="22">
         <stretch>0.7</stretch>
         <Harmony>
           <root>15</root>
@@ -1776,7 +1750,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="26">
+      <Measure number="23">
         <stretch>0.7</stretch>
         <Harmony>
           <root>18</root>
@@ -1824,7 +1798,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>21</root>
+          <root>14</root>
           </Harmony>
         <Slur id="12">
           <track>0</track>
@@ -1883,11 +1857,11 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="27">
+      <Measure number="24">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
-          <name>9sus4</name>
+          <name>7sus4</name>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1902,7 +1876,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="28">
+      <Measure number="25">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -1999,7 +1973,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="29">
+      <Measure number="26">
         <stretch>0.7</stretch>
         <Harmony>
           <root>18</root>
@@ -2053,7 +2027,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="30">
+      <Measure number="27">
         <stretch>0.7</stretch>
         <Harmony>
           <root>14</root>
@@ -2135,7 +2109,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="31">
+      <Measure number="28">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -2156,7 +2130,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="32">
+      <Measure number="29">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -2222,8 +2196,12 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
-      <Measure number="33">
+      <Measure number="30">
         <stretch>0.7</stretch>
         <Harmony>
           <root>18</root>
@@ -2276,7 +2254,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="34">
+      <Measure number="31">
         <stretch>0.7</stretch>
         <Harmony>
           <root>14</root>
@@ -2348,7 +2326,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="35">
+      <Measure number="32">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
@@ -2372,11 +2350,11 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="36">
+      <Measure number="33">
         <stretch>0.7</stretch>
         <Harmony>
           <root>19</root>
-          <name>7sus4</name>
+          <name>7</name>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2448,7 +2426,7 @@
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="37">
+      <Measure number="34">
         <Harmony>
           <root>18</root>
           <name>m</name>
@@ -2474,7 +2452,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="38">
+      <Measure number="35">
         <Harmony>
           <root>14</root>
           </Harmony>
@@ -2566,7 +2544,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="39">
+      <Measure number="36">
         <Harmony>
           <root>19</root>
           <name>7sus4</name>
@@ -2587,7 +2565,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="40">
+      <Measure number="37">
         <Harmony>
           <root>19</root>
           <name>7</name>
@@ -2678,7 +2656,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="41">
+      <Measure number="38">
         <Harmony>
           <root>15</root>
           </Harmony>
@@ -2701,7 +2679,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="42">
+      <Measure number="39">
         <Harmony>
           <root>18</root>
           <name>m</name>
@@ -2778,7 +2756,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="43">
+      <Measure number="40">
         <Harmony>
           <root>19</root>
           <name>7sus4</name>
@@ -2796,7 +2774,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="44">
+      <Measure number="41">
         <Harmony>
           <root>19</root>
           <name>7</name>
@@ -2857,7 +2835,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="45">
+      <Measure number="42">
         <Harmony>
           <root>18</root>
           <name>m</name>
@@ -2911,9 +2889,9 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="46">
+      <Measure number="43">
         <Harmony>
-          <root>21</root>
+          <root>14</root>
           </Harmony>
         <Rest>
           <durationType>quarter</durationType>
@@ -2999,7 +2977,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="47">
+      <Measure number="44">
         <Harmony>
           <root>19</root>
           <name>7sus4</name>
@@ -3017,7 +2995,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="48">
+      <Measure number="45">
         <Harmony>
           <root>19</root>
           <name>7</name>
@@ -3078,7 +3056,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="49">
+      <Measure number="46">
         <Harmony>
           <root>18</root>
           <name>m</name>
@@ -3130,8 +3108,12 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="50">
+      <Measure number="47">
         <stretch>0.7</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -3147,6 +3129,10 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Beam id="35">
           </Beam>
         <Chord>
@@ -3198,8 +3184,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="51">
+      <Measure number="48">
         <stretch>0.7</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
@@ -3211,9 +3202,18 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <tick>90240</tick>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         </Measure>
-      <Measure number="52">
+      <Measure number="49">
         <stretch>0.7</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -3229,6 +3229,10 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Beam id="36">
           </Beam>
         <Chord>
@@ -3280,8 +3284,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="53">
+      <Measure number="50">
         <stretch>0.7</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3296,12 +3305,20 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="54">
+      <Measure number="51">
         <stretch>0.7</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -3317,6 +3334,10 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Beam id="37">
           </Beam>
         <Chord>
@@ -3368,13 +3389,19 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="55">
+      <Measure number="52">
         <stretch>0.7</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          <name>maj7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Lyrics>
-            <text>day</text>
+            <ticks>3840</ticks>
+            <text>day.</text>
             </Lyrics>
           <Note>
             <Tie id="26">
@@ -3384,7 +3411,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="56">
+      <Measure number="53">
         <stretch>0.7</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -3398,8 +3425,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="57">
+      <Measure number="54" len="2/4">
         <stretch>0.7</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3412,12 +3444,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -3425,11 +3451,7 @@
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1" len="2/4">
         <KeySig>
           <accidental>1</accidental>
           </KeySig>
@@ -3439,38 +3461,19 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="1" n="1"/>
-          </Rest>
-        </Measure>
-      <Measure number="2">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="1" n="1"/>
-          </Rest>
-        </Measure>
-      <Measure number="3">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="1" n="1"/>
-          </Rest>
-        </Measure>
-      <Measure number="4">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="1" n="1"/>
+          <durationType>half</durationType>
           </Rest>
         <BarLine>
           <subtype>double</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="5">
+      <Measure number="2">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>All</text>
+            <text>1. All</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -3533,7 +3536,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="6">
+      <Measure number="3">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -3568,7 +3571,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="7">
+      <Measure number="4">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3644,7 +3647,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="8">
+      <Measure number="5">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -3679,7 +3682,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="9">
+      <Measure number="6">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3744,7 +3747,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
+      <Measure number="7">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -3764,7 +3767,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="8">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3834,7 +3837,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="12">
+      <Measure number="9">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -3849,7 +3852,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="13">
+      <Measure number="10">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -3913,7 +3916,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="14">
+      <Measure number="11">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -3948,7 +3951,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="15">
+      <Measure number="12">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -4030,7 +4033,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="16">
+      <Measure number="13">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -4043,8 +4046,12 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
-      <Measure number="17">
+      <Measure number="14">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -4112,7 +4119,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="18">
+      <Measure number="15">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -4194,7 +4201,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="19">
+      <Measure number="16">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
@@ -4210,7 +4217,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="20">
+      <Measure number="17">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -4231,7 +4238,7 @@
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="21">
+      <Measure number="18">
         <Slur id="43">
           <track>4</track>
           </Slur>
@@ -4257,7 +4264,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="22">
+      <Measure number="19">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -4277,7 +4284,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="23">
+      <Measure number="20">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
@@ -4293,7 +4300,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="24">
+      <Measure number="21">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -4308,7 +4315,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="25">
+      <Measure number="22">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -4373,7 +4380,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="26">
+      <Measure number="23">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -4393,7 +4400,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="27">
+      <Measure number="24">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -4467,7 +4474,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="28">
+      <Measure number="25">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -4482,7 +4489,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="29">
+      <Measure number="26">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -4552,7 +4559,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="30">
+      <Measure number="27">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -4587,7 +4594,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="31">
+      <Measure number="28">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -4660,7 +4667,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="32">
+      <Measure number="29">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -4674,8 +4681,12 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
-      <Measure number="33">
+      <Measure number="30">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -4743,7 +4754,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="34">
+      <Measure number="31">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -4826,7 +4837,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="35">
+      <Measure number="32">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
@@ -4844,7 +4855,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="36">
+      <Measure number="33">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -4865,7 +4876,7 @@
           <span>1</span>
           </BarLine>
         </Measure>
-      <Measure number="37">
+      <Measure number="34">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -4933,7 +4944,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="38">
+      <Measure number="35">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -4968,7 +4979,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="39">
+      <Measure number="36">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -5044,7 +5055,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="40">
+      <Measure number="37">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -5079,7 +5090,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="41">
+      <Measure number="38">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -5144,7 +5155,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="42">
+      <Measure number="39">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -5164,7 +5175,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="43">
+      <Measure number="40">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -5234,7 +5245,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="44">
+      <Measure number="41">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -5249,7 +5260,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="45">
+      <Measure number="42">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -5315,7 +5326,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="46">
+      <Measure number="43">
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -5354,7 +5365,7 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="47">
+      <Measure number="44">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -5436,7 +5447,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="48">
+      <Measure number="45">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -5450,7 +5461,7 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="49">
+      <Measure number="46">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -5518,7 +5529,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="50">
+      <Measure number="47">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -5601,7 +5612,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="51">
+      <Measure number="48">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -5676,7 +5687,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="52">
+      <Measure number="49">
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -5759,7 +5770,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="53">
+      <Measure number="50">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -5833,7 +5844,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="54">
+      <Measure number="51">
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -5916,11 +5927,12 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="55">
+      <Measure number="52">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Lyrics>
+            <ticks>3840</ticks>
             <text>day.</text>
             </Lyrics>
           <Note>
@@ -5931,32 +5943,26 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="56">
+      <Measure number="53">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <Tie id="71">
-              </Tie>
             <endSpanner id="70"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="57">
+      <Measure number="54" len="2/4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="71"/>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
