@@ -536,16 +536,16 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>What</text>
+            <text>1. What</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>What</text>
+            <text>2. What</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>Would</text>
+            <text>3. Would</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -2232,11 +2232,6 @@
         </Measure>
       <Measure number="13">
         <stretch>0.9</stretch>
-        <Marker>
-          <style>Repeat Text Right</style>
-          <text>To Coda</text>
-          <label>coda</label>
-          </Marker>
         <Harmony>
           <root>12</root>
           </Harmony>
@@ -2414,11 +2409,12 @@
       <Measure number="14">
         <endRepeat>2</endRepeat>
         <stretch>0.9</stretch>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-1.7</yoffset>
-          <text>I.</text>
-          </StaffText>
+        <Marker>
+          <pos x="0.137138" y="-4.05707"/>
+          <style>Repeat Text Right</style>
+          <text>Fine</text>
+          <label>fine</label>
+          </Marker>
         <Volta id="26">
           <endHook>1</endHook>
           <beginText>
@@ -2503,6 +2499,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="16">
         <stretch>0.9</stretch>
@@ -2510,6 +2510,11 @@
           <root>17</root>
           <name>m</name>
           </Harmony>
+        <StaffText>
+          <pos x="0.617122" y="-3.94847"/>
+          <style>Form Section</style>
+          <text>Bridge</text>
+          </StaffText>
         <endSpanner id="27"/>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2951,6 +2956,7 @@
       <Measure number="23">
         <stretch>0.9</stretch>
         <Jump>
+          <pos x="0.0685691" y="-3.91994"/>
           <style>Repeat Text Right</style>
           <text>D.C.</text>
           <jumpTo>start</jumpTo>
