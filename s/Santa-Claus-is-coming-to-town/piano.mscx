@@ -486,6 +486,8 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -630,12 +632,15 @@
           <durationType>half</durationType>
           </Rest>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
             <text>You</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>-</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -645,7 +650,6 @@
       <Measure number="5">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="1">
           <StemDirection>up</StemDirection>
@@ -706,8 +710,11 @@
         <Harmony>
           <root>14</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
+        <Slur id="2">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -717,9 +724,11 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>auf,</text>
             </Lyrics>
+          <Slur type="start" id="2"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -732,6 +741,7 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <Slur type="stop" id="2"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -742,7 +752,6 @@
       <Measure number="6">
         <Harmony>
           <root>13</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="2">
           <StemDirection>up</StemDirection>
@@ -803,7 +812,6 @@
         <Harmony>
           <root>13</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -826,7 +834,6 @@
       <Measure number="7">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="3">
           <StemDirection>up</StemDirection>
@@ -889,7 +896,6 @@
         <Harmony>
           <root>14</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -929,7 +935,6 @@
       <Measure number="8">
         <Harmony>
           <root>13</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="4">
           <StemDirection>up</StemDirection>
@@ -990,7 +995,6 @@
         <Harmony>
           <root>13</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1013,7 +1017,6 @@
       <Measure number="9">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1056,7 +1059,6 @@
         <Harmony>
           <root>17</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1097,7 +1099,6 @@
         <Harmony>
           <root>16</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1141,7 +1142,6 @@
         <Harmony>
           <root>15</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <tick>18720</tick>
         <Chord>
@@ -1165,7 +1165,6 @@
       <Measure number="11">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1187,14 +1186,12 @@
         <Harmony>
           <root>17</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         </Measure>
       <Measure number="12">
         <Harmony>
           <root>16</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1202,7 +1199,6 @@
         <Harmony>
           <root>15</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Rest>
           <durationType>quarter</durationType>
@@ -1228,7 +1224,6 @@
       <Measure number="13">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="5">
           <StemDirection>up</StemDirection>
@@ -1289,7 +1284,6 @@
         <Harmony>
           <root>14</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1330,7 +1324,6 @@
       <Measure number="14">
         <Harmony>
           <root>13</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="6">
           <StemDirection>up</StemDirection>
@@ -1393,7 +1386,6 @@
         <Harmony>
           <root>13</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1416,7 +1408,6 @@
       <Measure number="15">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="7">
           <StemDirection>up</StemDirection>
@@ -1480,7 +1471,6 @@
         <Harmony>
           <root>14</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1521,7 +1511,6 @@
       <Measure number="16">
         <Harmony>
           <root>13</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="8">
           <StemDirection>up</StemDirection>
@@ -1582,7 +1571,6 @@
         <Harmony>
           <root>13</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1605,7 +1593,6 @@
       <Measure number="17">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1648,7 +1635,6 @@
         <Harmony>
           <root>17</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1689,7 +1675,6 @@
         <Harmony>
           <root>16</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1733,7 +1718,6 @@
         <Harmony>
           <root>15</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <tick>34080</tick>
         <Chord>
@@ -1757,7 +1741,6 @@
       <Measure number="19">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1779,7 +1762,6 @@
         <Harmony>
           <root>17</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         </Measure>
       <Measure number="20">
@@ -1790,7 +1772,6 @@
         <Harmony>
           <root>16</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <tick>37440</tick>
         <Rest>
@@ -1798,7 +1779,6 @@
           </Rest>
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1822,7 +1802,6 @@
         <Harmony>
           <root>15</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1861,7 +1840,6 @@
         <Harmony>
           <root>14</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1905,7 +1883,6 @@
       <Measure number="22">
         <Harmony>
           <root>13</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1967,7 +1944,6 @@
         <Harmony>
           <root>15</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2006,7 +1982,6 @@
         <Harmony>
           <root>14</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2052,7 +2027,6 @@
       <Measure number="24">
         <Harmony>
           <root>13</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2096,7 +2070,6 @@
         <Harmony>
           <root>16</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2174,7 +2147,6 @@
       <Measure number="26">
         <Harmony>
           <root>15</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2214,7 +2186,6 @@
         <Harmony>
           <root>18</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2246,7 +2217,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>wen</text>
+            <text>wenn</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2279,7 +2250,6 @@
         <Harmony>
           <root>17</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2320,7 +2290,6 @@
         <Harmony>
           <root>16</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2364,7 +2333,6 @@
       <Measure number="28">
         <Harmony>
           <root>15</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2389,8 +2357,11 @@
         <Harmony>
           <root>15</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
+        <Slur id="3">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2400,9 +2371,11 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>Oh!</text>
             </Lyrics>
+          <Slur type="start" id="3"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2415,6 +2388,7 @@
           <Lyrics>
             <text>You</text>
             </Lyrics>
+          <Slur type="stop" id="3"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -2425,7 +2399,6 @@
       <Measure number="29">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="10">
           <StemDirection>up</StemDirection>
@@ -2486,8 +2459,11 @@
         <Harmony>
           <root>14</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
+        <Slur id="4">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2497,9 +2473,11 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>auf,</text>
             </Lyrics>
+          <Slur type="start" id="4"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2512,6 +2490,7 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <Slur type="stop" id="4"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2522,7 +2501,6 @@
       <Measure number="30">
         <Harmony>
           <root>13</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="11">
           <StemDirection>up</StemDirection>
@@ -2583,7 +2561,6 @@
         <Harmony>
           <root>13</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2606,7 +2583,6 @@
       <Measure number="31">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="12">
           <StemDirection>up</StemDirection>
@@ -2669,7 +2645,6 @@
         <Harmony>
           <root>14</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2709,7 +2684,6 @@
       <Measure number="32">
         <Harmony>
           <root>13</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Beam id="13">
           <StemDirection>up</StemDirection>
@@ -2770,7 +2744,6 @@
         <Harmony>
           <root>13</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2793,7 +2766,6 @@
       <Measure number="33">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2836,7 +2808,6 @@
         <Harmony>
           <root>17</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2877,7 +2848,6 @@
         <Harmony>
           <root>16</root>
           <name>m</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2921,7 +2891,6 @@
         <Harmony>
           <root>15</root>
           <name>7</name>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
         <tick>64800</tick>
         <Chord>
@@ -2945,9 +2914,8 @@
       <Measure number="35">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
-        <Volta id="2">
+        <Volta id="5">
           <endHook>1</endHook>
           <beginText>
             <text>1.</text>
@@ -2970,21 +2938,34 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <tick>66240</tick>
+        <Harmony>
+          <root>17</root>
+          <name>m</name>
+          </Harmony>
         </Measure>
       <Measure number="36">
         <endRepeat>2</endRepeat>
+        <Harmony>
+          <root>16</root>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
+        <tick>68160</tick>
+        <Harmony>
+          <root>15</root>
+          <name>7</name>
+          </Harmony>
         </Measure>
       <Measure number="37">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-2.80486"/>
           </Harmony>
-        <endSpanner id="2"/>
-        <Volta id="3">
+        <endSpanner id="5"/>
+        <Volta id="6">
           <endHook>1</endHook>
           <beginText>
             <text>2.</text>
@@ -3007,17 +2988,38 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <tick>70080</tick>
+        <Harmony>
+          <root>17</root>
+          <name>m</name>
+          </Harmony>
         </Measure>
       <Measure number="38">
+        <Harmony>
+          <root>16</root>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
+        <tick>71520</tick>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
+        <tick>72000</tick>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <tick>72960</tick>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
-        <endSpanner id="3"/>
+        <endSpanner id="6"/>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -3138,7 +3140,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="4">
+            <Tie id="7">
               </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -3152,7 +3154,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="4"/>
+            <endSpanner id="7"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -3204,9 +3206,45 @@
           </Rest>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Tie id="8">
+              </Tie>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <endSpanner id="8"/>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="13">
@@ -3252,9 +3290,53 @@
           </Rest>
         </Measure>
       <Measure number="20">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Tie id="9">
+              </Tie>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <endSpanner id="9"/>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="21">
@@ -3383,7 +3465,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="5">
+            <Tie id="10">
               </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -3397,14 +3479,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="5"/>
+            <endSpanner id="10"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="37">
         <Harmony>
@@ -3462,7 +3548,7 @@
           <durationType>eighth</durationType>
           <Beam>14</Beam>
           <Note>
-            <Tie id="6">
+            <Tie id="11">
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -3471,7 +3557,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="6"/>
+            <endSpanner id="11"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>

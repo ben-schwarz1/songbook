@@ -565,13 +565,12 @@
           <Lyrics>
             <text>You</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>-</text>
+            </Lyrics>
           <Note>
-            <Symbol>
-              <name>noteheadParenthesisLeft</name>
-              </Symbol>
-            <Symbol>
-              <name>noteheadParenthesisRight</name>
-              </Symbol>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -641,6 +640,10 @@
           <root>14</root>
           <name>7</name>
           </Harmony>
+        <Slur id="2">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -650,9 +653,11 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>auf,</text>
             </Lyrics>
+          <Slur type="start" id="2"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -665,14 +670,9 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <Slur type="stop" id="2"/>
           <StemDirection>up</StemDirection>
           <Note>
-            <Symbol>
-              <name>noteheadParenthesisLeft</name>
-              </Symbol>
-            <Symbol>
-              <name>noteheadParenthesisRight</name>
-              </Symbol>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -2146,7 +2146,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>wen</text>
+            <text>wenn</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -2287,6 +2287,10 @@
           <root>15</root>
           <name>7</name>
           </Harmony>
+        <Slur id="3">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2296,9 +2300,11 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>Oh!</text>
             </Lyrics>
+          <Slur type="start" id="3"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2311,6 +2317,7 @@
           <Lyrics>
             <text>You</text>
             </Lyrics>
+          <Slur type="stop" id="3"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -2382,6 +2389,10 @@
           <root>14</root>
           <name>7</name>
           </Harmony>
+        <Slur id="4">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2391,9 +2402,11 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>auf,</text>
             </Lyrics>
+          <Slur type="start" id="4"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2406,6 +2419,7 @@
           <Lyrics>
             <text>you</text>
             </Lyrics>
+          <Slur type="stop" id="4"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2830,7 +2844,7 @@
         <Harmony>
           <root>14</root>
           </Harmony>
-        <Volta id="2">
+        <Volta id="5">
           <endHook>1</endHook>
           <beginText>
             <text>1.</text>
@@ -2879,8 +2893,8 @@
         <Harmony>
           <root>14</root>
           </Harmony>
-        <endSpanner id="2"/>
-        <Volta id="3">
+        <endSpanner id="5"/>
+        <Volta id="6">
           <endHook>1</endHook>
           <beginText>
             <text>2.</text>
@@ -2934,7 +2948,7 @@
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
-        <endSpanner id="3"/>
+        <endSpanner id="6"/>
         </Measure>
       </Staff>
     </Score>
