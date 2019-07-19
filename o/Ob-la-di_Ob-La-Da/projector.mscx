@@ -502,24 +502,39 @@
           </StaffType>
         <bracket type="-1" span="1"/>
         </Staff>
-      <trackName>Soprano</trackName>
+      <trackName>Voice</trackName>
       <Instrument>
-        <trackName>Soprano</trackName>
-        <minPitchP>60</minPitchP>
-        <maxPitchP>84</maxPitchP>
-        <minPitchA>60</minPitchA>
+        <longName>Voice</longName>
+        <shortName>Vo.</shortName>
+        <trackName>Voice</trackName>
+        <minPitchP>36</minPitchP>
+        <maxPitchP>94</maxPitchP>
+        <minPitchA>40</minPitchA>
         <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
           </Articulation>
         <Articulation name="staccato">
           <velocity>100</velocity>
           <gateTime>50</gateTime>
           </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
         <Articulation name="tenuto">
           <velocity>100</velocity>
           <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
           </Articulation>
         <Articulation name="sforzato">
           <velocity>120</velocity>
@@ -527,8 +542,6 @@
           </Articulation>
         <Channel>
           <program value="52"/>
-          <controller ctrl="93" value="30"/>
-          <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>

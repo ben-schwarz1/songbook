@@ -1111,6 +1111,7 @@
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
             <text>things</text>
             </Lyrics>
@@ -1135,11 +1136,6 @@
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
           <Beam>5</Beam>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>that</text>
-            </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
@@ -2443,8 +2439,8 @@
             <text>The</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
