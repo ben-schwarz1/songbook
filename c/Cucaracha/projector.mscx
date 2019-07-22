@@ -76,7 +76,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
         <family>Alegreya</family>
@@ -475,8 +475,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
         <System>
@@ -485,12 +483,20 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
       <Page>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         <System>
@@ -532,10 +538,20 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <StaffText>
+          <pos x="1.55151" y="-2.00392"/>
+          <style>Form Section</style>
+          <text>Refrain</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <text>Die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
             <text>Die</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -551,6 +567,12 @@
             <syllabic>begin</syllabic>
             <text>Cu</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Cu</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -562,6 +584,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
+            <text>ca</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
             <text>ca</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -584,6 +612,12 @@
             <syllabic>middle</syllabic>
             <text>ra</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ra</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -603,6 +637,12 @@
             <syllabic>end</syllabic>
             <text>cha,</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>cha,</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -618,6 +658,11 @@
           <Lyrics>
             <text>die</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -631,6 +676,12 @@
             <syllabic>begin</syllabic>
             <text>Cu</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Cu</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -642,6 +693,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
+            <text>ca</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
             <text>ca</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -663,6 +720,12 @@
             <syllabic>middle</syllabic>
             <text>ra</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ra</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -680,6 +743,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
+            <text>cha</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
             <text>cha</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -706,6 +775,12 @@
           <Lyrics>
             <text>sitzt</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>wir</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -717,6 +792,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>den</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>belnd,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -731,6 +812,12 @@
             <syllabic>begin</syllabic>
             <text>gan</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>tan</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
@@ -744,6 +831,12 @@
             <syllabic>end</syllabic>
             <text>zen</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>zend</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
@@ -756,6 +849,11 @@
           <Lyrics>
             <text>Tag</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>sind</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>62</pitch>
@@ -767,6 +865,11 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>zu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>wir</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -786,6 +889,11 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>Haus,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>froh,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -808,6 +916,11 @@
           <Lyrics>
             <text>denn</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -821,6 +934,12 @@
             <syllabic>begin</syllabic>
             <text>lei</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Cu</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -833,6 +952,12 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>der,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ca</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -854,6 +979,12 @@
             <syllabic>begin</syllabic>
             <text>lei</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ra</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
@@ -873,6 +1004,12 @@
             <syllabic>end</syllabic>
             <text>der</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>cha,</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -888,6 +1025,11 @@
           <Lyrics>
             <text>ist</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -901,6 +1043,12 @@
             <syllabic>begin</syllabic>
             <text>Cu</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Cu</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -912,6 +1060,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
+            <text>ca</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
             <text>ca</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -934,6 +1088,12 @@
             <syllabic>middle</syllabic>
             <text>ra</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ra</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
@@ -952,6 +1112,12 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>cha</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>cha,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -978,6 +1144,12 @@
           <Lyrics>
             <text>arm</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>schön</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -989,6 +1161,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>wie</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ster</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1003,6 +1181,11 @@
             <syllabic>begin</syllabic>
             <text>ei</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Tanz</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1015,6 +1198,11 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ne</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>in</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1029,6 +1217,12 @@
             <syllabic>begin</syllabic>
             <text>Kir</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Me</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -1041,6 +1235,12 @@
           <Lyrics>
             <syllabic>middle</syllabic>
             <text>chen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>xi</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1073,6 +1273,13 @@
             <ticks>720</ticks>
             <text>maus.</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <ticks>720</ticks>
+            <style>Lyrics Even Lines</style>
+            <text>ko!</text>
+            </Lyrics>
           <Slur type="start" id="3"/>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1099,6 +1306,11 @@
           <Lyrics>
             <text>Die</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Die</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -1112,6 +1324,12 @@
             <syllabic>begin</syllabic>
             <text>Cu</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Cu</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -1123,6 +1341,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
+            <text>ca</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
             <text>ca</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -1151,18 +1375,38 @@
             <syllabic>end</syllabic>
             <text>maus.</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ko!</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <StaffText>
+          <pos x="1.18645" y="0.0951864"/>
+          <style>Form Section</style>
+          <text>Strophen</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>Möch</text>
+            <text>1. Möch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>2. Wenn</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>3. Seht</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1177,6 +1421,15 @@
             <syllabic>end</syllabic>
             <text>te</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>man</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>die</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -1188,6 +1441,16 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>gern</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>tanzt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>stol</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1202,6 +1465,16 @@
             <syllabic>begin</syllabic>
             <text>spa</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>zen</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -1215,6 +1488,17 @@
             <syllabic>middle</syllabic>
             <text>zie</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Cu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Ca</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -1227,6 +1511,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ren</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ca</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>bal</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1249,6 +1544,17 @@
             <syllabic>begin</syllabic>
             <text>ge</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ra</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ler</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1261,6 +1567,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>hen,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>cha</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>os,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1286,6 +1603,15 @@
           <Lyrics>
             <text>sich</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>wie</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1297,6 +1623,15 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>sie</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1311,6 +1646,16 @@
             <syllabic>begin</syllabic>
             <text>gro</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>hör</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>wer</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1324,6 +1669,17 @@
             <syllabic>end</syllabic>
             <text>ße</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Mu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>fen</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -1335,6 +1691,16 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>Stadt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>sik</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>die</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1348,6 +1714,17 @@
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>an</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>er</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>som</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1370,6 +1747,17 @@
             <syllabic>middle</syllabic>
             <text>se</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>klin</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>bre</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -1382,6 +1770,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>hen,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gen,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>ros!</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1409,6 +1808,16 @@
             <syllabic>begin</syllabic>
             <text>möch</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>muss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Se</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -1422,6 +1831,16 @@
             <syllabic>end</syllabic>
             <text>te</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>no</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -1434,6 +1853,17 @@
           <Lyrics>
             <text>durch</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ri</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
@@ -1445,6 +1875,17 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>len</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>tas,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1459,6 +1900,15 @@
             <syllabic>begin</syllabic>
             <text>Stra</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>auf</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>voll</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -1471,6 +1921,16 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ßen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Ent</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1493,6 +1953,17 @@
             <syllabic>begin</syllabic>
             <text>lauf</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Pla</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>zü</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -1505,6 +1976,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>fen,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>za</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>cken,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1531,6 +2013,16 @@
           <Lyrics>
             <text>sich</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>lo</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -1542,6 +2034,16 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>im</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>cken</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1556,6 +2058,17 @@
             <syllabic>begin</syllabic>
             <text>hüb</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Tan</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>lä</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1568,6 +2081,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>sches</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ze</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>cheln</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1582,6 +2106,15 @@
             <syllabic>begin</syllabic>
             <text>Kleid</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>mich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>und</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -1594,6 +2127,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>chen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>mit</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>be</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1615,6 +2159,17 @@
             <syllabic>begin</syllabic>
             <text>kau</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>schwin</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>rü</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -1627,6 +2182,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>fen.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gen.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>cken.</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1653,6 +2219,15 @@
             <syllabic>begin</syllabic>
             <text>Ar</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Wenn</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>Seht</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -1665,6 +2240,15 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>me,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>man</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>die</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1679,6 +2263,16 @@
             <syllabic>begin</syllabic>
             <text>klei</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>tanzt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>sto</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -1691,6 +2285,16 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ne</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>lzen</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1705,6 +2309,17 @@
             <syllabic>begin</syllabic>
             <text>Cu</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Cu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Ca</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -1717,6 +2332,17 @@
           <Lyrics>
             <syllabic>middle</syllabic>
             <text>ca</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ca</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>bal</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1738,6 +2364,17 @@
             <syllabic>middle</syllabic>
             <text>ra</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ra</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ler</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1750,6 +2387,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>cha,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>cha,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>os,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1775,6 +2423,15 @@
           <Lyrics>
             <text>schaut</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>wie</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1786,6 +2443,15 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>so</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>sie</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1800,6 +2466,16 @@
             <syllabic>begin</syllabic>
             <text>trau</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>hör</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>wer</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -1813,6 +2489,17 @@
             <syllabic>end</syllabic>
             <text>rig</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Mu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>fen</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -1825,6 +2512,16 @@
           <Lyrics>
             <text>aus</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>sik</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>die</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -1836,6 +2533,17 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>dem</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>er</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Som</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1858,6 +2566,17 @@
             <syllabic>begin</syllabic>
             <text>Fen</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>klin</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>bre</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -1870,6 +2589,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ster.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gen,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>ros!</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1897,6 +2627,16 @@
             <syllabic>begin</syllabic>
             <text>Ih</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>muss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Se</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>60</pitch>
@@ -1909,6 +2649,16 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>re</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>no</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1923,6 +2673,17 @@
             <syllabic>begin</syllabic>
             <text>Au</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ri</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
@@ -1936,6 +2697,17 @@
             <syllabic>end</syllabic>
             <text>gen</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>len</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>tas,</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>64</pitch>
@@ -1948,6 +2720,15 @@
           <Lyrics>
             <text>sind</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>auf</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>voll</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -1959,6 +2740,16 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>voll</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Ent</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1981,6 +2772,17 @@
             <syllabic>begin</syllabic>
             <text>Trä</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Pla</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>zü</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -1993,6 +2795,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>nen,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>za</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>cken,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -2019,6 +2832,16 @@
           <Lyrics>
             <text>sie</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>lo</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -2030,6 +2853,16 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>ist</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>im</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>cken</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -2044,6 +2877,17 @@
             <syllabic>begin</syllabic>
             <text>ein</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Tan</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>lä</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -2057,6 +2901,17 @@
             <syllabic>end</syllabic>
             <text>sam</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ze</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>chelnd</text>
+            </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
@@ -2067,6 +2922,15 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <text>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>mich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
             <text>und</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -2082,6 +2946,16 @@
             <syllabic>begin</syllabic>
             <text>al</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>mit</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>be</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -2096,10 +2970,22 @@
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
+          <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>lein.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>schwin</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>rü</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -2107,39 +2993,35 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Beam id="1">
-          <StemDirection>down</StemDirection>
-          </Beam>
-        <Chord>
-          <BeamMode>begin</BeamMode>
-          <durationType>eighth</durationType>
-          <Beam>1</Beam>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <head>1</head>
-            </Note>
-          </Chord>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Beam>1</Beam>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>cken.</text>
+            </Lyrics>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <Symbol>
+              <name>noteheadParenthesisLeft</name>
+              </Symbol>
+            <Symbol>
+              <name>noteheadParenthesisRight</name>
+              </Symbol>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             <head>1</head>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
+        <Rest>
           <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <head>1</head>
-            </Note>
-          </Chord>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
