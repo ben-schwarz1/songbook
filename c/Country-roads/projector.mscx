@@ -692,7 +692,7 @@
           <Beam>3</Beam>
           <Lyrics>
             <syllabic>middle</syllabic>
-            <text>gin</text>
+            <text>gi</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -726,7 +726,7 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <ticks>360</ticks>
-            <text>ia,</text>
+            <text>nia,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -938,7 +938,7 @@
           <durationType>16th</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>Ri</text>
+            <text>Riv</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -966,7 +966,7 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <ticks>120</ticks>
-            <text>ver.</text>
+            <text>er.</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1497,6 +1497,7 @@
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
+            <ticks>120</ticks>
             <text>take</text>
             </Lyrics>
           <Slur type="start" id="11"/>
@@ -1759,7 +1760,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>mom</text>
+            <text>mam</text>
             </Lyrics>
           <Note>
             <pitch>66</pitch>
@@ -1771,6 +1772,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text>ma,</text>
             </Lyrics>
           <Note>
@@ -1796,7 +1798,8 @@
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
-            <text>take</text>
+            <ticks>120</ticks>
+            <text>Take</text>
             </Lyrics>
           <Slur type="start" id="15"/>
           <Note>
@@ -1896,10 +1899,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>end-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="17">
         <stretch>0.9</stretch>
@@ -2036,7 +2035,7 @@
           <durationType>eighth</durationType>
           <Beam>23</Beam>
           <Lyrics>
-            <text>hour</text>
+            <text>hours</text>
             </Lyrics>
           <Note>
             <pitch>68</pitch>
@@ -2086,7 +2085,7 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
+          <BeamMode>begin</BeamMode>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2115,6 +2114,7 @@
           </Harmony>
         <Chord>
           <BeamMode>begin</BeamMode>
+          <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
@@ -2127,7 +2127,7 @@
           </Chord>
         <Chord>
           <BeamMode>end</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>16th</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
             <text>di</text>
@@ -2154,28 +2154,13 @@
           </Chord>
         <Chord>
           <BeamMode>mid</BeamMode>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Beam>25</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>re</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>end</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>25</Beam>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>minds</text>
-            </Lyrics>
-          <Note>
-            <Tie id="17">
-              </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -2189,8 +2174,11 @@
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>26</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>minds</text>
+            </Lyrics>
           <Note>
-            <endSpanner id="17"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -2252,6 +2240,7 @@
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
+          <dots>1</dots>
           <durationType>eighth</durationType>
           <Beam>27</Beam>
           <Lyrics>
@@ -2263,7 +2252,7 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>mid</BeamMode>
+          <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>27</Beam>
           <Lyrics>
@@ -2276,27 +2265,14 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>end</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>27</Beam>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <ticks>120</ticks>
-            <text>way,</text>
-            </Lyrics>
-          <Note>
-            <Tie id="18">
-              </Tie>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>way</text>
+            </Lyrics>
           <Note>
-            <endSpanner id="18"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2382,7 +2358,7 @@
             <text>road</text>
             </Lyrics>
           <Note>
-            <Tie id="19">
+            <Tie id="17">
               </Tie>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -2398,7 +2374,7 @@
           <durationType>eighth</durationType>
           <Beam>30</Beam>
           <Note>
-            <endSpanner id="19"/>
+            <endSpanner id="17"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2510,7 +2486,8 @@
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
-          <durationType>16th</durationType>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
           <Beam>34</Beam>
           <Lyrics>
             <text>should</text>
@@ -2521,8 +2498,8 @@
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>mid</BeamMode>
-          <durationType>eighth</durationType>
+          <BeamMode>end</BeamMode>
+          <durationType>16th</durationType>
           <Beam>34</Beam>
           <Lyrics>
             <text>have</text>
@@ -2532,35 +2509,22 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>end</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>34</Beam>
-          <Lyrics>
-            <text>been</text>
-            </Lyrics>
-          <Note>
-            <Tie id="20">
-              </Tie>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
         <Beam id="35">
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Beam>35</Beam>
+          <Lyrics>
+            <text>been</text>
+            </Lyrics>
           <Note>
-            <endSpanner id="20"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>end</BeamMode>
-          <dots>1</dots>
           <durationType>eighth</durationType>
           <Beam>35</Beam>
           <Lyrics>
@@ -2615,7 +2579,7 @@
             <text>day,</text>
             </Lyrics>
           <Note>
-            <Tie id="21">
+            <Tie id="18">
               </Tie>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -2625,7 +2589,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="21"/>
+            <endSpanner id="18"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2668,7 +2632,7 @@
             <text>day.</text>
             </Lyrics>
           <Note>
-            <Tie id="22">
+            <Tie id="19">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2676,7 +2640,6 @@
           </Chord>
         </Measure>
       <Measure number="24">
-        <endRepeat>2</endRepeat>
         <stretch>0.9</stretch>
         <Jump>
           <style>Repeat Text Right</style>
@@ -2694,7 +2657,7 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="22"/>
+            <endSpanner id="19"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -2727,6 +2690,10 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     </Score>
