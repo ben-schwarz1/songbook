@@ -65,7 +65,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>6</yoffset>
+        <yoffset>7</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>Alegreya</family>
@@ -441,8 +441,8 @@
         <page-height>850.394</page-height>
         <page-width>1133.86</page-width>
         <page-margins type="both">
-          <left-margin>56.6929</left-margin>
-          <right-margin>56.6929</right-margin>
+          <left-margin>28.3465</left-margin>
+          <right-margin>28.3465</right-margin>
           <top-margin>56.6929</top-margin>
           <bottom-margin>56.6929</bottom-margin>
           </page-margins>
@@ -476,14 +476,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -518,6 +510,8 @@
           </System>
         </Page>
       <Page>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -579,23 +573,36 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>9.8795</height>
+        <height>5.29114</height>
         </VBox>
       <Measure number="1">
-        <stretch>0.3</stretch>
+        <stretch>0</stretch>
         <KeySig>
           <accidental>4</accidental>
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="273"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="273"/>
+            <Node pos="28" action="512"/>
+            </Groups>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
-          <pos x="2.12564" y="-2.02854"/>
+          <pos x="-5.03967" y="-3.24127"/>
           <style>Form Section</style>
           <text>Strophe 1</text>
           </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -648,6 +655,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -701,7 +713,11 @@
           </Chord>
         </Measure>
       <Measure number="2">
-        <stretch>0.3</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -755,6 +771,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -807,7 +827,11 @@
           </Chord>
         </Measure>
       <Measure number="3">
-        <stretch>0.3</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -862,6 +886,12 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <pos x="0" y="-1.61334"/>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -918,7 +948,11 @@
           </Chord>
         </Measure>
       <Measure number="4">
-        <stretch>0.3</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -972,6 +1006,13 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>21</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>19</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -1028,7 +1069,11 @@
           </Chord>
         </Measure>
       <Measure number="5">
-        <stretch>0.3</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1072,6 +1117,11 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1125,7 +1175,11 @@
           </Chord>
         </Measure>
       <Measure number="6">
-        <stretch>0.3</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1179,6 +1233,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1231,7 +1289,11 @@
           </Chord>
         </Measure>
       <Measure number="7">
-        <stretch>0.3</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1286,6 +1348,12 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <pos x="0" y="-1.61334"/>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1342,10 +1410,14 @@
           </Chord>
         </Measure>
       <Measure number="8">
-        <stretch>0.3</stretch>
+        <stretch>0</stretch>
         <LayoutBreak>
-          <subtype>line</subtype>
+          <subtype>page</subtype>
           </LayoutBreak>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1397,6 +1469,13 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>21</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>19</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -1438,14 +1517,23 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="9">
         <stretch>0</stretch>
+        <vspacerUp>6.68653</vspacerUp>
         <StaffText>
-          <pos x="2.12564" y="-2.02854"/>
+          <pos x="-0.357622" y="-3.25677"/>
           <style>Form Section</style>
           <text>Strophe 2</text>
           </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1501,6 +1589,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1558,6 +1651,10 @@
         </Measure>
       <Measure number="10">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1600,6 +1697,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -1657,6 +1758,10 @@
         </Measure>
       <Measure number="11">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1709,6 +1814,12 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <pos x="0" y="-1.61334"/>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1764,6 +1875,10 @@
         </Measure>
       <Measure number="12">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1807,6 +1922,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -1864,6 +1983,10 @@
         </Measure>
       <Measure number="13">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1918,6 +2041,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1976,6 +2104,10 @@
         </Measure>
       <Measure number="14">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2019,6 +2151,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2042,7 +2178,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>wär</text>
+            <text>wär.</text>
             </Lyrics>
           <Note>
             <pitch>66</pitch>
@@ -2063,6 +2199,10 @@
         </Measure>
       <Measure number="15">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2104,6 +2244,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -2148,11 +2293,8 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
         <Chord>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
             <text>nur</text>
             </Lyrics>
@@ -2164,6 +2306,13 @@
         </Measure>
       <Measure number="16">
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>page</subtype>
+          </LayoutBreak>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2218,6 +2367,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2250,29 +2403,35 @@
           <Note>
             <Tie id="28">
               </Tie>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <endSpanner id="28"/>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="17">
         <stretch>0</stretch>
+        <vspacerUp>8.1128</vspacerUp>
         <StaffText>
-          <pos x="2.12564" y="-2.02854"/>
+          <pos x="0.878929" y="-4.86197"/>
           <style>Form Section</style>
           <text>Strophe 3</text>
           </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2327,6 +2486,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2374,6 +2538,10 @@
         </Measure>
       <Measure number="18">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2416,6 +2584,10 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2463,6 +2635,10 @@
         </Measure>
       <Measure number="19">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2516,6 +2692,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2561,6 +2742,10 @@
         </Measure>
       <Measure number="20">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2603,6 +2788,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2660,6 +2849,10 @@
         </Measure>
       <Measure number="21">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2704,6 +2897,11 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2760,6 +2958,10 @@
         </Measure>
       <Measure number="22">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2802,6 +3004,10 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2849,6 +3055,10 @@
         </Measure>
       <Measure number="23">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2890,6 +3100,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -2947,6 +3162,13 @@
         </Measure>
       <Measure number="24">
         <stretch>0</stretch>
+        <LayoutBreak>
+          <subtype>page</subtype>
+          </LayoutBreak>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3001,6 +3223,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3038,16 +3264,13 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <endSpanner id="35"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <BarLine>
           <subtype>double</subtype>
           <span>1</span>
@@ -3055,11 +3278,16 @@
         </Measure>
       <Measure number="25">
         <stretch>0</stretch>
+        <vspacerUp>9.5635</vspacerUp>
         <StaffText>
-          <pos x="2.12564" y="-2.02854"/>
+          <pos x="0.368911" y="-4.86197"/>
           <style>Form Section</style>
           <text>Strophe 4</text>
           </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3114,6 +3342,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3171,6 +3404,10 @@
         </Measure>
       <Measure number="26">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3178,8 +3415,8 @@
             <text>Streich</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3189,8 +3426,8 @@
             <text>holz</text>
             </Lyrics>
           <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3199,8 +3436,8 @@
             <text>und</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3214,6 +3451,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -3262,7 +3503,7 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <ticks>120</ticks>
-            <text>ter</text>
+            <text>ter,</text>
             </Lyrics>
           <Note>
             <Tie id="39">
@@ -3282,6 +3523,10 @@
         </Measure>
       <Measure number="27">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3335,6 +3580,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3391,6 +3641,10 @@
         </Measure>
       <Measure number="28">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3434,6 +3688,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -3491,6 +3749,10 @@
         </Measure>
       <Measure number="29">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3544,6 +3806,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3590,14 +3857,18 @@
         </Measure>
       <Measure number="30">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>Mann,</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3606,8 +3877,8 @@
             <text>wer</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3617,8 +3888,8 @@
             <text>hät</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3632,6 +3903,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3670,6 +3945,10 @@
         </Measure>
       <Measure number="31">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3712,6 +3991,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
@@ -3781,8 +4065,12 @@
       <Measure number="32">
         <stretch>0</stretch>
         <LayoutBreak>
-          <subtype>line</subtype>
+          <subtype>page</subtype>
           </LayoutBreak>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3837,6 +4125,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3874,24 +4166,30 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <endSpanner id="47"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="33">
         <stretch>0</stretch>
+        <vspacerUp>11.1603</vspacerUp>
         <StaffText>
-          <pos x="2.12564" y="-2.02854"/>
+          <pos x="0.0288984" y="-5.76867"/>
           <style>Form Section</style>
           <text>Strophe 5</text>
           </StaffText>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3946,6 +4244,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3982,6 +4285,10 @@
         </Measure>
       <Measure number="34">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4026,6 +4333,10 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4071,6 +4382,10 @@
         </Measure>
       <Measure number="35">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4125,6 +4440,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4157,7 +4477,11 @@
           </Chord>
         </Measure>
       <Measure number="36">
-        <stretch>0.8</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4200,6 +4524,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4231,16 +4559,16 @@
           <Note>
             <Tie id="50">
               </Tie>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
             <endSpanner id="50"/>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4256,7 +4584,11 @@
           </Chord>
         </Measure>
       <Measure number="37">
-        <stretch>0.6</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4311,6 +4643,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4357,7 +4694,11 @@
           </Chord>
         </Measure>
       <Measure number="38">
-        <stretch>0.5</stretch>
+        <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4398,6 +4739,10 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>19</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4445,6 +4790,10 @@
         </Measure>
       <Measure number="39">
         <stretch>0</stretch>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4497,6 +4846,11 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>20</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4534,7 +4888,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>den</text>
+            <text>den,</text>
             </Lyrics>
           <Note>
             <pitch>61</pitch>
@@ -4544,6 +4898,10 @@
         </Measure>
       <Measure number="40">
         <stretch>0</stretch>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4584,6 +4942,13 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>21</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>19</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4619,13 +4984,33 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text>gen.</text>
             </Lyrics>
           <Note>
+            <Tie id="53">
+              </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="41">
+        <stretch>0</stretch>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <endSpanner id="53"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>

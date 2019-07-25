@@ -1,0 +1,28 @@
+{
+    "files.exclude": {
+        "**/*.mscx,": true,
+        "**/*.mscz": true,
+        "**/*.mscz,": true,
+        "**/*.pdf": true,
+        "**/*.DS_Store": true,
+        "**/*_bak.mscx": true,
+        "**/*_tmp.mscx": true,
+        "**/*.svg": true,
+        "**/songs.json": true,
+        "**/*.mtime": true,
+        "**/update.log": true,
+        "**/*.mp3": true,
+        "**/*.m4a": true,
+        "**/piano/": true,
+        ".node-persist/*": true,
+        "**/*.aux": true,
+        "**/*.fdb_latexmk": true,
+        "**/*.fls": true,
+        "**/*.log": true,
+        "**/*.synctex.gz": true,
+        "**/songs.tex": true,
+        "**/*.toc": true,
+        "**/*.db": true,
+        "**/*.eps": true
+    }
+}

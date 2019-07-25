@@ -1771,6 +1771,7 @@
           <durationType>half</durationType>
           <Note>
             <Tie id="18">
+              <lineType>1</lineType>
               </Tie>
             <endSpanner id="17"/>
             <pitch>67</pitch>
@@ -2644,7 +2645,7 @@
             <no>1</no>
             <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
-            <text>to;</text>
+            <text>to,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
