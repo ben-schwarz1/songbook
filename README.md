@@ -33,18 +33,20 @@ named as follows: `Title-of-the-Song`
 
 ```yml
 ---
-title: Lemon tree
-subtitle:
 alias: I’m sitting here
+arranger: Max Mustermann
 artist: Fools Garden
-lyricist:
 composer: Heinz Müller / Manfred Meier
 country: Deutschland
+description:
+genre: Spiritual
+lyricist:
 musescore: https://musescore.com/user/12559861/scores/4801717
 source: http://wikifonia.org/node/9928/revisions/13488/view
+subtitle:
+title: Lemon tree
+wikipedia: en:A-article
 year: 1965
-genre: Spiritual
-arranger: Max Mustermann
 youtube: CQYypFMTQcE
 ```
 
