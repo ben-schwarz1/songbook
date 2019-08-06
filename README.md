@@ -41,7 +41,7 @@ country: Deutschland
 description:
 genre: Spiritual
 lyricist:
-musescore: https://musescore.com/user/12559861/scores/4801717
+musescore: 4801717
 source: http://wikifonia.org/node/9928/revisions/13488/view
 subtitle:
 title: Lemon tree
