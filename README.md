@@ -31,27 +31,48 @@ named as follows: `Title-of-the-Song`
 
 `info.yml`
 
+### Description of the meta data fields:
+
+* `alias`: Alias for a song title, e. g. “Sehnsucht nach dem Frühlinge” “Komm, lieber Mai, und mache”
+* `arranger`: The arranger of a song.
+* `artist`: The artist of a song.
+* `composer`: The composer of a song.
+* `country`: The country the song is from.
+* `description`: A longer text which describes the song.
+* `genre`: The genre of the song.
+* `lyricist`: The lyricist of the song.
+* `musescore`: The MuseScore score ID from musescore.com, for example the score ID from https://musescore.com/user/1601631/scores/1299601 is 1299601.
+* `source`: A text or a URL which describes the source of a song.
+* `subtitle`: The subtitle of a song.
+* `title`: The title of a song.
+* `wikidata`: The Wikidata data item ID (without the Q prefix)
+* `wikipedia`: ID of a wikipedia article (e. g. en:A_Article)
+* `year`: The year the song was released.
+* `youtube`: The youtube ID (e. g. CQYypFMTQcE)
+
+### Example
+
 ```yml
 ---
 alias: I’m sitting here
 arranger: Max Mustermann
 artist: Fools Garden
-composer: Heinz Müller / Manfred Meier
+composer: Heinz Müller, Manfred Meier
 country: Deutschland
-description:
+description: Bla bla lba
 genre: Spiritual
-lyricist:
+lyricist: Johann Wolfgang von Goethe
 musescore: 4801717
 source: http://wikifonia.org/node/9928/revisions/13488/view
-subtitle:
+subtitle: A Song about a Lemon Tree
 title: Lemon tree
-wikipedia: en:A-article
-wikidata: 1234 (without Q)
+wikidata: 42
+wikipedia: en:A_Article
 year: 1965
 youtube: CQYypFMTQcE
 ```
 
-### Mapping
+## Meta data mapping
 
 * combined.title: title (year)
 * combined.subtitle: subtitle - alias - country
