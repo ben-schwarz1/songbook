@@ -521,21 +521,21 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>1.My</text>
+            <text>1. My</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>2.Last</text>
+            <text>2. Last</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>3.Oh,</text>
+            <text>3. Oh,</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>4.The</text>
+            <text>4. The</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -745,12 +745,14 @@
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
+            <ticks>480</ticks>
             <style>Lyrics Even Lines</style>
             <text>low,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
+            <ticks>480</ticks>
             <text>cean</text>
             </Lyrics>
           <Lyrics>
@@ -969,19 +971,23 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
+            <ticks>720</ticks>
             <text>sea,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>bed,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>720</ticks>
             <text>sea;</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>sea;</text>
             </Lyrics>
@@ -1229,17 +1235,20 @@
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
+            <ticks>480</ticks>
             <style>Lyrics Even Lines</style>
             <text>low,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
+            <ticks>480</ticks>
             <text>cean</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>end</syllabic>
+            <ticks>480</ticks>
             <style>Lyrics Even Lines</style>
             <text>cean</text>
             </Lyrics>
@@ -1451,19 +1460,23 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
+            <ticks>720</ticks>
             <text>me.</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>dead.</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>720</ticks>
             <text>me.</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>720</ticks>
             <style>Lyrics Even Lines</style>
             <text>me.</text>
             </Lyrics>
@@ -1633,6 +1646,9 @@
         <Slur id="6">
           <track>0</track>
           </Slur>
+        <Slur id="7">
+          <track>0</track>
+          </Slur>
         <Beam id="1">
           </Beam>
         <Chord>
@@ -1640,9 +1656,11 @@
           <durationType>eighth</durationType>
           <Beam>1</Beam>
           <Lyrics>
+            <ticks>480</ticks>
             <text>me,</text>
             </Lyrics>
           <Slur type="start" id="6"/>
+          <Slur type="start" id="7"/>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -1662,6 +1680,7 @@
           <durationType>eighth</durationType>
           <Beam>1</Beam>
           <Slur type="stop" id="6"/>
+          <Slur type="stop" id="7"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>

@@ -517,30 +517,30 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>Auf</text>
+            <text>1. Auf</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>2.</text>
+            <text>2. Auf</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>3.</text>
+            <text>3. Auf</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>4.</text>
+            <text>4. Auf</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text>5.</text>
+            <text>5. Auf</text>
             </Lyrics>
           <Lyrics>
             <no>5</no>
             <style>Lyrics Even Lines</style>
-            <text>6.</text>
+            <text>6. Auf</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -556,25 +556,25 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>Auf</text>
+            <text>...</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>Auf</text>
+            <text>...</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>Auf</text>
+            <text>...</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text>Auf</text>
+            <text>...</text>
             </Lyrics>
           <Lyrics>
             <no>5</no>
             <style>Lyrics Even Lines</style>
-            <text>Auf</text>
+            <text>...</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -587,29 +587,6 @@
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>Mau</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>...</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>...</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>...</text>
-            </Lyrics>
-          <Lyrics>
-            <no>4</no>
-            <text>...</text>
-            </Lyrics>
-          <Lyrics>
-            <no>5</no>
-            <style>Lyrics Even Lines</style>
-            <text>...</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -748,15 +725,18 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>960</ticks>
             <text>Wan,</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>960</ticks>
             <style>Lyrics Even Lines</style>
             <text>Wa,</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
+            <ticks>960</ticks>
             <text>W,</text>
             </Lyrics>
           <Lyrics>
@@ -958,15 +938,18 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>960</ticks>
             <text>Wan,</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>960</ticks>
             <style>Lyrics Even Lines</style>
             <text>Wa,</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
+            <ticks>960</ticks>
             <text>W,</text>
             </Lyrics>
           <Lyrics>
@@ -1066,15 +1049,18 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>480</ticks>
             <text>Wan</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>480</ticks>
             <style>Lyrics Even Lines</style>
             <text>Wa</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
+            <ticks>480</ticks>
             <text>W</text>
             </Lyrics>
           <Lyrics>
@@ -1159,15 +1145,18 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>480</ticks>
             <text>Wan</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>480</ticks>
             <style>Lyrics Even Lines</style>
             <text>Wa</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
+            <ticks>480</ticks>
             <text>W</text>
             </Lyrics>
           <Lyrics>
@@ -1218,15 +1207,18 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>480</ticks>
             <text>tan</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>480</ticks>
             <style>Lyrics Even Lines</style>
             <text>ta</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
+            <ticks>480</ticks>
             <text>t</text>
             </Lyrics>
           <Lyrics>
@@ -1439,15 +1431,18 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>960</ticks>
             <text>Wan.</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>960</ticks>
             <style>Lyrics Even Lines</style>
             <text>Wa.</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
+            <ticks>960</ticks>
             <text>W.</text>
             </Lyrics>
           <Lyrics>
